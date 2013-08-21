@@ -1,5 +1,5 @@
 Shepherd's Staff customers can submit their database to our
-Technical Support team for conversion to Church360Â°. Follow the
+Technical Support team for conversion to Church360°. Follow the
 on-screen instructions to select and submit your database: ![Importing
 data from Shepherd's
 Staff.](Import.JPG "Importing data from Shepherd's Staff.")
@@ -11,7 +11,7 @@ via the **<Feedback>** link, or by phone at 1-800-346-6120.
 * * * * *
 
 **Feedback**: Click **<Feedback>** to ask for help, report a problem, or
-make a suggestion to the Church360Â° Team.
+make a suggestion to the Church360° Team.
 
 **Print** : Click to preview or print a report listing Sunday School
 Grades.

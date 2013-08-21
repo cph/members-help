@@ -11,7 +11,7 @@ To delete a report, click the grey minus circle symbol, click the red
 Reports cannot be deleted from your system.
 
 **Feedback**: Click **<Feedback>** to ask for help, report a problem, or
-make a suggestion to the Church360Â° Team.
+make a suggestion to the Church360° Team.
 
 **Print**: Click **Print** to preview or print a listing of your current
 reports.

@@ -9,7 +9,7 @@ This page allows administrators to set the following global settings for
     screen](account:%20Login) and above the main menu on the left side
     of all screens, mark the box to ***Show my church's logo***, and use
     the ***Browse...*** button to select and upload an image file to
-    display. Logos in Church360Â° can be uploaded from files saved in
+    display. Logos in Church360° can be uploaded from files saved in
     the following image file formats: JPEG, PNG, BMP, TIFF, and GIF.
 
 
@@ -17,6 +17,6 @@ This page allows administrators to set the following global settings for
 * * * * *
 
 **Feedback**: Click **<Feedback>** to ask for help, report a problem, or
-make a suggestion to the Church360Â° Team.
+make a suggestion to the Church360° Team.
 
 * * * * *

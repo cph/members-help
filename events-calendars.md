@@ -34,7 +34,7 @@ Deletion](Events_Calendars_06.JPG "Confirm Deletion")
 * * * * *
 
 Click **<Feedback>** to ask for help, report a problem, or make a
-suggestion to the Church360Â° Team.
+suggestion to the Church360° Team.
 
 Click **Export** to export the calendar list to a CSV (Comma-Separated
 Values) formatted data file. CSV is a widely-supported data format which

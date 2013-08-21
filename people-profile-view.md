@@ -19,7 +19,7 @@ your changes: ![Update](People_Profile_02.JPG "Update")
 
 Underneath the person's name is their current member status (this was
 initially set when the [person was added](people:%20New%20Person) to
-your Church360Â° database): ![Member
+your Church360° database): ![Member
 Status](People_Profile_03.JPG "Member Status")
 
 #### Viewing Status History
@@ -137,7 +137,7 @@ Click on the **Browse...** button to locate a file:
 Locate your image file, select it, and click the **Open** button: ![Open
 File](People_Profile_20.JPG "Open File")
 
-Photos in Church360Â° can be uploaded from files saved in the following
+Photos in Church360° can be uploaded from files saved in the following
 image file formats: JPEG, PNG, BMP, TIFF, and GIF.
 
 Click the **Accept** button: ![Accept](People_Profile_21.JPG "Accept")
@@ -416,7 +416,7 @@ You can set this to the following options:
 -   Anyone: All users can view the note.
 -   Only members of the selected **Permissions Group**: The groups
     listed separately, below the Anyone option, are the Permission
-    Groups for your Church360Â° database. Only those users who are
+    Groups for your Church360° database. Only those users who are
     members of the selected group would be able to view the note (In our
     example above, Administrators, Blocked, General Users, Pastors, and
     Volunteers are the current Permission Groups for this church).
@@ -462,7 +462,7 @@ to visits showing on the [Profile View](people:%20Profile%20View) or
 * * * * *
 
 **Feedback**: Click **<Feedback>** to ask for help, report a problem, or
-make a suggestion to the Church360Â° Team.
+make a suggestion to the Church360° Team.
 
 **Export**: Click to export out this person's contact data as a vCard
 file.

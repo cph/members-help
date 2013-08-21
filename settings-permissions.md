@@ -96,7 +96,7 @@ Supervisory permissions
 
 \<\\!--Each permission group has six categories of security settings
 (People, Events, Attendance, Offerings, Settings, and Self) which
-correspond to the main menu items in Church360Â° (with the exception of
+correspond to the main menu items in Church360° (with the exception of
 Self, which is explained below). Each of the categories has their own
 levels of permissions. Those six categories and their corresponding
 levels of permission break down as follows:
@@ -159,7 +159,7 @@ button on the right, click the red ***Delete*** button, then click the
 * * * * *
 
 **Feedback**: Click **<Feedback>** to ask for help, report a problem, or
-make a suggestion to the Church360Â° Team.
+make a suggestion to the Church360° Team.
 
 **Print** : Click to preview or print a report showing the permission
 information that is currently displayed.

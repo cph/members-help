@@ -94,7 +94,7 @@ button](Events_Edit_05.JPG "Delete button")
 * * * * *
 
 **Feedback**: Click **<Feedback>** to ask for help, report a problem, or
-make a suggestion to the Church360Â° Team.
+make a suggestion to the Church360° Team.
 
 **Export**: Click **Export** to export the event's information as an
 iCalendar (.ics) file (for importing into another calendar/scheduling

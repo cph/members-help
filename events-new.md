@@ -14,7 +14,7 @@ In addition, each Event created must have either a **Start Time** and an
 
 -   **Event Name**: name of the event.
 -   **Calendar**: Chose from the list of
-    [Calendars](events:%20Calendars) in your Church360Â° database. New
+    [Calendars](events:%20Calendars) in your Church360° database. New
     Calendars can be created by clicking on Calendars under the Events
     menu (on the left side of the screen).
 -   **Location**: The location that the event will take place in. This
@@ -59,7 +59,7 @@ In addition, each Event created must have either a **Start Time** and an
 * * * * *
 
 **Feedback**: Click **<Feedback>** to ask for help, report a problem, or
-make a suggestion to the Church360Â° Team.
+make a suggestion to the Church360° Team.
 
 * * * * *
 

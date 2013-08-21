@@ -48,7 +48,7 @@ any fund that has offering records credited towards it.
 * * * * *
 
 **Feedback**: Click **<Feedback>** to ask for help, report a problem, or
-make a suggestion to the Church360Â° Team.
+make a suggestion to the Church360° Team.
 
 **Export**: Click **Export** to export fund data to a CSV
 (Comma-Separated Values) formatted data file. CSV is a widely-supported

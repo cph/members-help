@@ -81,7 +81,7 @@ Leave all fields in the **Contact Information** section blank, then
 click the Add Person button: ![Blank Contact
 Information](New_Person_07.JPG "Blank Contact Information")
 
-Therefore, it is possible to have a person record in *Church360Â°* who
+Therefore, it is possible to have a person record in *Church360°* who
 is not assigned to a specific household. This is often an easy method
 for entering Visitors into your database on their first visit, where you
 may not have all of their contact and family information ready to enter.
@@ -119,7 +119,7 @@ Your data is now imported into 360Members.
 * * * * *
 
 Click **<Feedback>** to ask for help, report a problem, or make a
-suggestion to the Church360Â° Team.
+suggestion to the Church360° Team.
 
 * * * * *
 

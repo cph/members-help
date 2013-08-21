@@ -65,7 +65,7 @@ To completely remove a Smart Group:
 * * * * *
 
 **Feedback**: Click **<Feedback>** to ask for help, report a problem, or
-make a suggestion to the Church360Â° Team.
+make a suggestion to the Church360° Team.
 
 **Print**: Select to preview or print a report listing all Smart Groups,
 their criteria, and the number of people in each group.

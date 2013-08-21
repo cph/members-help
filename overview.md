@@ -147,7 +147,7 @@ value.](Overview%20Details%2013.JPG "Displaying a value.")
 * * * * *
 
 **Feedback**: Click **<Feedback>** to ask for help, report a problem, or
-make a suggestion to the Church360Â° Team.
+make a suggestion to the Church360° Team.
 
 * * * * *
 

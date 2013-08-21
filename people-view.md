@@ -159,7 +159,7 @@ Statements](Contribution_Statements_button.JPG "Contribution Statements")
 * * * * *
 
 Click **<Feedback>** to ask for help, report a problem, or make a
-suggestion to the Church360Â° Team.
+suggestion to the Church360° Team.
 
 Click **Columns** to select which fields to display on the household
 list.

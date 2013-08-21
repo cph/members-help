@@ -1,11 +1,11 @@
-Household records are created in Church 360Â° automatically when:
+Household records are created in Church 360° automatically when:
 
 -   A new person is added to the system and an address is entered.
 -   An address is added to a person record who previously had no address
     (from a person's profile page).
 
 *Note: Since household records are created automatically by the above
-methods, there is not a link or page in Church 360Â° to add a new
+methods, there is not a link or page in Church 360° to add a new
 household.*
 
 The main Households page displays a list of your current
@@ -73,7 +73,7 @@ buttons](Households%20action%20buttons.jpg "Households action buttons")
 * * * * *
 
 Click **<Feedback>** to ask for help, report a problem, or make a
-suggestion to the Church360Â° Team.
+suggestion to the Church360° Team.
 
 Click **Columns** to select which fields to display on the household
 list.

@@ -42,7 +42,7 @@ To attach or change the image file associated with a household:
 **Note: Browse window may look different depending on your browser and
 operating system.**
 
-Portraits in Church360Â° can be loaded from files saved in the following
+Portraits in Church360° can be loaded from files saved in the following
 image file formats: JPEG, PNG, BMP, TIFF, and GIF.
 
 #### 4. Click the *Accept* button to save the image:
@@ -212,7 +212,7 @@ You can set this to the following options:
 -   Anyone: All users can view the note.
 -   Only members of the selected **Permissions Group**: The groups
     listed separately, below the Anyone option, are the Permission
-    Groups for your Church360Â° database. Only those users who are
+    Groups for your Church360° database. Only those users who are
     members of the selected group would be able to view the note (In our
     example above, Administrators, Blocked, General Users, Pastors, and
     Volunteers are the current Permission Groups for this church).
@@ -257,10 +257,10 @@ to visits showing on the profile view.
 * * * * *
 
 **Feedback**: Click **<Feedback>** to ask for help, report a problem, or
-make a suggestion to the Church360Â° Team.
+make a suggestion to the Church360° Team.
 
 **Delete**: Click **Delete** to remove this household and all its
-members from Church360Â°.
+members from Church360°.
 
 * * * * *
 

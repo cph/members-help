@@ -89,7 +89,7 @@ Tags are assigned to the people in your church in the following areas:
 * * * * *
 
 **Feedback**: Click **<Feedback>** to ask for help, report a problem, or
-make a suggestion to the Church360Â° Team.
+make a suggestion to the Church360° Team.
 
 **Export**: Click to export the person view data to a CSV
 (Comma-Separated Values) formatted data file. CSV is a widely-supported

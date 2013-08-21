@@ -79,7 +79,7 @@ edit](Pastoral_Visits_09.JPG "Click a record to edit")
 * * * * *
 
 Click **<Feedback>** to ask for help, report a problem, or make a
-suggestion to the Church360Â° Team.
+suggestion to the Church360° Team.
 
 Click **Print** to preview or print a report listing the Pastoral Visits
 that are currently displayed.
