@@ -1,18 +1,18 @@
-[[overview-menu|Overview]]
+[[Overview|overview-menu]]
 
-[[people|People]]
+[[People|people]]
 
-[[events|Events]]
+[[Events|events]]
 
-[[attendance|Attendance]]
+[[Attendance|attendance]]
 
-[[offerings|Offerings]]
+[[Offerings|offerings]]
 
-[[settings|Settings]]
+[[Settings|settings]]
 
-[[account-login|Login]]
+[[Login|account-login]]
 
-[[feedback|Feedback]]
+[[Feedback|feedback]]
 
-[[site-map|Site Map]]
+[[Site Map|site-map]]
 
