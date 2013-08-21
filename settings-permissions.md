@@ -1,17 +1,19 @@
+## Settings: Permission Groups
+
 Permissions is where the administrator defines which security rights are
-assigned to each of the permission groups. When working with your [user
-logins](settings:%20Logins), remember security rights are defined by the
-***Permission Group*** assigned to each login. \<\\!-- --\>
+assigned to each of the permission groups. When working with your [[user
+logins|settings-Logins]], remember security rights are defined by the
+***Permission Group*** assigned to each login. 
 
 Table of Contents
 
--   [Permissions Groupings and Types](#Permissions_Groupings_and_Types)
--   [People Permissions](#People_Permissions)
--   [Events Permissions](#Events_Permissions)
--   [Attendance Permissions](#Attendance_Permissions)
--   [Offerings Permissions](#Offerings_Permissions)
--   [Supervisory permissions](#Supervisory_permissions)
-    -   [Managing Permission Groups](#Managing_Permission_Groups)
+-   [[Permissions Groupings and Types|#Permissions_Groupings_and_Types]]
+-   [[People Permissions|#People_Permissions]]
+-   [[Events Permissions|#Events_Permissions]]
+-   [[Attendance Permissions|#Attendance_Permissions]]
+-   [[Offerings Permissions|#Offerings_Permissions]]
+-   [[Supervisory permissions|#Supervisory_permissions]]
+    -   [[Managing Permission Groups|#Managing_Permission_Groups]]
 
 Permissions Groupings and Types
 ----------------------------------------------------------------------------------------------------------------------------------
@@ -21,7 +23,7 @@ initially set up: Administrators, Blocked, General Users, Pastors,
 Volunteers.
 
 ![Permissions Snap
-Shot](SettingPermissionsView.jpg "Permissions Snap Shot")
+Shot](images/SettingPermissionsView.jpg "Permissions Snap Shot")
 
 When you edit a permission group you will notice 5 separate groupings.
 Each grouping controls a type of permission. These types are People,
@@ -96,7 +98,7 @@ Supervisory permissions
 
 \<\\!--Each permission group has six categories of security settings
 (People, Events, Attendance, Offerings, Settings, and Self) which
-correspond to the main menu items in Church360Â° (with the exception of
+correspond to the main menu items in Church360° (with the exception of
 Self, which is explained below). Each of the categories has their own
 levels of permissions. Those six categories and their corresponding
 levels of permission break down as follows:
@@ -158,20 +160,15 @@ button on the right, click the red ***Delete*** button, then click the
 
 * * * * *
 
-**Feedback**: Click **<Feedback>** to ask for help, report a problem, or
-make a suggestion to the Church360Â° Team.
+**Feedback**: Click **[[Feedback|Feedback]]** to ask for help, report a problem, or
+make a suggestion to the Church360° Team.
 
 **Print** : Click to preview or print a report showing the permission
 information that is currently displayed.
 
 * * * * *
 
-**Related Topics**: [Logins](settings:%20Logins), <People>, <Events>,
-<Attendance>, <Offerings>, <Settings>
-
-* * * * *
-
-**Go to:** [360Members Help Chapters](Main%20Page) \> [Settings Help
-Chapters](Settings)
+**Related Topics**: [[Logins|settings-Logins]], [[People|People]], [[Events|Events]],
+[[Attendance|Attendance]], [[Offerings|Offerings]], [[Settings|Settings]]
 
 * * * * *

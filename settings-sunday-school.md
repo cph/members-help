@@ -1,9 +1,11 @@
+## Settings: Sunday School Grades
+
 This screen allows you to configure the Sunday School Grades that you
 can assign to a person. Grades can be assigned to an individual person
-on their [Profile View](people:%20Profile%20View) in the [Personal
-Information](people:%20Profile%20View#Personal%20Information) section.
+on their [[Profile View|people-Profile-View]] in the [[Personal
+Information|people-Profile-View#Personal-Information]] section.
 
-When Church360Â° is initially set up, the following Sunday School Grades
+When Church360° is initially set up, the following Sunday School Grades
 are already configured:
 
 1.  Preschool
@@ -16,7 +18,7 @@ Study class.
 
 #### Setting the promotion date
 
-To have Church360Â° **Automatically promote Sunday School students on**
+To have Church360° **Automatically promote Sunday School students on**
 a certain date, mark the checkbox at the top of the page and select a
 **Month** and **Day**. Each year on that date, all Sunday School
 students will automatically be promoted one grade level.
@@ -31,7 +33,7 @@ the **Add Grade** button.
 To delete an existing grade, click the red **X** to the right of the
 grade, then click **OK** in the **Delete Sunday School Grade?** box. If
 you decide not to delete the grade, click the **Cancel** button in that
-box. Note: It is possible to delete the grades from Church360Â°'s
+box. Note: It is possible to delete the grades from Church360°'s
 initial setup (Preschool, Kindergarten, and 1-8).
 
 #### Renaming a Grade
@@ -47,20 +49,15 @@ dropping a **Grade** into the appropriate location.
 
 * * * * *
 
-**Feedback**: Click **<Feedback>** to ask for help, report a problem, or
-make a suggestion to the Church360Â° Team.
+**Feedback**: Click **[[Feedback|Feedback]]** to ask for help, report a problem, or
+make a suggestion to the Church360° Team.
 
 **Print** : Click to preview or print a report listing Sunday School
 Grades.
 
 * * * * *
 
-**Related Topics:** [Add a Person](people:%20New%20Person), [Profile
-View](people:%20Profile%20View)
-
-* * * * *
-
-**Go to:** [360Members Help Chapters](Main%20Page) \> [Settings Help
-Chapters](Settings)
+**Related Topics:** [[Add a Person|people-New-Person]], [[Profile
+View|people-Profile-View]]
 
 * * * * *

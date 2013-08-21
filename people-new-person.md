@@ -1,6 +1,8 @@
-\<\\!----\> The New Person page allows you to add new people records
+## People: New Person
+
+The New Person page allows you to add new people records
 into your database: ![An overview of the New Person
-page.](New_Person_01.JPG "An overview of the New Person page.")
+page.](images/New_Person_01.JPG "An overview of the New Person page.")
 
 Introduction
 -------------------------------------------------------------------------
@@ -25,8 +27,8 @@ List of Person Fields
 -   **Preferred Name**: Informal first name or nickname (i.e.: Bob)
 -   **Household**: The **Household** that this person is a member. To
     determine how to complete the Household field, see the instructions
-    below in the [Person and Household
-    Records](people:%20New%20Person#Person%20and%20Household%20Records)
+    below in the [[Person and Household
+    Records|people-New-Person#Person-and-Household-Records]]
     section below.
 -   **Status**: Member status; your options here will vary, depending on
     the denomination of your Church.
@@ -48,24 +50,24 @@ record will be determined; there are two options:
 Perform a lookup and selection of an existing household record, by
 entering that household name in the **Household** field and clicking on
 the appropriate household: ![Looking up Existing
-Household](New_Person_02.JPG "Looking up Existing Household")
+Household](images/New_Person_02.JPG "Looking up Existing Household")
 
 After selecting the Household from the lookup list, its Contact
 Information will load in the lower portion of the screen. Fill out the
 remaining personal information, then click the **Add Person** button to
 add the new person both to your database and as a Member of that
 existing Household Record: ![Adding Person to Existing
-Household](New_Person_03.JPG "Adding Person to Existing Household")
+Household](images/New_Person_03.JPG "Adding Person to Existing Household")
 
 ### 2. Adding a Person and Creating a New Household (at the same time):
 
 When entering the new Person's information, leave the **Household**
 field in the top portion of the page blank: ![Leave Household field
-blank](New_Person_04.JPG "Leave Household field blank")
+blank](images/New_Person_04.JPG "Leave Household field blank")
 
 Fill in the Contact Information, then click the **Add Person** button:
 ![Enter Contact
-Information](New_Person_05.JPG "Enter Contact Information")
+Information](images/New_Person_05.JPG "Enter Contact Information")
 
 The new Person record will be added to your database and a new Household
 Record will also be created. The person will also automatically be added
@@ -75,18 +77,18 @@ as a Member of this Household Record.
 Member of a Household)=== When entering the new Person's information,
 leave the **Household** field in the top portion of the page blank:
 ![Leave Household field
-blank](New_Person_06.JPG "Leave Household field blank")
+blank](images/New_Person_06.JPG "Leave Household field blank")
 
 Leave all fields in the **Contact Information** section blank, then
 click the Add Person button: ![Blank Contact
-Information](New_Person_07.JPG "Blank Contact Information")
+Information](images/New_Person_07.JPG "Blank Contact Information")
 
-Therefore, it is possible to have a person record in *Church360Â°* who
+Therefore, it is possible to have a person record in *Church360°* who
 is not assigned to a specific household. This is often an easy method
 for entering Visitors into your database on their first visit, where you
 may not have all of their contact and family information ready to enter.
 Note: It is possible to later add such a person record to a household
-record by [editing a Household record](people:%20Edit%20a%20Household),
+record by [[editing a Household record|people-Edit-a-Household]],
 and adding the person under the Members of the Household section. --\>
 
 Upload vCard File
@@ -96,37 +98,34 @@ To upload person data from a vCard file, perform the following steps:
 
 ### 1. Click the *Upload vCard File* link at the top right of the New Person page:
 
-![Upload vCard File link](New_Person_08.JPG "Upload vCard File link")
+![Upload vCard File link](images/New_Person_08.JPG "Upload vCard File link")
 
 ### 2. Click on the **Browse...** button to locate the vCard file:
 
-![Click Browse...](New_Person_09.JPG "Click Browse...")
+![Click Browse...](images/New_Person_09.JPG "Click Browse...")
 
 ### 3. Locate your file, select it and click the *Open* button:
 
-![Select & Open File](New_Person_10.JPG "Select & Open File")
+![Select & Open File](images/New_Person_10.JPG "Select & Open File")
 
 ### 4. Click the *Upload* button:
 
-![Click Upload](New_Person_11.JPG "Click Upload")
+![Click Upload](images/New_Person_11.JPG "Click Upload")
 
 ### 5. You will receive a message confirming the people were imported at the top of the page:
 
-![Confirmation Message](New_Person_12.JPG "Confirmation Message")
+![Confirmation Message](images/New_Person_12.JPG "Confirmation Message")
 
 Your data is now imported into 360Members.
 
 * * * * *
 
-Click **<Feedback>** to ask for help, report a problem, or make a
-suggestion to the Church360Â° Team.
+Click **[[Feedback|Feedback]]** to ask for help, report a problem, or make a
+suggestion to the Church360° Team.
 
 * * * * *
 
-**Related Topics:** [Households](people:%20Households), [Edit a
-Household](people:%20Edit%20a%20Household)
+**Related Topics:** [[Households|people-Households]], [[Edit a
+Household|people-Edit-a-Household]]
 
 * * * * *
-
-**Go to:** [360Members Help Chapters](Main%20Page) \> [People Help
-Chapters](People)

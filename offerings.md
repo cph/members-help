@@ -1,10 +1,6 @@
--   [Enter Offerings](offerings:%20Enter%20Offerings)
--   [Envelopes](People%20Envelopes)
--   [Funds](offerings:%20Funds)
--   [Pledges](offerings:%20Pledges)
+## Offerings
 
-* * * * *
-
-**Go to:** [360Members Help Chapters](Main%20Page)
-
-* * * * *
+-   [[Enter Offerings|offerings-Enter-Offerings]]
+-   [[Envelopes|People-Envelopes]]
+-   [[Funds|offerings-Funds]]
+-   [[Pledges|offerings-Pledges]]

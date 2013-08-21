@@ -1,14 +1,14 @@
-\<\\!----\>
+## Events: Edit
 
 ### Editing an Event
 
-To edit an event record, click on the event in either the [Monthly
-View](events:%20View) or the [Weekly
-View](events:%20View#Changing%20Your%20View) page. Update any field for
+To edit an event record, click on the event in either the [[Monthly
+View|events-View]] or the [[Weekly
+View|events-View#Changing-Your-View]] page. Update any field for
 the event, then click the **Save** button at the lower right of the
 screen. To exit without saving your changes, click the **Cancel** button
 at the lower right. ![Editing an
-Event.](Events_Edit_01.JPG "Editing an Event.")
+Event.](images/Events_Edit_01.JPG "Editing an Event.")
 
 The following fields are required for each event: **Event Name**,
 **Calendar**, **Start Date**, **End Date**, **Repeats** (Repeats should
@@ -73,12 +73,12 @@ taken** box is marked.
 
 To add a person as a regular attender, search and select their name in
 the box: ![Looking up a
-person](Events_Edit_02.JPG "Looking up a person")
+person](images/Events_Edit_02.JPG "Looking up a person")
 
 After clicking on a name to select it, click the **Add New** button:
-![The Add New button](Events_Edit_03.JPG "The Add New button")
+![The Add New button](images/Events_Edit_03.JPG "The Add New button")
 
-When you go to the [person profile](people:%20Profile%20View) for one of
+When you go to the [[person profile|people-Profile-View]] for one of
 the regular attenders, this event will display in the enrollment area
 (under the attendance section).
 
@@ -88,15 +88,15 @@ To remove a person from the list of regular attenders, perform the
 following steps:
 
 ​1. Click the red **-** to the right of their name: ![Delete
-symbol](Events_Edit_04.JPG "Delete symbol")
+symbol](images/Events_Edit_04.JPG "Delete symbol")
 
 ​2. Click the red **Delete** button: ![Delete
-button](Events_Edit_05.JPG "Delete button")
+button](images/Events_Edit_05.JPG "Delete button")
 
 * * * * *
 
-**Feedback**: Click **<Feedback>** to ask for help, report a problem, or
-make a suggestion to the Church360Â° Team.
+**Feedback**: Click **[[Feedback|Feedback]]** to ask for help, report a problem, or
+make a suggestion to the Church360° Team.
 
 **Export**: Click **Export** to export the event's information as an
 iCalendar (.ics) file (for importing into another calendar/scheduling
@@ -108,13 +108,8 @@ attached to it.
 
 * * * * *
 
-**Related Topics:** [Calendars](events:%20Calendars), [Monthly
-View](events:%20Monthly%20View), [Weekly View](events:%20Weekly%20View),
-[Edit a Person](people:%20Profile%20View)
-
-* * * * *
-
-**Go to:** [360Members Help Chapters](Main%20Page) \> [Events Help
-Chapters](Events)
+**Related Topics:** [[Calendars|events-Calendars]], [[Monthly
+View|events-Monthly-View]], [[Weekly View|events-Weekly-View]],
+[[Edit a Person|people-Profile-View]]
 
 * * * * *

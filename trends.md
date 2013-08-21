@@ -1,3 +1,5 @@
+## Trends
+
 The Trends page is a custom data viewer and report writer utility,
 allowing users to analyze the church's membership, attendance, and
 offering data. Users can view this data on the church level, or drill
@@ -6,7 +8,7 @@ down into individual detailed data.
 Next to the **Trends** header at the top left of the page will be the
 name of the current report (unsaved reports will show the word
 "Custom"). Clicking the arrow to the right of the name will hide or
-reveal the list of Saved **<Reports>**. A saved **Report** can be loaded
+reveal the list of Saved **[[Reports|Reports]]**. A saved **Report** can be loaded
 by clicking on the name of the report.
 
 #### Graph
@@ -45,7 +47,7 @@ Trend**, choose what type of data to **Show** along with any other data
 options (which will change depending on the type of data you wish to
 view). Each Trend will run for a **Group** of people in your database;
 choose this group as well (to add a different group to this list, create
-a **[Smart Group](people:%20Smart%20Groups)**. Give the Trend a **Name**
+a **[[Smart Group|people-Smart-Groups]]**. Give the Trend a **Name**
 (which will pre-fill with a suggested name, based on the data selected),
 then Click the **Add Trend** button to complete adding the new trend.
 
@@ -95,8 +97,8 @@ detailed view of data as a *Report*.
 
 * * * * *
 
-**Feedback**: Click **<Feedback>** to ask for help, report a problem, or
-make a suggestion to the Church360Â° Team.
+**Feedback**: Click **[[Feedback|Feedback]]** to ask for help, report a problem, or
+make a suggestion to the Church360° Team.
 
 **Export**: Click **Export** to export offering data to a CSV
 (Comma-Separated Values) formatted data file. CSV is a widely-supported
@@ -108,11 +110,6 @@ offering data that is currently displayed.
 
 * * * * *
 
-**Related Topics:** <Reports>
-
-* * * * *
-
-**Go to:** [360Members Help Chapters](Main%20Page) \> [Overview Help
-Chapters](Overview%20Menu)
+**Related Topics:** [[Reports|Reports]]
 
 * * * * *

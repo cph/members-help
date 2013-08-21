@@ -1,7 +1,9 @@
-\<\\!----\>In 360Members, Tags are used to identify groups or categories
+## People: Tags
+
+In 360Members, Tags are used to identify groups or categories
 that people belong to. They are meant to have a "free-flowing" nature,
 and will be different for each church's database: ![The Tags
-page](People_Tags_01.JPG "The Tags page")
+page](images/People_Tags_01.JPG "The Tags page")
 
 ### Examples of Tags
 
@@ -44,20 +46,20 @@ Working with Tags
 
 To add a new Tag, enter a ***Tag Name***, choose a ***Color***, then
 click the ***Add Tag*** button: ![Adding a
-Tag](People_Tags_02.JPG "Adding a Tag")
+Tag](images/People_Tags_02.JPG "Adding a Tag")
 
 ### Editing a Tag
 
 To edit an existing Tag, click on the ***Tag Name*** or the ***Color***,
 make changes to either item, and click the ***Save*** button: ![Editing
-a Tag](People_Tags_03.JPG "Editing a Tag")
+a Tag](images/People_Tags_03.JPG "Editing a Tag")
 
 Each tag will also have a link to its right, indicating the number of
 people with that tag assigned to them: ![Link to People
-View](People_Tags_04.JPG "Link to People View")
+View](images/People_Tags_04.JPG "Link to People View")
 
-Clicking that link (as shown above)will take you to the [People
-View](people:%20View) to display a list of the people with that tag
+Clicking that link (as shown above)will take you to the [[People
+View|people-View]] to display a list of the people with that tag
 assigned.
 
 ### Deleting a Tag
@@ -66,30 +68,30 @@ To delete an existing Tag, perform the following steps:
 
 #### 1. Click on the *red circle* button in the right column of that Tag:
 
-![Click Red Circle](People_Tags_05.JPG "Click Red Circle")
+![Click Red Circle](images/People_Tags_05.JPG "Click Red Circle")
 
 #### 2. Click the red *Delete* button:
 
-![Click Delete](People_Tags_06.JPG "Click Delete")
+![Click Delete](images/People_Tags_06.JPG "Click Delete")
 
 #### 3. Click the *OK* button in the *Delete Tag?* confirmation window:
 
-![Click OK](People_Tags_07.JPG "Click OK")
+![Click OK](images/People_Tags_07.JPG "Click OK")
 
 ### Assigning Tags to People
 
 Tags are assigned to the people in your church in the following areas:
 
--   To individual people in your church when [editing their person
-    record](people:%20Profile%20View#Tags).
+-   To individual people in your church when [[editing their person
+    record|people-Profile-View#Tags]].
 -   To multiple people records using the **Add or Remove Tags** button
-    at the bottom of the [People
-    View](people:%20View#Add%20or%20Remove%20Tags) page.
+    at the bottom of the [[People
+    View|people-View#Add-or-Remove-Tags]] page.
 
 * * * * *
 
-**Feedback**: Click **<Feedback>** to ask for help, report a problem, or
-make a suggestion to the Church360Â° Team.
+**Feedback**: Click **[[Feedback|Feedback]]** to ask for help, report a problem, or
+make a suggestion to the Church360° Team.
 
 **Export**: Click to export the person view data to a CSV
 (Comma-Separated Values) formatted data file. CSV is a widely-supported
@@ -101,10 +103,7 @@ number of people assigned to each tag.
 
 * * * * *
 
-**Related Topics:** [Profile View](people:%20Profile%20View#Tags),
-[People List](people:%20View)
+**Related Topics:** [[Profile View|people-Profile-View#Tags]],
+[[People List|people-View]]
 
 * * * * *
-
-**Go to:** [360Members Help Chapters](Main%20Page) \> [People Help
-Chapters](People)

@@ -1,6 +1,8 @@
+## Events: New
+
 #### Adding a new event record
 
-\<\\!-- --\> To add an event record, click **New Event** in the main
+To add an event record, click **New Event** in the main
 menu, fill in the fields with known information, then click the **Add
 Event** button at the lower right of the screen. The following fields
 are required when adding a new event: **Event Name**, **Calendar**,
@@ -8,13 +10,13 @@ are required when adding a new event: **Event Name**, **Calendar**,
 
 In addition, each Event created must have either a **Start Time** and an
 **End Time**, OR the Event must be scheduled as an **All Day** Event.
-![Adding a New Event.](Events_New_01.JPG "Adding a New Event.")
+![Adding a New Event.](images/Events_New_01.JPG "Adding a New Event.")
 
 #### List of Event Fields
 
 -   **Event Name**: name of the event.
 -   **Calendar**: Chose from the list of
-    [Calendars](events:%20Calendars) in your Church360Â° database. New
+    [[Calendars|events-Calendars]] in your Church360° database. New
     Calendars can be created by clicking on Calendars under the Events
     menu (on the left side of the screen).
 -   **Location**: The location that the event will take place in. This
@@ -48,27 +50,22 @@ In addition, each Event created must have either a **Start Time** and an
 -   **All Day**: Designates the event as a day-long event.
 -   **Description**: Enter a longer description of the event in the
     provided box.
--   **Attendance taken**: When marked, indicates that <Attendance> will
+-   **Attendance taken**: When marked, indicates that [[Attendance|Attendance]] will
     be recorded for this event.
 -   **Communion served**: When marked, indicates that Communion
     attendance may be recorded for this event. Also indicates that
     Communion may be served at this event.
--   **Offering taken**: When marked, indicates that <Offerings> will be
+-   **Offering taken**: When marked, indicates that [[Offerings|Offerings]] will be
     recorded for this event.
 
 * * * * *
 
-**Feedback**: Click **<Feedback>** to ask for help, report a problem, or
-make a suggestion to the Church360Â° Team.
+**Feedback**: Click **[[Feedback|Feedback]]** to ask for help, report a problem, or
+make a suggestion to the Church360° Team.
 
 * * * * *
 
-**Related Topics:** [Calendars](events:%20Calendars), [Monthly
-View](events:%20Monthly%20View), [Weekly View](events:%20Weekly%20View)
-
-* * * * *
-
-**Go to:** [360Members Help Chapters](Main%20Page) \> [Events Help
-Chapters](Events)
+**Related Topics:** [[Calendars|events-Calendars]], [[Monthly
+View|events-Monthly-View]], [[Weekly View|events-Weekly-View]]
 
 * * * * *

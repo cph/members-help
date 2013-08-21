@@ -1,12 +1,8 @@
--   [View](people:%20View)
--   [Households](people:%20Households)
--   [Smart Groups](people:%20Smart%20Groups)
--   [Tags](people:%20Tags)
--   [Pastoral Visits](people:%20Pastoral%20Visits)
--   [New Person](people:%20New%20Person)
+## People
 
-* * * * *
-
-**Go to:** [360Members Help Chapters](Main%20Page)
-
-* * * * *
+-   [[View|people-View]]
+-   [[Households|people-Households]]
+-   [[Smart Groups|people-Smart-Groups]]
+-   [[Tags|people-Tags]]
+-   [[Pastoral Visits|people-Pastoral-Visits]]
+-   [[New Person|people-New-Person]]
