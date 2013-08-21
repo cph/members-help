@@ -13,9 +13,9 @@
 }
 
 .sidebar {
-  border-left: 4px solid #e6e6e6;
-  margin: 2.1em 0 0 0;
-  padding-left: 1em;
+  border-right: 4px solid #e6e6e6;
+  margin: 0 0 2.1em 0;
+  padding-right: 1em;
 }
 
 .sidebar h3 {
