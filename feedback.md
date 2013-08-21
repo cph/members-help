@@ -12,12 +12,3 @@ the ***Submit*** button.
 When the **Submit** button is clicked, the problem, suggestion, or
 request is forwarded to Concordia Technology Solutions' technical
 support.
-
-\<\\!--**Click the *Play* button below to view a video showing how to
-submit feedback:**--\> \<\\!----\>
-
-* * * * *
-
-**Go to:** [360Members Help Chapters](Main%20Page)
-
-* * * * *
