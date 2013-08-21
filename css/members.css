@@ -36,3 +36,9 @@ a {
 }
 
 h1, h2, h3, h4, h5, h6 { color: #204B61; }
+
+.wikistyle:first-child h2 {
+  margin-top: 0 !important;
+  border-top: 0 !important;
+  padding-top: 0 !important;
+}
