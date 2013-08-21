@@ -1,4 +1,4 @@
-\<\\!----\> The New Person page allows you to add new people records
+ The New Person page allows you to add new people records
 into your database: ![An overview of the New Person
 page.](New_Person_01.JPG "An overview of the New Person page.")
 

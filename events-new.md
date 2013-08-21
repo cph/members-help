@@ -1,6 +1,6 @@
 #### Adding a new event record
 
-\<\\!-- --\> To add an event record, click **New Event** in the main
+To add an event record, click **New Event** in the main
 menu, fill in the fields with known information, then click the **Add
 Event** button at the lower right of the screen. The following fields
 are required when adding a new event: **Event Name**, **Calendar**,

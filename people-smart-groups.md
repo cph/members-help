@@ -1,6 +1,6 @@
 With the Smart Groups feature you select a group of people based on
 criteria, identify that group with a Smart Group name, and use it to
-select or view information about that group of people: \<\\!----\>
+select or view information about that group of people: 
 
 The people who are members of a particular Smart Group are defined by a
 set of criteria you provide. ![The Smart Groups

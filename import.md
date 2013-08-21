@@ -1,4 +1,4 @@
-\<\\!----\> Shepherd's Staff customers can submit their database to our
+Shepherd's Staff customers can submit their database to our
 Technical Support team for conversion to Church360Â°. Follow the
 on-screen instructions to select and submit your database: ![Importing
 data from Shepherd's

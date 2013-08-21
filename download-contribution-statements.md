@@ -1,4 +1,4 @@
-\<\\!----\>
+
 
 #### To run a Contribution Statements report, perform the following steps:
 

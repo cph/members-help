@@ -1,4 +1,4 @@
-\<\\!----\> The people view displays the selected person records,
+ The people view displays the selected person records,
 showing the columns or fields selected in the **Columns** settings (See
 the [Columns and Reports](people:%20View#Columns%20and%20Reports)
 section below for details): ![An overview of the People View

@@ -1,4 +1,4 @@
-\<\\!----\>The pledges screen allows you to view, add, edit, or delete
+The pledges screen allows you to view, add, edit, or delete
 pledge records for your givers: ![The Pledges
 page](Offering_Pledges_01.JPG "The Pledges page")
 

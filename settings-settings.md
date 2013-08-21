@@ -12,7 +12,7 @@ This page allows administrators to set the following global settings for
     display. Logos in Church360Â° can be uploaded from files saved in
     the following image file formats: JPEG, PNG, BMP, TIFF, and GIF.
 
-\<\\!-- --\>
+
 
 * * * * *
 

@@ -8,7 +8,7 @@ Household records are created in Church 360Â° automatically when:
 methods, there is not a link or page in Church 360Â° to add a new
 household.*
 
-\<\\!----\>The main Households page displays a list of your current
+The main Households page displays a list of your current
 Households with selected contact information: ![An overview of the
 Households
 page.](People_Households_01.JPG "An overview of the Households page.")

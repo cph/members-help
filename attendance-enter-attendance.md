@@ -1,4 +1,4 @@
-\<\\!----\>The Enter Attendance screen is used to record attendance for
+The Enter Attendance screen is used to record attendance for
 the people who attend Events. The screen can also be used to update or
 edit existing attendance data: ![An overview of the Enter Attendance
 page.](Enter%20Attendance.PNG "An overview of the Enter Attendance page.")

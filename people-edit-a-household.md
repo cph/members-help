@@ -136,7 +136,7 @@ Members Tab
 
 ### Members of the Household
 
-\<\\!----\> ![Members of the
+ ![Members of the
 Household](Edit_Household_21.JPG "Members of the Household")
 
 Members of the Household are defined as the people who are the current

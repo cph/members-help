@@ -1,7 +1,7 @@
 Permissions is where the administrator defines which security rights are
 assigned to each of the permission groups. When working with your [user
 logins](settings:%20Logins), remember security rights are defined by the
-***Permission Group*** assigned to each login. \<\\!-- --\>
+***Permission Group*** assigned to each login. 
 
 Table of Contents
 

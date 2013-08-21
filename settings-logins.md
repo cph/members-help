@@ -1,5 +1,5 @@
 The Logins screen is used to administrate the users who will be working
-with 360Members: \<\\!-- --\>
+with 360Members: 
 
 #### Adding a New User
 

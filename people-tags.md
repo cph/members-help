@@ -1,4 +1,4 @@
-\<\\!----\>In 360Members, Tags are used to identify groups or categories
+In 360Members, Tags are used to identify groups or categories
 that people belong to. They are meant to have a "free-flowing" nature,
 and will be different for each church's database: ![The Tags
 page](People_Tags_01.JPG "The Tags page")
