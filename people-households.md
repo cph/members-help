@@ -1,3 +1,5 @@
+## People: Households
+
 Household records are created in Church 360° automatically when:
 
 -   A new person is added to the system and an address is entered.

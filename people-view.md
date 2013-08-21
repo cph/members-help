@@ -1,4 +1,6 @@
- The people view displays the selected person records,
+## People: View
+
+The people view displays the selected person records,
 showing the columns or fields selected in the **Columns** settings (See
 the [[Columns and Reports|people-View#Columns-and-Reports]]
 section below for details): ![An overview of the People View

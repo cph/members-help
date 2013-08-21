@@ -1,3 +1,5 @@
+## Offerings: Enter Offerings
+
 The Enter Offerings screen is used to record gifts given by
 the people in your database. It can also be used to update or edit
 existing offering records. ![An overview of the Enter Offerings

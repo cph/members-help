@@ -1,3 +1,5 @@
+## Download Mailing Labels
+
 #### To download Mailing Labels, perform the following steps:
 
 ![Download Mailing

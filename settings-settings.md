@@ -1,3 +1,5 @@
+## Settings
+
 This page allows administrators to set the following global settings for
 360members:
 

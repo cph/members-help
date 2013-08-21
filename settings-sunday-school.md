@@ -1,3 +1,5 @@
+## Settings: Sunday School Grades
+
 This screen allows you to configure the Sunday School Grades that you
 can assign to a person. Grades can be assigned to an individual person
 on their [[Profile View|people-Profile-View]] in the [[Personal

@@ -1,3 +1,5 @@
+## People
+
 -   [[View|people-View]]
 -   [[Households|people-Households]]
 -   [[Smart Groups|people-Smart-Groups]]

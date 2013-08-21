@@ -1,3 +1,5 @@
+## Reports
+
 The Reports page is divided into two sections:
 
 -   **My Reports**: A list of custom reports created in the [[View

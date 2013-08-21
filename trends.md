@@ -1,3 +1,5 @@
+## Trends
+
 The Trends page is a custom data viewer and report writer utility,
 allowing users to analyze the church's membership, attendance, and
 offering data. Users can view this data on the church level, or drill

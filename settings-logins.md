@@ -1,3 +1,5 @@
+## Settings: Logins
+
 The Logins screen is used to administrate the users who will be working
 with 360Members: 
 

@@ -1,3 +1,5 @@
+## Offerings: Funds
+
 By definition, a Fund is a reason or purpose for which people give
 offerings. When offerings and gifts are received by a church, those
 gifts could be designated for the church's general fund, for a building

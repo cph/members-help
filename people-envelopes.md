@@ -1,3 +1,5 @@
+## People: Envelopes
+
 The Envelope page is used to renumber your currently assigned envelope
 numbers. It can also be used to assign numbers to people records who do
 not have envelope numbers assigned to them. Note that envelope numbers

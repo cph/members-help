@@ -1,3 +1,5 @@
+## Events: Edit
+
 ### Editing an Event
 
 To edit an event record, click on the event in either the [[Monthly

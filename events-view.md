@@ -1,3 +1,5 @@
+## Events: View
+
 When opened, the Events View displays a Calendar of Events: ![A Monthly
 Calendar of Events.](images/Events_View_01.JPG "A Monthly Calendar of Events.")
 

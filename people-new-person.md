@@ -1,4 +1,6 @@
- The New Person page allows you to add new people records
+## People: New Person
+
+The New Person page allows you to add new people records
 into your database: ![An overview of the New Person
 page.](images/New_Person_01.JPG "An overview of the New Person page.")
 

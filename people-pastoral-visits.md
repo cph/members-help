@@ -1,3 +1,5 @@
+## People: Pastoral Visits
+
 Visits are an important part of ministering to a congregation. Whether
 making a visit to the hospital to encourage or provide communion to an
 ailing member, stopping in to provide council to a family, or making a

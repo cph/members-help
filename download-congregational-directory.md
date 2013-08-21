@@ -1,3 +1,5 @@
+## Download Congregational Directory
+
 #### To create a congregational directory, perform the following steps, clicking the ***Next Step*** button to proceed:
 
 #### 1. Select a size:

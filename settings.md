@@ -1,4 +1,6 @@
- -   [[View|settings-Settings]]
+## Settings
+
+-   [[View|settings-Settings]]
 -   [[Logins|settings-Logins]]
 -   [[Permissions|settings-Permissions]]
 -   [[Sunday School|settings-Sunday-School]]

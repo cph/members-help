@@ -1,3 +1,5 @@
+## Settings: Permission Groups
+
 Permissions is where the administrator defines which security rights are
 assigned to each of the permission groups. When working with your [[user
 logins|settings-Logins]], remember security rights are defined by the

@@ -1,3 +1,5 @@
+## People: Edit a Household
+
 This page provides controls for editing Household information. It is
 also used to identify the members of each Household, as well as to
 delete a household from the database. ![An overview of the Edit a

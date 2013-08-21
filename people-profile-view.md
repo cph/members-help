@@ -1,4 +1,6 @@
- This view provides controls for adding, changing, or
+## People: Profile View
+
+This view provides controls for adding, changing, or
 deleting information for a person's record. It is also used to identify
 family relationships and to delete the person from your church database.
 

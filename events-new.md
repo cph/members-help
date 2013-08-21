@@ -1,3 +1,5 @@
+## Events: New
+
 #### Adding a new event record
 
 To add an event record, click **New Event** in the main
