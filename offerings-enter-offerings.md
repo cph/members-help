@@ -125,7 +125,7 @@ offering*):**
 
 #### 1. Click the **-** to the right of the total column:
 
-![Delete icon](Gray-minus-circle.PNG "Delete icon")
+![Delete icon](Gray_minus_circle.PNG "Delete icon")
 
 #### 2. Click the red *Delete* button:
 

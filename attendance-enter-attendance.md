@@ -1,7 +1,7 @@
 The Enter Attendance screen is used to record attendance for
 the people who attend Events. The screen can also be used to update or
 edit existing attendance data: ![An overview of the Enter Attendance
-page.](Enter-Attendance.PNG "An overview of the Enter Attendance page.")
+page.](Enter_Attendance.PNG "An overview of the Enter Attendance page.")
 
 ### Recording Attendance
 
@@ -11,16 +11,16 @@ checkbox.
 
 Begin entering attendance by choosing the **Event** to record attendance
 for: ![Event Selection
-Bar](Attendance-event-selection-bar.PNG "Event Selection Bar")
+Bar](Attendance_event_selection_bar.PNG "Event Selection Bar")
 
 Note: If the event you need, is not visible. Use the navigation arrows
 at the top or bottom of the Event Selection bar to find additional
 events.
 
 ![Up
-Arrow](Attendance-event-selection-bar-up-arrow.png "Up Arrow")
+Arrow](Attendance_event_selection_bar_up_arrow.png "Up Arrow")
 ![Down
-Arrow](Attendance-event-selection-bar-down-arrow.png "Down Arrow")
+Arrow](Attendance_event_selection_bar_down_arrow.png "Down Arrow")
 
 Remember that in order to record attendance for an event, you must first
 make sure you have [[added the event|events-New]].

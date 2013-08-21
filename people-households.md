@@ -55,7 +55,7 @@ their household name.
 Households has two action buttons at the bottom of the view.
 
 ![Households action
-buttons](Households-action-buttons.jpg "Households action buttons")
+buttons](Households_action_buttons.jpg "Households action buttons")
 
 -   Click the **[[Mailing Labels|Download-Mailing-Labels]]** button
     at the lower left of the screen to print mailing labels for the

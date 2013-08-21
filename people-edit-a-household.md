@@ -249,7 +249,7 @@ the date, visitor, visit type and whether or not communion was taken by
 the selected individual.
 
 ![Profile View: Pastoral
-Visits](Household-Pastoral-visits2.jpg "Profile View: Pastoral Visits")
+Visits](Household_Pastoral_visits2.jpg "Profile View: Pastoral Visits")
 
 Note: [[Pastoral Visit|people-Pastoral-Visits]] must be added prior
 to visits showing on the profile view.
