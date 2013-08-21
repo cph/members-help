@@ -62,7 +62,7 @@ perform the following actions:
 
 * * * * *
 
-**Feedback**: Click **<Feedback>** to ask for help, report a problem, or
+**Feedback**: Click **[[Feedback|Feedback]]** to ask for help, report a problem, or
 make a suggestion to the Church360° Team.
 
 **Calendars**: The **Calendars** link at the top right of the page

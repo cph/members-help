@@ -47,7 +47,7 @@ dropping a **Grade** into the appropriate location.
 
 * * * * *
 
-**Feedback**: Click **<Feedback>** to ask for help, report a problem, or
+**Feedback**: Click **[[Feedback|Feedback]]** to ask for help, report a problem, or
 make a suggestion to the Church360° Team.
 
 **Print** : Click to preview or print a report listing Sunday School

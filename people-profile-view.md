@@ -300,7 +300,7 @@ Attendance Tab
 ![Attendance Detail](People_Profile_36.JPG "Attendance Detail")
 
 Shows the **Upcoming Events** the Person is [[Enrolled
-in|events-Edit#Regular-Attenders]] and <Attendance> information for
+in|events-Edit#Regular-Attenders]] and [[Attendance|Attendance]] information for
 the current person.
 
 -   Upcoming Events: Shows the upcoming events the person is currently
@@ -461,7 +461,7 @@ to visits showing on the [[Profile View|people-Profile-View]] or
 
 * * * * *
 
-**Feedback**: Click **<Feedback>** to ask for help, report a problem, or
+**Feedback**: Click **[[Feedback|Feedback]]** to ask for help, report a problem, or
 make a suggestion to the Church360° Team.
 
 **Export**: Click to export out this person's contact data as a vCard
@@ -476,8 +476,8 @@ Household|people-Edit-a-Household]], [[New
 Person|people-New-Person]], [[Tags|people-Tags]], [[Person
 Attendance Record|people-Attendance-Records]], [[Person Offering
 Records|people-Offering-Records]], [[Edit an Event|events-Edit]],
-<Attendance>, [[Enter Attendance|attendance-Enter-Attendance]],
-<Offerings>, [[Enter Offerings|offerings-Enter-Offerings]],
+[[Attendance|Attendance]], [[Enter Attendance|attendance-Enter-Attendance]],
+[[Offerings|Offerings]], [[Enter Offerings|offerings-Enter-Offerings]],
 [[Download Mailing Labels|Download-Mailing-Labels]], [[Download
 Contribution Statements|Download-Contribution-Statements]]
 

@@ -156,7 +156,7 @@ Totals](Enter_Offerings_18.JPG "Fund Totals")
 
 * * * * *
 
-**Feedback**: Click **<Feedback>** to ask for help, report a problem, or
+**Feedback**: Click **[[Feedback|Feedback]]** to ask for help, report a problem, or
 make a suggestion to the Church360° Team.
 
 **Export**: Click **Export** to export offering data to a CSV

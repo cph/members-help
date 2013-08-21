@@ -16,7 +16,7 @@ This page allows administrators to set the following global settings for
 
 * * * * *
 
-**Feedback**: Click **<Feedback>** to ask for help, report a problem, or
+**Feedback**: Click **[[Feedback|Feedback]]** to ask for help, report a problem, or
 make a suggestion to the Church360° Team.
 
 * * * * *

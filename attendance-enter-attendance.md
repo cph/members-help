@@ -78,7 +78,7 @@ attendance before navigating away from this page.***
 
 * * * * *
 
-**Feedback**: Click **<Feedback>** to ask for help, report a problem, or
+**Feedback**: Click **[[Feedback|Feedback]]** to ask for help, report a problem, or
 make a suggestion to the Church360° Team.
 
 **Export**: Click **Export** to export the attendance data to a CSV

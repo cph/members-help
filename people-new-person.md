@@ -118,7 +118,7 @@ Your data is now imported into 360Members.
 
 * * * * *
 
-Click **<Feedback>** to ask for help, report a problem, or make a
+Click **[[Feedback|Feedback]]** to ask for help, report a problem, or make a
 suggestion to the Church360° Team.
 
 * * * * *

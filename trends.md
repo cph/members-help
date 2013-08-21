@@ -6,7 +6,7 @@ down into individual detailed data.
 Next to the **Trends** header at the top left of the page will be the
 name of the current report (unsaved reports will show the word
 "Custom"). Clicking the arrow to the right of the name will hide or
-reveal the list of Saved **<Reports>**. A saved **Report** can be loaded
+reveal the list of Saved **[[Reports|Reports]]**. A saved **Report** can be loaded
 by clicking on the name of the report.
 
 #### Graph
@@ -95,7 +95,7 @@ detailed view of data as a *Report*.
 
 * * * * *
 
-**Feedback**: Click **<Feedback>** to ask for help, report a problem, or
+**Feedback**: Click **[[Feedback|Feedback]]** to ask for help, report a problem, or
 make a suggestion to the Church360° Team.
 
 **Export**: Click **Export** to export offering data to a CSV
@@ -108,6 +108,6 @@ offering data that is currently displayed.
 
 * * * * *
 
-**Related Topics:** <Reports>
+**Related Topics:** [[Reports|Reports]]
 
 * * * * *

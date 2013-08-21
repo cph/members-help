@@ -48,17 +48,17 @@ In addition, each Event created must have either a **Start Time** and an
 -   **All Day**: Designates the event as a day-long event.
 -   **Description**: Enter a longer description of the event in the
     provided box.
--   **Attendance taken**: When marked, indicates that <Attendance> will
+-   **Attendance taken**: When marked, indicates that [[Attendance|Attendance]] will
     be recorded for this event.
 -   **Communion served**: When marked, indicates that Communion
     attendance may be recorded for this event. Also indicates that
     Communion may be served at this event.
--   **Offering taken**: When marked, indicates that <Offerings> will be
+-   **Offering taken**: When marked, indicates that [[Offerings|Offerings]] will be
     recorded for this event.
 
 * * * * *
 
-**Feedback**: Click **<Feedback>** to ask for help, report a problem, or
+**Feedback**: Click **[[Feedback|Feedback]]** to ask for help, report a problem, or
 make a suggestion to the Church360° Team.
 
 * * * * *

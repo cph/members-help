@@ -113,7 +113,7 @@ Column information: ![](People_View_16.JPG)
 
 ##### To delete an existing report:
 
-Go to the <Reports> page under the Overview menu, and use the delete
+Go to the [[Reports|Reports]] page under the Overview menu, and use the delete
 option.
 
 #### Mailing Labels
@@ -158,7 +158,7 @@ Statements](Contribution_Statements_button.JPG "Contribution Statements")
 
 * * * * *
 
-Click **<Feedback>** to ask for help, report a problem, or make a
+Click **[[Feedback|Feedback]]** to ask for help, report a problem, or make a
 suggestion to the Church360° Team.
 
 Click **Columns** to select which fields to display on the household

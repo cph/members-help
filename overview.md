@@ -60,7 +60,7 @@ Overview screen (since they have NOT hidden them yet).
 #### Data Health
 
 The Data Health section provides reminders about data that needs to be
-entered into the <Attendance> and <Offerings> areas of 360Members.
+entered into the [[Attendance|Attendance]] and [[Offerings|Offerings]] areas of 360Members.
 
 When you [[add Events|events-New]] into 360Members, you can select
 check boxes to indicate if Attendance is taken, if Communion is served,
@@ -146,14 +146,14 @@ value.](Overview_Details_13.JPG "Displaying a value.")
 
 * * * * *
 
-**Feedback**: Click **<Feedback>** to ask for help, report a problem, or
+**Feedback**: Click **[[Feedback|Feedback]]** to ask for help, report a problem, or
 make a suggestion to the Church360° Team.
 
 * * * * *
 
-**Related Topics:** <Feedback>, [[New Person|people-New-Person]],
-<Events>, [[New Event|events-New]], [[Monthly
+**Related Topics:** [[Feedback|Feedback]], [[New Person|people-New-Person]],
+[[Events|Events]], [[New Event|events-New]], [[Monthly
 View|events-Monthly-View]], [[Edit an Event|events-Edit]],
-<People>, <Attendance>, <Offerings>
+[[People|People]], [[Attendance|Attendance]], [[Offerings|Offerings]]
 
 * * * * *

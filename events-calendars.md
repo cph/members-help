@@ -1,5 +1,5 @@
 In 360Members, calendars can be set up for church groups or categories
-of <Events>.
+of [[Events|Events]].
 
 ### Adding a Calendar
 
@@ -33,7 +33,7 @@ Deletion](Events_Calendars_06.JPG "Confirm Deletion")
 
 * * * * *
 
-Click **<Feedback>** to ask for help, report a problem, or make a
+Click **[[Feedback|Feedback]]** to ask for help, report a problem, or make a
 suggestion to the Church360° Team.
 
 Click **Export** to export the calendar list to a CSV (Comma-Separated

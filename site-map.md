@@ -1,10 +1,10 @@
-[[**Overview**|Overview-Menu]]
+**[[Overview|Overview-Menu]]**
 
--   [[Overview|overview-Details]]
--   <Reports>
--   <Trends>
+-   [[Overview|overview]]
+-   [[Reports|Reports]]
+-   [[Trends|Trends]]
 
-[[**People**|People]]
+**[[People|People]]**
 
 -   [[View|people-View]]
     -   [[Profile View|people-Profile-View]]
@@ -22,7 +22,7 @@
 -   [[Pastoral Visits|people-Pastoral-Visits]]
 -   [[New Person|people-New-Person]]
 
-[[**Events**|Events]]
+**[[Events|Events]]**
 
 -   [[View|events-View]]
     -   [[Edit an Event|events-Edit]]
@@ -30,20 +30,20 @@
 -   [[Calendars|events-Calendars]]
 -   [[New Event|events-New]]
 
-[[**Attendance**|Attendance]]
+**[[Attendance|Attendance]]**
 
 -   [[Enter Attendance|attendance-Enter-Attendance]]
 
-[[**Offerings**|Offerings]]
+**[[Offerings|Offerings]]**
 
 -   [[Enter Offerings|offerings-Enter-Offerings]]
 -   [[Envelopes|People-Envelopes]]
 -   [[Funds|offerings-Funds]]
 -   [[Pledges|offerings-Pledges]]
 
-[[**Feedback**|Feedback]]
+**[[Feedback|Feedback]]**
 
-[[**Settings**|Settings]]
+**[[Settings|Settings]]**
 
 -   [[View|settings-Settings]]
 -   [[Logins|settings-Logins]]
@@ -51,4 +51,4 @@
 -   [[Sunday School|settings-Sunday-School]]
 -   [[Import from Shepherd's Staff|Import]]
 
-<FAQs>
+[[FAQs|FAQs]]

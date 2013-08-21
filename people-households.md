@@ -72,7 +72,7 @@ buttons](Households_action_buttons.jpg "Households action buttons")
 
 * * * * *
 
-Click **<Feedback>** to ask for help, report a problem, or make a
+Click **[[Feedback|Feedback]]** to ask for help, report a problem, or make a
 suggestion to the Church360° Team.
 
 Click **Columns** to select which fields to display on the household

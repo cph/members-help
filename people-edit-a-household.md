@@ -256,7 +256,7 @@ to visits showing on the profile view.
 
 * * * * *
 
-**Feedback**: Click **<Feedback>** to ask for help, report a problem, or
+**Feedback**: Click **[[Feedback|Feedback]]** to ask for help, report a problem, or
 make a suggestion to the Church360° Team.
 
 **Delete**: Click **Delete** to remove this household and all its

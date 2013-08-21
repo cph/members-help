@@ -158,7 +158,7 @@ button on the right, click the red ***Delete*** button, then click the
 
 * * * * *
 
-**Feedback**: Click **<Feedback>** to ask for help, report a problem, or
+**Feedback**: Click **[[Feedback|Feedback]]** to ask for help, report a problem, or
 make a suggestion to the Church360° Team.
 
 **Print** : Click to preview or print a report showing the permission
@@ -166,7 +166,7 @@ information that is currently displayed.
 
 * * * * *
 
-**Related Topics**: [[Logins|settings-Logins]], <People>, <Events>,
-<Attendance>, <Offerings>, <Settings>
+**Related Topics**: [[Logins|settings-Logins]], [[People|People]], [[Events|Events]],
+[[Attendance|Attendance]], [[Offerings|Offerings]], [[Settings|Settings]]
 
 * * * * *
