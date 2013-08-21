@@ -1,5 +1,5 @@
 When opened, the Events View displays a Calendar of Events: ![A Monthly
-Calendar of Events.](Events_View_01.JPG "A Monthly Calendar of Events.")
+Calendar of Events.](images/Events_View_01.JPG "A Monthly Calendar of Events.")
 
 The sample above shows a monthly view, with the current date highlighted
 (July 26, 2012 in this example). By default, the last month or week that
@@ -16,11 +16,11 @@ The following view controls are available at the top of the page:
 
 -   **Today**: Click to return the view to the current date:
 
-![Today](Events_View_02.JPG "Today")
+![Today](images/Events_View_02.JPG "Today")
 
 -   **Left Arrow**: Go back one month/week:
 
-![Left Arrow](Events_View_03.JPG "Left Arrow")
+![Left Arrow](images/Events_View_03.JPG "Left Arrow")
 
 Note that you can click each arrow control multiple times quickly to
 advance a number of times rapidly, without having to wait for the events
@@ -28,7 +28,7 @@ to display on the calendar.
 
 -   **Right Arrow**: Go forward one month/week:
 
-![Right Arrow](Events_View_04.JPG "Right Arrow")
+![Right Arrow](images/Events_View_04.JPG "Right Arrow")
 
 You can rapidly move back a number of times in the same fashion as noted
 above for advancing multiple weeks.
@@ -37,15 +37,15 @@ above for advancing multiple weeks.
 
 -   **Month**: Click to change the calendar to a monthly view:
 
-![Monthly View](Events_View_05.JPG "Monthly View")
+![Monthly View](images/Events_View_05.JPG "Monthly View")
 
 -   **Week**: Click to change the calendar to a weekly view:
 
-![Weekly View](Events_View_06.JPG "Weekly View")
+![Weekly View](images/Events_View_06.JPG "Weekly View")
 
 The weekly view always displays the week from Sunday through Saturday,
 here's a sample of a weekly view: ![A Weekly Calendar of
-Events.](Events_View_07.JPG "A Weekly Calendar of Events.")
+Events.](images/Events_View_07.JPG "A Weekly Calendar of Events.")
 
 Again, note that the current date is highlighted (July 26, 2012 in this
 example).

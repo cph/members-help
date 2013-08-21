@@ -21,7 +21,7 @@ initially set up: Administrators, Blocked, General Users, Pastors,
 Volunteers.
 
 ![Permissions Snap
-Shot](SettingPermissionsView.jpg "Permissions Snap Shot")
+Shot](images/SettingPermissionsView.jpg "Permissions Snap Shot")
 
 When you edit a permission group you will notice 5 separate groupings.
 Each grouping controls a type of permission. These types are People,

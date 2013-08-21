@@ -3,7 +3,7 @@ numbers. It can also be used to assign numbers to people records who do
 not have envelope numbers assigned to them. Note that envelope numbers
 can also be assigned to a person by [[editing their person
 record|people-Profile-View]]. ![The renumbering envelopes
-page.](Offering_Envelopes_01.JPG "The renumbering envelopes page.")
+page.](images/Offering_Envelopes_01.JPG "The renumbering envelopes page.")
 
 #### Filters
 
@@ -13,7 +13,7 @@ people are listed below. You can choose to view envelope assignments for
 Group|people-Smart-Groups]]**. Use the **as of** date selection to
 set the date that these envelope numbers are active: ![Filters for
 renumbering
-envelopes.](Offering_Envelopes_02.JPG "Filters for renumbering envelopes.")
+envelopes.](images/Offering_Envelopes_02.JPG "Filters for renumbering envelopes.")
 
 This date will typically be at the beginning of a calendar year when
 performing a mass renumbering process, but it is permissible to use any
@@ -23,7 +23,7 @@ date (past, current, or future).
 
 Beneath the filters is a control which will automatically renumber all
 envelopes alphabetically, starting with the entered number: ![Auto
-renumbering](Offering_Envelopes_03.JPG "Auto renumbering")
+renumbering](images/Offering_Envelopes_03.JPG "Auto renumbering")
 
 After selecting that starting number, click the **Renumber** button to
 assign **New Envelope** numbers to each person listed. Note that you
@@ -35,7 +35,7 @@ changes.
 The remainder of the page will list out all of the people matching the
 filter criteria, showing their **Name**, their **Current Envelope**
 number (if they have one assigned), and their **New Envelope**:
-![Envelope details](Offering_Envelopes_07.JPG "Envelope details")
+![Envelope details](images/Offering_Envelopes_07.JPG "Envelope details")
 
 ##### Envelope Sharing
 
@@ -49,7 +49,7 @@ of two couples - the first couple, Jack and Kathy Adams, are not sharing
 an envelope number, as Jack has no number, while Kathy is assigned
 envelope \#101; the second couple, Jeff and Jessica Banks, are sharing
 envelope \#102: ![Envelope
-Sharing](Offering_Envelopes_04.JPG "Envelope Sharing")
+Sharing](images/Offering_Envelopes_04.JPG "Envelope Sharing")
 
 ##### Making Changes Manually
 
@@ -61,12 +61,12 @@ also be noted to the right of the **New Envelope** column. For example,
 if envelope \#12 is entered for Nancy Ackerman, and that number was
 already assigned to Bob Aaron, a message will appear to the right of
 Nancy's New Envelope field, indicating this: ![Envelope already
-assigned](Offering_Envelopes_05.JPG "Envelope already assigned")
+assigned](images/Offering_Envelopes_05.JPG "Envelope already assigned")
 
 ##### Clear, Reset, and Save
 
 ![Clear, Reset, and
-Save](Offering_Envelopes_06.JPG "Clear, Reset, and Save")
+Save](images/Offering_Envelopes_06.JPG "Clear, Reset, and Save")
 
 -   Clicking the **Clear** button makes all **New Envelope** fields go
     blank, removing all assignments to this field for every record

@@ -5,31 +5,31 @@ of [[Events|Events]].
 
 To add a new calendar, enter the **Calendar Name**, **choose a color**
 to assign to it, and click the **Add Calendar** button. ![Adding a
-Calendar](Events_Calendars_01.JPG "Adding a Calendar")
+Calendar](images/Events_Calendars_01.JPG "Adding a Calendar")
 
 ### Editing a Calendar's Name or Color
 
 To edit a calendar's name, click on the name, type your revised name,
 and click the **Save** button: ![Editing a
-Calendar](Events_Calendars_02.JPG "Editing a Calendar")
+Calendar](images/Events_Calendars_02.JPG "Editing a Calendar")
 
 To edit the color assigned to a calendar, click on the color circle,
 then click on the new color to assign: ![Changing the assigned
-color](Events_Calendars_03.JPG "Changing the assigned color")
+color](images/Events_Calendars_03.JPG "Changing the assigned color")
 
 ### Deleting a Calendar
 
 To remove a calendar, perform the following steps:
 
 ​1. Click the red **-** button in the right column for that calendar:
-![Click the circle](Events_Calendars_04.JPG "Click the circle")
+![Click the circle](images/Events_Calendars_04.JPG "Click the circle")
 
 ​2. Click the red **Delete** button: ![Click
-Delete](Events_Calendars_05.JPG "Click Delete")
+Delete](images/Events_Calendars_05.JPG "Click Delete")
 
 ​3. Click the **OK** button in the Delete Calendar? box (clicking
 **Cancel** will not delete the calendar): ![Confirm
-Deletion](Events_Calendars_06.JPG "Confirm Deletion")
+Deletion](images/Events_Calendars_06.JPG "Confirm Deletion")
 
 * * * * *
 

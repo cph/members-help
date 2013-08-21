@@ -1,7 +1,7 @@
 To login to Church360°, enter your assigned ***username or email
 address*** and your ***password*** in the corresponding fields, then
 click the ***Login*** button: ![The Church 360° Login
-screen](Login_Screen.JPG "The Church 360° Login screen")
+screen](images/Login_Screen.JPG "The Church 360° Login screen")
 
 If you are unable to login, check the following:
 
@@ -12,7 +12,7 @@ If you are unable to login, check the following:
     ***password*** is not working, click on ***Forgot your password?***:
 
 ![The Forgot your password?
-screen](Forgot_Password.JPG "The Forgot your password? screen")
+screen](images/Forgot_Password.JPG "The Forgot your password? screen")
 
 -   You will be taken to a page where you can enter ***your email
     address*** and click ***Go***. An email will be sent to that email

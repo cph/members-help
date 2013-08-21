@@ -16,7 +16,7 @@ make a suggestion to the Church360° Team.
 **Print**: Click **Print** to preview or print a listing of your current
 reports.
 
-![Reports](Reports.PNG "Reports")
+![Reports](images/Reports.PNG "Reports")
 
 * * * * *
 

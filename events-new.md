@@ -8,7 +8,7 @@ are required when adding a new event: **Event Name**, **Calendar**,
 
 In addition, each Event created must have either a **Start Time** and an
 **End Time**, OR the Event must be scheduled as an **All Day** Event.
-![Adding a New Event.](Events_New_01.JPG "Adding a New Event.")
+![Adding a New Event.](images/Events_New_01.JPG "Adding a New Event.")
 
 #### List of Event Fields
 

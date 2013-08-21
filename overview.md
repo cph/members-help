@@ -1,11 +1,11 @@
 After logging in, the Overview screen will load: ![The
-overview page](Overview_Details_01.JPG "The overview page")
+overview page](images/Overview_Details_01.JPG "The overview page")
 
 #### Upcoming Events
 
 On the left side of the Overview will be a "timeline" list of the
 upcoming events in your calendar for the next 8 days: ![Upcoming
-Events.](Overview_Details_02.JPG "Upcoming Events.")
+Events.](images/Overview_Details_02.JPG "Upcoming Events.")
 
 Each day will list the first three events on that date. Click on an
 event's name to go to the [[Edit an Event|events-Edit]] page for that
@@ -22,7 +22,7 @@ events scheduled.
 Underneath the listing for the Upcoming Events will be a listing of the
 number of anniversaries and birthdays during this same 8-day period for
 the following birthdays and anniversaries: ![Upcoming anniversaries and
-birthdays.](Overview_Details_03.JPG "Upcoming anniversaries and birthdays.")
+birthdays.](images/Overview_Details_03.JPG "Upcoming anniversaries and birthdays.")
 
 Each item will show the number of those events which occur during the
 upcoming 8 days. For example, if there are 2 Birthdays upcoming, it will
@@ -40,7 +40,7 @@ Events timeline on the Overview.
 
 #### Notifications
 
-![Notifications](Overview_Details_04.JPG "Notifications")
+![Notifications](images/Overview_Details_04.JPG "Notifications")
 
 The Notifications area at the top right of the Overview page will list
 features added to 360Members during recent updates to the program. Each
@@ -74,7 +74,7 @@ have not had offerings recorded.
 
 Initially, the data health is indicated by listing the number of events
 without this data, displaying, for example: ![Data
-Health](Overview_Details_05.JPG "Data Health")
+Health](images/Overview_Details_05.JPG "Data Health")
 
 In this example, the data health is indicating that there are currently
 6 past events, where the event record indicates that either Attendance
@@ -86,7 +86,7 @@ been entered.
 Each of those displays can be clicked to expand that section, listing
 the events which are missing data, five at a time. For example, an
 expanded list for the Attendance section might read as follows: ![Data
-Health Details](Overview_Details_06.JPG "Data Health Details")
+Health Details](images/Overview_Details_06.JPG "Data Health Details")
 
 The **Enter Attendance** link can be clicked for an individual event to
 go to the [[Enter Attendance|attendance-Enter-Attendance]] page for
@@ -101,7 +101,7 @@ Offerings|offerings-Enter-Offerings]] page for that event.
 
 The Recent Attendance graph displays membership, attendance and giving
 data. ![Recent Attendance
-graph](Overview_Details_07.JPG "Recent Attendance graph")
+graph](images/Overview_Details_07.JPG "Recent Attendance graph")
 
 The values on this graph show the following data:
 
@@ -119,30 +119,30 @@ The arrow controls at the left and right edge of the graph, labelled as
 **People** on the left edge and **Amount** on the right, allow you to
 manipulate the dates for the graph's five-week display. By clicking them
 you can view data for different time periods: ![The arrow
-controls.](Overview_Details_08.JPG "The arrow controls.")
+controls.](images/Overview_Details_08.JPG "The arrow controls.")
 
 By default, when first viewing the graph, you will be looking at data
 for the six most recent weeks as a line graph. You can change the range
 and or time period of the graphed data by using the **+** and **-**
 slider control at the top left of the graph: ![The slider
-control.](Overview_Details_09.JPG "The slider control.")
+control.](images/Overview_Details_09.JPG "The slider control.")
 
 By sliding it up and down, you can change the time period the graph from
 weekly to a three-month, six-month, twelve-month, three-year, or
 five-year long time period. Here's an example of a yearly view (note how
 the slider bar position was changed to achieve this): ![A yearly
-view.](Overview_Details_10.JPG "A yearly view.")
+view.](images/Overview_Details_10.JPG "A yearly view.")
 
 To the right of the slider bar is a control to toggle between a bar
 graph and a line graph view: ![Graph Type Control, set to bar
-graph.](Overview_Details_11.JPG "Graph Type Control, set to bar graph.")
+graph.](images/Overview_Details_11.JPG "Graph Type Control, set to bar graph.")
 
 Here's an example of a bar graph display: ![A bar
-graph.](Overview_Details_12.JPG "A bar graph.")
+graph.](images/Overview_Details_12.JPG "A bar graph.")
 
 When you hover or point your mouse directly over any item on the graph,
 the individual value will display: ![Displaying a
-value.](Overview_Details_13.JPG "Displaying a value.")
+value.](images/Overview_Details_13.JPG "Displaying a value.")
 
 * * * * *
 

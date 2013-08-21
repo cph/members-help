@@ -2,7 +2,7 @@ Shepherd's Staff customers can submit their database to our
 Technical Support team for conversion to Church360°. Follow the
 on-screen instructions to select and submit your database: ![Importing
 data from Shepherd's
-Staff.](Import.JPG "Importing data from Shepherd's Staff.")
+Staff.](images/Import.JPG "Importing data from Shepherd's Staff.")
 
 If you have further questions regarding this process, or regarding a
 file submitted for conversion, please contact our technical support team

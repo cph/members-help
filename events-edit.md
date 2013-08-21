@@ -6,7 +6,7 @@ View|events-View#Changing-Your-View]] page. Update any field for
 the event, then click the **Save** button at the lower right of the
 screen. To exit without saving your changes, click the **Cancel** button
 at the lower right. ![Editing an
-Event.](Events_Edit_01.JPG "Editing an Event.")
+Event.](images/Events_Edit_01.JPG "Editing an Event.")
 
 The following fields are required for each event: **Event Name**,
 **Calendar**, **Start Date**, **End Date**, **Repeats** (Repeats should
@@ -71,10 +71,10 @@ taken** box is marked.
 
 To add a person as a regular attender, search and select their name in
 the box: ![Looking up a
-person](Events_Edit_02.JPG "Looking up a person")
+person](images/Events_Edit_02.JPG "Looking up a person")
 
 After clicking on a name to select it, click the **Add New** button:
-![The Add New button](Events_Edit_03.JPG "The Add New button")
+![The Add New button](images/Events_Edit_03.JPG "The Add New button")
 
 When you go to the [[person profile|people-Profile-View]] for one of
 the regular attenders, this event will display in the enrollment area
@@ -86,10 +86,10 @@ To remove a person from the list of regular attenders, perform the
 following steps:
 
 ​1. Click the red **-** to the right of their name: ![Delete
-symbol](Events_Edit_04.JPG "Delete symbol")
+symbol](images/Events_Edit_04.JPG "Delete symbol")
 
 ​2. Click the red **Delete** button: ![Delete
-button](Events_Edit_05.JPG "Delete button")
+button](images/Events_Edit_05.JPG "Delete button")
 
 * * * * *
 

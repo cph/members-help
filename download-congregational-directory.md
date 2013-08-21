@@ -2,23 +2,23 @@
 
 #### 1. Select a size:
 
-![Select a Size](Church_Directory_01.JPG "Select a Size")
+![Select a Size](images/Church_Directory_01.JPG "Select a Size")
 
 #### 2. Choose a theme:
 
-![Select a Theme](Church_Directory_02.JPG "Select a Theme")
+![Select a Theme](images/Church_Directory_02.JPG "Select a Theme")
 
 #### 3. Choose a layout:
 
 ![Select layout
-options](Church_Directory_03.JPG "Select layout options")
+options](images/Church_Directory_03.JPG "Select layout options")
 
 Note: Also choose whether to include listed email addresses and phone
 numbers, using the checkboxes at the lower left.
 
 #### 4. Review & Download:
 
-![Review & Download](Church_Directory_04.JPG "Review & Download")
+![Review & Download](images/Church_Directory_04.JPG "Review & Download")
 
 Verify your settings and click the ***Download Directory*** button at
 the lower right to generate your church directory report. *Note: If you
@@ -35,10 +35,10 @@ or you may be prompted to open or save the church directory.pdf file.
 Once, you open the saved report in Adobe Acrobat Reader (or in any
 Acrobat-compatible program) you can:
 
-Click the ![link=](Printer_icon.JPG "link=") button on the report to
+Click the ![link=](images/Printer_icon.JPG "link=") button on the report to
 print out a hard copy of the report.
 
-Click the ![link=](Save_icon.JPG "link=") button on the report to save
+Click the ![link=](images/Save_icon.JPG "link=") button on the report to save
 the report as a .pdf document on your computer.
 
 * * * * *
