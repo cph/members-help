@@ -85,8 +85,3 @@ Click **Print** to preview or print a report listing the Pastoral Visits
 that are currently displayed.
 
 * * * * *
-
-**Go to:** [360Members Help Chapters](Main%20Page) \> [People Help
-Chapters](People)
-
-* * * * *

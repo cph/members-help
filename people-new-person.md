@@ -127,6 +127,3 @@ suggestion to the Church360Â° Team.
 Household](people:%20Edit%20a%20Household)
 
 * * * * *
-
-**Go to:** [360Members Help Chapters](Main%20Page) \> [People Help
-Chapters](People)

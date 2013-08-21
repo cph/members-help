@@ -80,8 +80,3 @@ calendar.
 Event](events:%20New), [Edit an Event](events:%20Edit)
 
 * * * * *
-
-**Go to:** [360Members Help Chapters](Main%20Page) \> [Events Help
-Chapters](Events)
-
-* * * * *

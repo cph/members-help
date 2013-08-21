@@ -71,7 +71,3 @@ Household](people:%20Edit%20a%20Household), [Edit a
 Person](people:%20Profile%20View)
 
 * * * * *
-
-**Go to:** [360Members Help Chapters](Main%20Page)
-
-* * * * *

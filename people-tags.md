@@ -105,6 +105,3 @@ number of people assigned to each tag.
 [People List](people:%20View)
 
 * * * * *
-
-**Go to:** [360Members Help Chapters](Main%20Page) \> [People Help
-Chapters](People)

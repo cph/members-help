@@ -63,8 +63,3 @@ funds.
 **Related Topics:** [Add/Edit Offerings](offerings:%20Enter%20Offerings)
 
 * * * * *
-
-**Go to:** [360Members Help Chapters](Main%20Page) \> [Offering Help
-Chapters](Offerings)
-
-* * * * *

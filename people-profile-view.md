@@ -482,8 +482,3 @@ Records](people:%20Offering%20Records), [Edit an Event](events:%20Edit),
 Contribution Statements](Download%20Contribution%20Statements)
 
 * * * * *
-
-**Go to:** [360Members Help Chapters](Main%20Page) \> [People Help
-Chapters](People)
-
-* * * * *

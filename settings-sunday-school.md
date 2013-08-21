@@ -59,8 +59,3 @@ Grades.
 View](people:%20Profile%20View)
 
 * * * * *
-
-**Go to:** [360Members Help Chapters](Main%20Page) \> [Settings Help
-Chapters](Settings)
-
-* * * * *

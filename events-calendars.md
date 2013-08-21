@@ -50,6 +50,3 @@ that is currently displayed.
 Event](events:%20Edit)
 
 * * * * *
-
-**Go to:** [360Members Help Chapters](Main%20Page) \> [Events Help
-Chapters](Events)

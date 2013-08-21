@@ -2,9 +2,3 @@
 -   [Envelopes](People%20Envelopes)
 -   [Funds](offerings:%20Funds)
 -   [Pledges](offerings:%20Pledges)
-
-* * * * *
-
-**Go to:** [360Members Help Chapters](Main%20Page)
-
-* * * * *

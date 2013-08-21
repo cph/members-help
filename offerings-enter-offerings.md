@@ -173,8 +173,3 @@ offering data that is currently displayed.
 Person](people:%20Profile%20View), [Funds](offerings:%20Funds)
 
 * * * * *
-
-**Go to:** [360Members Help Chapters](Main%20Page) \> [Offering Help
-Chapters](Offerings)
-
-* * * * *

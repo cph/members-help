@@ -269,8 +269,3 @@ Mailing Labels](Download%20Mailing%20Labels), [Download Contribution
 Statements](Download%20Contribution%20Statements)
 
 * * * * *
-
-**Go to:** [360Members Help Chapters](Main%20Page) \> [People Help
-Chapters](People)
-
-* * * * *

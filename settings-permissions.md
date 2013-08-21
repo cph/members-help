@@ -170,8 +170,3 @@ information that is currently displayed.
 <Attendance>, <Offerings>, <Settings>
 
 * * * * *
-
-**Go to:** [360Members Help Chapters](Main%20Page) \> [Settings Help
-Chapters](Settings)
-
-* * * * *

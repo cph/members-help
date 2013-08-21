@@ -20,11 +20,6 @@ reports.
 
 * * * * *
 
-**Related Topics:** <Trends>
-
-* * * * *
-
-**Go to:** [360Members Help Chapters](Main%20Page) \> [Overview Help
-Chapters](Overview%20Menu)
+**Related Topics:** [Trends](trends)
 
 * * * * *

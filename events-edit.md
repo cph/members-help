@@ -113,8 +113,3 @@ View](events:%20Monthly%20View), [Weekly View](events:%20Weekly%20View),
 [Edit a Person](people:%20Profile%20View)
 
 * * * * *
-
-**Go to:** [360Members Help Chapters](Main%20Page) \> [Events Help
-Chapters](Events)
-
-* * * * *

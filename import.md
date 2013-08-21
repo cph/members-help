@@ -17,8 +17,3 @@ make a suggestion to the Church360Â° Team.
 Grades.
 
 * * * * *
-
-**Go to:** [360Members Help Chapters](Main%20Page) \> [Settings Help
-Chapters](Settings)
-
-* * * * *

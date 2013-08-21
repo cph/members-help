@@ -111,8 +111,3 @@ offering data that is currently displayed.
 **Related Topics:** <Reports>
 
 * * * * *
-
-**Go to:** [360Members Help Chapters](Main%20Page) \> [Overview Help
-Chapters](Overview%20Menu)
-
-* * * * *

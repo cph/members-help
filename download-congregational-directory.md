@@ -47,7 +47,3 @@ the report as a .pdf document on your computer.
 List](people:%20Households)
 
 * * * * *
-
-**Go to:** [360Members Help Chapters](Main%20Page)
-
-* * * * *

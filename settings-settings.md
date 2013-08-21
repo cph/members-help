@@ -20,8 +20,3 @@ This page allows administrators to set the following global settings for
 make a suggestion to the Church360Â° Team.
 
 * * * * *
-
-**Go to:** [360Members Help Chapters](Main%20Page) \> [Settings Help
-Chapters](Settings)
-
-* * * * *

@@ -51,9 +51,3 @@ the report as a .pdf document on your computer.
 List](people:%20Households), [Edit a
 Household](people:%20Edit%20a%20Household), [Profile
 View](people:%20Profile%20View), [Global Settings](settings:%20View)
-
-* * * * *
-
-**Go to:** [360members Help Chapters](Main%20Page)
-
-* * * * *

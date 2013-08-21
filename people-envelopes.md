@@ -102,8 +102,3 @@ Person](people:%20Profile%20View), [Funds](offerings:%20Funds), [Edit
 Household](people:%20Edit%20a%20Household)
 
 * * * * *
-
-**Go to:** [360Members Help Chapters](Main%20Page) \> [Offering Help
-Chapters](Offerings)
-
-* * * * *
