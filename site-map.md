@@ -1,54 +1,54 @@
-[**Overview**](Overview-Menu)
+[[**Overview**|Overview-Menu]]
 
--   [Overview](overview-Details)
+-   [[Overview|overview-Details]]
 -   <Reports>
 -   <Trends>
 
-[**People**](People)
+[[**People**|People]]
 
--   [View](people-View)
-    -   [Profile View](people-Profile-View)
-    -   [Download Congregational
-        Directory](Download-Congregational-Directory)
-    -   [Download Contribution
-        Statements](Download-Contribution-Statements)
-    -   [Download Mailing Labels](Download-Mailing-Labels)
+-   [[View|people-View]]
+    -   [[Profile View|people-Profile-View]]
+    -   [[Download Congregational
+        Directory|Download-Congregational-Directory]]
+    -   [[Download Contribution
+        Statements|Download-Contribution-Statements]]
+    -   [[Download Mailing Labels|Download-Mailing-Labels]]
 
--   [Households](people-Households)
-    -   [Edit a Household](people-Edit-a-Household)
+-   [[Households|people-Households]]
+    -   [[Edit a Household|people-Edit-a-Household]]
 
--   [Smart Groups](people-Smart-Groups)
--   [Tags](people-Tags)
--   [Pastoral Visits](people-Pastoral-Visits)
--   [New Person](people-New-Person)
+-   [[Smart Groups|people-Smart-Groups]]
+-   [[Tags|people-Tags]]
+-   [[Pastoral Visits|people-Pastoral-Visits]]
+-   [[New Person|people-New-Person]]
 
-[**Events**](Events)
+[[**Events**|Events]]
 
--   [View](events-View)
-    -   [Edit an Event](events-Edit)
+-   [[View|events-View]]
+    -   [[Edit an Event|events-Edit]]
 
--   [Calendars](events-Calendars)
--   [New Event](events-New)
+-   [[Calendars|events-Calendars]]
+-   [[New Event|events-New]]
 
-[**Attendance**](Attendance)
+[[**Attendance**|Attendance]]
 
--   [Enter Attendance](attendance-Enter-Attendance)
+-   [[Enter Attendance|attendance-Enter-Attendance]]
 
-[**Offerings**](Offerings)
+[[**Offerings**|Offerings]]
 
--   [Enter Offerings](offerings-Enter-Offerings)
--   [Envelopes](People-Envelopes)
--   [Funds](offerings-Funds)
--   [Pledges](offerings-Pledges)
+-   [[Enter Offerings|offerings-Enter-Offerings]]
+-   [[Envelopes|People-Envelopes]]
+-   [[Funds|offerings-Funds]]
+-   [[Pledges|offerings-Pledges]]
 
-[**Feedback**](Feedback)
+[[**Feedback**|Feedback]]
 
-[**Settings**](Settings)
+[[**Settings**|Settings]]
 
--   [View](settings-Settings)
--   [Logins](settings-Logins)
--   [Permissions](settings-Permissions)
--   [Sunday School](settings-Sunday-School)
--   [Import from Shepherd's Staff](Import)
+-   [[View|settings-Settings]]
+-   [[Logins|settings-Logins]]
+-   [[Permissions|settings-Permissions]]
+-   [[Sunday School|settings-Sunday-School]]
+-   [[Import from Shepherd's Staff|Import]]
 
 <FAQs>

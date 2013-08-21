@@ -12,14 +12,14 @@ envelopes can be shared by multiple people, such as a husband and a wife
 Smith).
 
 Therefore, in order to record an offering for a person, that person must
-have a [person record](people-New-Person) in 360Members. If you
-want to record an offering for an envelope, that [envelope must be
-assigned](people-Profile-View) to at least one person record.
+have a [[person record|people-New-Person]] in 360Members. If you
+want to record an offering for an envelope, that [[envelope must be
+assigned|people-Profile-View]] to at least one person record.
 
 When offerings are entered, they are always assigned a Fund. So, in
-order to enter an offering, you must first [Add the
-Fund](offerings-Funds) to your 360Members database. Click
-**Offerings, [Funds](offerings-Funds)** on the 360Members menu (on
+order to enter an offering, you must first [[Add the
+Fund|offerings-Funds]] to your 360Members database. Click
+**Offerings, [[Funds|offerings-Funds]]** on the 360Members menu (on
 the left side of the screen) to add a new fund or to review your list of
 funds.
 
@@ -35,7 +35,7 @@ funds.
 
 In order for an **Event** to appear in the drop list, it must occur on
 the selected **Date** and have the **Offering taken** checkbox selected
-[on the Event's settings](events-Edit).
+[[on the Event's settings|events-Edit]].
 
 Select an Event only if you want to compare offerings by events.
 
@@ -169,7 +169,7 @@ offering data that is currently displayed.
 
 * * * * *
 
-**Related Topics:** [People List](people-View), [Edit a
-Person](people-Profile-View), [Funds](offerings-Funds)
+**Related Topics:** [[People List|people-View]], [[Edit a
+Person|people-Profile-View]], [[Funds|offerings-Funds]]
 
 * * * * *

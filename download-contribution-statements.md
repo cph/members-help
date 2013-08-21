@@ -47,7 +47,7 @@ the report as a .pdf document on your computer.
 
 * * * * *
 
-**Related Topics:** [People List](people-View), [Household
-List](people-Households), [Edit a
-Household](people-Edit-a-Household), [Profile
-View](people-Profile-View), [Global Settings](settings-View)
+**Related Topics:** [[People List|people-View]], [[Household
+List|people-Households]], [[Edit a
+Household|people-Edit-a-Household]], [[Profile
+View|people-Profile-View]], [[Global Settings|settings-View]]

@@ -32,6 +32,6 @@ screen](Forgot_Password.JPG "The Forgot your password? screen")
     Support hours are Monday through Friday, 7:30 am to 5:00 pm Central
     Time.
 
-Note: If you uploaded a logo for your Church on the [View
-Settings](settings-View) area and marked the checkbox to ***Show my
+Note: If you uploaded a logo for your Church on the [[View
+Settings|settings-View]] area and marked the checkbox to ***Show my
 church's logo*** that logo will appear above the login fields.

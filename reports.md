@@ -1,7 +1,7 @@
 The Reports page is divided into two sections:
 
--   **My Reports**: A list of custom reports created in the [View
-    People](people-View) or <Trends> pages.
+-   **My Reports**: A list of custom reports created in the [[View
+    People|people-View]] or <Trends> pages.
 -   **Special Reports**: Built-in year end denominational reports.
 
 To view a report, click on the report name.
@@ -20,6 +20,6 @@ reports.
 
 * * * * *
 
-**Related Topics:** [Trends](trends)
+**Related Topics:** [[Trends|trends]]
 
 * * * * *

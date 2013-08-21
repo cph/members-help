@@ -60,6 +60,6 @@ funds.
 
 * * * * *
 
-**Related Topics:** [Add/Edit Offerings](offerings-Enter-Offerings)
+**Related Topics:** [[Add/Edit Offerings|offerings-Enter-Offerings]]
 
 * * * * *

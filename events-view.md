@@ -6,7 +6,7 @@ The sample above shows a monthly view, with the current date highlighted
 was viewed will display when returning to the Events View page.
 
 The events shown will be color coded according to the
-[Calendar](events-Calendars) that they are assigned. Past events,
+[[Calendar|events-Calendars]] that they are assigned. Past events,
 which occurred before today's date will appear on the calendar as
 "ghosted" events.
 
@@ -55,10 +55,10 @@ example).
 While viewing either a monthly or weekly calendar of events, you can
 perform the following actions:
 
--   **Click any Event**: To [Edit the Event](events-Edit). It is
+-   **Click any Event**: To [[Edit the Event|events-Edit]]. It is
     possible to edit "ghosted" (or previous) events.
--   **Click on a blank space on any Date**: To [Add a New Event on that
-    Date](events-New).
+-   **Click on a blank space on any Date**: To [[Add a New Event on that
+    Date|events-New]].
 
 * * * * *
 
@@ -76,7 +76,7 @@ calendar.
 
 * * * * *
 
-**Related Topics:** [Calendars](events-Calendars), [New
-Event](events-New), [Edit an Event](events-Edit)
+**Related Topics:** [[Calendars|events-Calendars]], [[New
+Event|events-New]], [[Edit an Event|events-Edit]]
 
 * * * * *

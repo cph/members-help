@@ -1,16 +1,16 @@
 The Envelope page is used to renumber your currently assigned envelope
 numbers. It can also be used to assign numbers to people records who do
 not have envelope numbers assigned to them. Note that envelope numbers
-can also be assigned to a person by [editing their person
-record](people-Profile-View). ![The renumbering envelopes
+can also be assigned to a person by [[editing their person
+record|people-Profile-View]]. ![The renumbering envelopes
 page.](Offering_Envelopes_01.JPG "The renumbering envelopes page.")
 
 #### Filters
 
 The filter controls at the top of the screen allow you to select which
 people are listed below. You can choose to view envelope assignments for
-**All People** in your database, or for any **[Smart
-Group](people-Smart-Groups)**. Use the **as of** date selection to
+**All People** in your database, or for any **[[Smart
+Group|people-Smart-Groups]]**. Use the **as of** date selection to
 set the date that these envelope numbers are active: ![Filters for
 renumbering
 envelopes.](Offering_Envelopes_02.JPG "Filters for renumbering envelopes.")
@@ -42,9 +42,9 @@ number (if they have one assigned), and their **New Envelope**:
 Couples from the same household will also have an indicator to the right
 of this column, showing if they are currently sharing an envelope or
 not. In order to potentially share an envelope number, couples must
-[Members of the same Household](people-Edit-a-Household), and
-must be linked as spouses in the [Family section of their person
-records](people-Profile-View). The following image shows an example
+[[Members of the same Household|people-Edit-a-Household]], and
+must be linked as spouses in the [[Family section of their person
+records|people-Profile-View]]. The following image shows an example
 of two couples - the first couple, Jack and Kathy Adams, are not sharing
 an envelope number, as Jack has no number, while Kathy is assigned
 envelope \#101; the second couple, Jeff and Jessica Banks, are sharing
@@ -97,8 +97,8 @@ make a suggestion to the Church360° Team.
 
 * * * * *
 
-**Related Topics:** [People List](people-View), [Edit a
-Person](people-Profile-View), [Funds](offerings-Funds), [Edit
-Household](people-Edit-a-Household)
+**Related Topics:** [[People List|people-View]], [[Edit a
+Person|people-Profile-View]], [[Funds|offerings-Funds]], [[Edit
+Household|people-Edit-a-Household]]
 
 * * * * *

@@ -15,12 +15,12 @@ page.](People_Households_01.JPG "An overview of the Households page.")
 
 ### Page Options and Controls
 
--   To [Edit a Household](people-Edit-a-Household) click on the
+-   To [[Edit a Household|people-Edit-a-Household]] click on the
     ***Name***:
 
 ![Clicking a Name](People_Households_02.JPG "Clicking a Name")
 
--   To [Edit the Head of Household's](people-Profile-View) personal
+-   To [[Edit the Head of Household's|people-Profile-View]] personal
     information, click on their name in the ***Head of Household***
     column to open their Person record:
 
@@ -57,14 +57,14 @@ Households has two action buttons at the bottom of the view.
 ![Households action
 buttons](Households-action-buttons.jpg "Households action buttons")
 
--   Click the **[Mailing Labels](Download-Mailing-Labels)** button
+-   Click the **[[Mailing Labels|Download-Mailing-Labels]]** button
     at the lower left of the screen to print mailing labels for the
     listed Households:
 
 ![Mailing Labels](Mailing_Labels_button.JPG "Mailing Labels")
 
--   Click the **[Church
-    Directory](Download-Congregational-Directory)** button at the
+-   Click the **[[Church
+    Directory|Download-Congregational-Directory]]** button at the
     lower left of the screen to print a church directory report for the
     listed Households.
 
@@ -87,10 +87,10 @@ Click **Print** to preview or print a report listing all households.
 
 * * * * *
 
-**Related Topics:** [Edit a Household](people-Edit-a-Household),
-[Download Church Directory](Download-Congregational-Directory),
-[Download Contribution
-Statements](Download-Contribution-Statements), [Download Mailing
-Labels](Download-Mailing-Labels)
+**Related Topics:** [[Edit a Household|people-Edit-a-Household]],
+[[Download Church Directory|Download-Congregational-Directory]],
+[[Download Contribution
+Statements|Download-Contribution-Statements]], [[Download Mailing
+Labels|Download-Mailing-Labels]]
 
 * * * * *

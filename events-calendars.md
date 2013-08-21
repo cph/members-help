@@ -46,7 +46,7 @@ that is currently displayed.
 
 * * * * *
 
-**Related Topics:** [Add an Event](events-New), [Edit an
-Event](events-Edit)
+**Related Topics:** [[Add an Event|events-New]], [[Edit an
+Event|events-Edit]]
 
 * * * * *

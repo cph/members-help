@@ -8,7 +8,7 @@ Selecting Pledge Criteria
 To determine which pledges records are displayed, set the proper
 criteria at the top of the screen:
 
-### 1. Select a [Fund](offerings-Funds) under the *Showing pledges to* drop down:
+### 1. Select a [[Fund|offerings-Funds]] under the *Showing pledges to* drop down:
 
 ![Fund Selection](Offering_Pledges_02.JPG "Fund Selection")
 
@@ -144,6 +144,6 @@ pledge data that is currently displayed.
 
 * * * * *
 
-**Related Topics:** [Add/Edit Offerings](offerings-Enter-Offerings)
+**Related Topics:** [[Add/Edit Offerings|offerings-Enter-Offerings]]
 
 * * * * *

@@ -1,9 +1,9 @@
--   [View](events-View)
--   [Calendars](events-Calendars)
--   [New Event](events-New)
+-   [[View|events-View]]
+-   [[Calendars|events-Calendars]]
+-   [[New Event|events-New]]
 
 * * * * *
 
-**Go to:** [360Members Help Chapters](Main-Page)
+**Go to:** [[360Members Help Chapters|Main-Page]]
 
 * * * * *

@@ -56,8 +56,8 @@ Each tag will also have a link to its right, indicating the number of
 people with that tag assigned to them: ![Link to People
 View](People_Tags_04.JPG "Link to People View")
 
-Clicking that link (as shown above)will take you to the [People
-View](people-View) to display a list of the people with that tag
+Clicking that link (as shown above)will take you to the [[People
+View|people-View]] to display a list of the people with that tag
 assigned.
 
 ### Deleting a Tag
@@ -80,11 +80,11 @@ To delete an existing Tag, perform the following steps:
 
 Tags are assigned to the people in your church in the following areas:
 
--   To individual people in your church when [editing their person
-    record](people-Profile-View#Tags).
+-   To individual people in your church when [[editing their person
+    record|people-Profile-View#Tags]].
 -   To multiple people records using the **Add or Remove Tags** button
-    at the bottom of the [People
-    View](people-View#Add-or-Remove-Tags) page.
+    at the bottom of the [[People
+    View|people-View#Add-or-Remove-Tags]] page.
 
 * * * * *
 
@@ -101,7 +101,7 @@ number of people assigned to each tag.
 
 * * * * *
 
-**Related Topics:** [Profile View](people-Profile-View#Tags),
-[People List](people-View)
+**Related Topics:** [[Profile View|people-Profile-View#Tags]],
+[[People List|people-View]]
 
 * * * * *

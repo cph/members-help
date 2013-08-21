@@ -127,7 +127,7 @@ window.
 
 #### Mailing Label
 
-Click the **[Mailing Label](Download-Mailing-Labels)** button to
+Click the **[[Mailing Label|Download-Mailing-Labels]]** button to
 print a mailing label for the Household: ![Mailing Label
 Button](Edit_Household_20.JPG "Mailing Label Button")
 
@@ -154,7 +154,7 @@ Add](Edit_Household_22.JPG "Looking for a Member to Add")
 
 ![Click on Name](Edit_Household_23.JPG "Click on Name")
 
-A reminder: in order to [add a person](people-New-Person) to a
+A reminder: in order to [[add a person|people-New-Person]] to a
 Household, the person record must be entered first.
 
 ##### 3. After you have made your selection, click the ***Add New*** button to finish adding this person to this household:
@@ -251,7 +251,7 @@ the selected individual.
 ![Profile View: Pastoral
 Visits](Household-Pastoral-visits2.jpg "Profile View: Pastoral Visits")
 
-Note: [Pastoral Visit](people-Pastoral-Visits) must be added prior
+Note: [[Pastoral Visit|people-Pastoral-Visits]] must be added prior
 to visits showing on the profile view.
 
 * * * * *
@@ -264,8 +264,8 @@ members from Church360°.
 
 * * * * *
 
-**Related Topics:** [New Person](people-New-Person), [Download
-Mailing Labels](Download-Mailing-Labels), [Download Contribution
-Statements](Download-Contribution-Statements)
+**Related Topics:** [[New Person|people-New-Person]], [[Download
+Mailing Labels|Download-Mailing-Labels]], [[Download Contribution
+Statements|Download-Contribution-Statements]]
 
 * * * * *

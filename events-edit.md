@@ -1,8 +1,8 @@
 ### Editing an Event
 
-To edit an event record, click on the event in either the [Monthly
-View](events-View) or the [Weekly
-View](events-View#Changing-Your-View) page. Update any field for
+To edit an event record, click on the event in either the [[Monthly
+View|events-View]] or the [[Weekly
+View|events-View#Changing-Your-View]] page. Update any field for
 the event, then click the **Save** button at the lower right of the
 screen. To exit without saving your changes, click the **Cancel** button
 at the lower right. ![Editing an
@@ -76,7 +76,7 @@ person](Events_Edit_02.JPG "Looking up a person")
 After clicking on a name to select it, click the **Add New** button:
 ![The Add New button](Events_Edit_03.JPG "The Add New button")
 
-When you go to the [person profile](people-Profile-View) for one of
+When you go to the [[person profile|people-Profile-View]] for one of
 the regular attenders, this event will display in the enrollment area
 (under the attendance section).
 
@@ -106,8 +106,8 @@ attached to it.
 
 * * * * *
 
-**Related Topics:** [Calendars](events-Calendars), [Monthly
-View](events-Monthly-View), [Weekly View](events-Weekly-View),
-[Edit a Person](people-Profile-View)
+**Related Topics:** [[Calendars|events-Calendars]], [[Monthly
+View|events-Monthly-View]], [[Weekly View|events-Weekly-View]],
+[[Edit a Person|people-Profile-View]]
 
 * * * * *

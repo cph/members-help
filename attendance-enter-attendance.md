@@ -5,8 +5,8 @@ page.](Enter-Attendance.PNG "An overview of the Enter Attendance page.")
 
 ### Recording Attendance
 
-In order to enter attendance in 360Members, you must first [Add an
-Event](events-New), making sure to mark the **Attendance Taken**
+In order to enter attendance in 360Members, you must first [[Add an
+Event|events-New]], making sure to mark the **Attendance Taken**
 checkbox.
 
 Begin entering attendance by choosing the **Event** to record attendance
@@ -23,14 +23,14 @@ Arrow](Attendance-event-selection-bar-up-arrow.png "Up Arrow")
 Arrow](Attendance-event-selection-bar-down-arrow.png "Down Arrow")
 
 Remember that in order to record attendance for an event, you must first
-make sure you have [added the event](events-New).
+make sure you have [[added the event|events-New]].
 
 After selecting the event, the entry portion of the page will load.
 
 The **Listing** section shows which group of people will list in the
 entry portion of the page. This defaults to **All People** which lists
 all people records in your 360Members data. You can click the orange
-link, select a **[Smart Group](people-Smart-Groups)** which will
+link, select a **[[Smart Group|people-Smart-Groups]]** which will
 change the people listed in the entry portion of the page to only the
 members of that Smart Group: ![Choosing a Smart
 Group](Enter_Attendance_04.JPG "Choosing a Smart Group")
@@ -88,7 +88,7 @@ Notepad, Microsoft Access, Excel, and Word).
 
 * * * * *
 
-**Related Topics:** [Add an Event](events-new), [Edit a
-Person](people-profile-view)
+**Related Topics:** [[Add an Event|events-new]], [[Edit a
+Person|people-profile-view]]
 
 * * * * *

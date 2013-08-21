@@ -1,14 +1,14 @@
  The people view displays the selected person records,
 showing the columns or fields selected in the **Columns** settings (See
-the [Columns and Reports](people-View#Columns-and-Reports)
+the [[Columns and Reports|people-View#Columns-and-Reports]]
 section below for details): ![An overview of the People View
 page.](People_View_01.JPG "An overview of the People View page.")
 
-To [open a person record](people-Profile-View), click on that
+To [[open a person record|people-Profile-View]], click on that
 person's name: ![Clicking on a
 person.](People_View_02.JPG "Clicking on a person.")
 
-To [open a household record](people-Edit-a-Household), click on
+To [[open a household record|people-Edit-a-Household]], click on
 the household name (Note: If not seeing a Household column, you may need
 to select Household as one of your selected columns under the
 **Columns** settings): ![Clicking on a
@@ -39,8 +39,8 @@ None](People_View_07.JPG "Selecting All or None")
 
 #### Selecting a Smart Group
 
-If you wish to view only the people in a certain [Smart
-Group](people-Smart-Groups):
+If you wish to view only the people in a certain [[Smart
+Group|people-Smart-Groups]]:
 
 ##### 1. Click on the *People* link at the top right of the list:
 
@@ -118,20 +118,20 @@ option.
 
 #### Mailing Labels
 
-Click the **[Mailing Labels](Download-Mailing-Labels)** button at
+Click the **[[Mailing Labels|Download-Mailing-Labels]]** button at
 the lower left of the screen to print mailing labels for the listed
 People: ![Mailing Labels](Mailing_Labels_button.JPG "Mailing Labels")
 
 #### Church Directory
 
-Click the **[Church Directory](Download-Congregational-Directory)**
+Click the **[[Church Directory|Download-Congregational-Directory]]**
 button to print a church directory report for the listed People.
 ![Church Directory](Church_Directory_button.JPG "Church Directory")
 
 #### Add or Remove Tags
 
 Click the **Add or Remove Tags** button to select the
-[Tags](people-Tags) that you want to add to -- or remove from -- the
+[[Tags|people-Tags]] that you want to add to -- or remove from -- the
 selected group of people: ![Add or Remove
 Tags](Add_or_Remove_Tags_button.JPG "Add or Remove Tags")
 
@@ -141,7 +141,7 @@ people: ![Tag Selection](People_View_17.JPG "Tag Selection")
 
 This is a common method for assigning or updating Tag settings for a
 large group of people simultaneously (as opposed to on a person by
-person basis). Note: To add a new tag go to [Tags](people-Tags).
+person basis). Note: To add a new tag go to [[Tags|people-Tags]].
 
 #### Send Email
 
@@ -151,8 +151,8 @@ Email](Send_Email_button.JPG "Send Email")
 
 #### Contribution Statements
 
-Click the **[Contribution
-Statements](Download-Contribution-Statements)** button to print
+Click the **[[Contribution
+Statements|Download-Contribution-Statements]]** button to print
 offering statements for the selected people: ![Contribution
 Statements](Contribution_Statements_button.JPG "Contribution Statements")
 
@@ -174,12 +174,12 @@ that is currently displayed.
 
 * * * * *
 
-**Related Topics:** [Profile View](people-Profile-View), [Edit a
-Household](people-Edit-a-Household),
-[Households](people-Households), [Download Congregational
-Directory](Download-Congregational-Directory), [Download
-Contribution Statements](Download-Contribution-Statements),
-[Download Mailing Labels](Download-Mailing-Labels), [Smart
-Groups](people-Smart-Groups)
+**Related Topics:** [[Profile View|people-Profile-View]], [[Edit a
+Household|people-Edit-a-Household]],
+[[Households|people-Households]], [[Download Congregational
+Directory|Download-Congregational-Directory]], [[Download
+Contribution Statements|Download-Contribution-Statements]],
+[[Download Mailing Labels|Download-Mailing-Labels]], [[Smart
+Groups|people-Smart-Groups]]
 
 * * * * *

@@ -1,3 +1,3 @@
--   [Overview](overview-details)
--   [Reports](reports)
--   [Trends](trends)
+-   [[Overview|overview-details]]
+-   [[Reports|reports]]
+-   [[Trends|trends]]

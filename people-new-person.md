@@ -25,8 +25,8 @@ List of Person Fields
 -   **Preferred Name**: Informal first name or nickname (i.e.: Bob)
 -   **Household**: The **Household** that this person is a member. To
     determine how to complete the Household field, see the instructions
-    below in the [Person and Household
-    Records](people-New-Person#Person-and-Household-Records)
+    below in the [[Person and Household
+    Records|people-New-Person#Person-and-Household-Records]]
     section below.
 -   **Status**: Member status; your options here will vary, depending on
     the denomination of your Church.
@@ -86,7 +86,7 @@ is not assigned to a specific household. This is often an easy method
 for entering Visitors into your database on their first visit, where you
 may not have all of their contact and family information ready to enter.
 Note: It is possible to later add such a person record to a household
-record by [editing a Household record](people-Edit-a-Household),
+record by [[editing a Household record|people-Edit-a-Household]],
 and adding the person under the Members of the Household section. --\>
 
 Upload vCard File
@@ -123,7 +123,7 @@ suggestion to the Church360° Team.
 
 * * * * *
 
-**Related Topics:** [Households](people-Households), [Edit a
-Household](people-Edit-a-Household)
+**Related Topics:** [[Households|people-Households]], [[Edit a
+Household|people-Edit-a-Household]]
 
 * * * * *
