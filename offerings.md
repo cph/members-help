@@ -1,4 +1,4 @@
--   [Enter Offerings](offerings:%20Enter%20Offerings)
--   [Envelopes](People%20Envelopes)
--   [Funds](offerings:%20Funds)
--   [Pledges](offerings:%20Pledges)
+-   [Enter Offerings](offerings-Enter-Offerings)
+-   [Envelopes](People-Envelopes)
+-   [Funds](offerings-Funds)
+-   [Pledges](offerings-Pledges)

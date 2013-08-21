@@ -1,54 +1,54 @@
-[**Overview**](Overview%20Menu)
+[**Overview**](Overview-Menu)
 
--   [Overview](overview:%20Details)
+-   [Overview](overview-Details)
 -   <Reports>
 -   <Trends>
 
 [**People**](People)
 
--   [View](people:%20View)
-    -   [Profile View](people:%20Profile%20View)
+-   [View](people-View)
+    -   [Profile View](people-Profile-View)
     -   [Download Congregational
-        Directory](Download%20Congregational%20Directory)
+        Directory](Download-Congregational-Directory)
     -   [Download Contribution
-        Statements](Download%20Contribution%20Statements)
-    -   [Download Mailing Labels](Download%20Mailing%20Labels)
+        Statements](Download-Contribution-Statements)
+    -   [Download Mailing Labels](Download-Mailing-Labels)
 
--   [Households](people:%20Households)
-    -   [Edit a Household](people:%20Edit%20a%20Household)
+-   [Households](people-Households)
+    -   [Edit a Household](people-Edit-a-Household)
 
--   [Smart Groups](people:%20Smart%20Groups)
--   [Tags](people:%20Tags)
--   [Pastoral Visits](people:%20Pastoral%20Visits)
--   [New Person](people:%20New%20Person)
+-   [Smart Groups](people-Smart-Groups)
+-   [Tags](people-Tags)
+-   [Pastoral Visits](people-Pastoral-Visits)
+-   [New Person](people-New-Person)
 
 [**Events**](Events)
 
--   [View](events:%20View)
-    -   [Edit an Event](events:%20Edit)
+-   [View](events-View)
+    -   [Edit an Event](events-Edit)
 
--   [Calendars](events:%20Calendars)
--   [New Event](events:%20New)
+-   [Calendars](events-Calendars)
+-   [New Event](events-New)
 
 [**Attendance**](Attendance)
 
--   [Enter Attendance](attendance:%20Enter%20Attendance)
+-   [Enter Attendance](attendance-Enter-Attendance)
 
 [**Offerings**](Offerings)
 
--   [Enter Offerings](offerings:%20Enter%20Offerings)
--   [Envelopes](People%20Envelopes)
--   [Funds](offerings:%20Funds)
--   [Pledges](offerings:%20Pledges)
+-   [Enter Offerings](offerings-Enter-Offerings)
+-   [Envelopes](People-Envelopes)
+-   [Funds](offerings-Funds)
+-   [Pledges](offerings-Pledges)
 
 [**Feedback**](Feedback)
 
 [**Settings**](Settings)
 
--   [View](settings:%20Settings)
--   [Logins](settings:%20Logins)
--   [Permissions](settings:%20Permissions)
--   [Sunday School](settings:%20Sunday%20School)
+-   [View](settings-Settings)
+-   [Logins](settings-Logins)
+-   [Permissions](settings-Permissions)
+-   [Sunday School](settings-Sunday-School)
 -   [Import from Shepherd's Staff](Import)
 
 <FAQs>

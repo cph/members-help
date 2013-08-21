@@ -1,7 +1,7 @@
 This screen allows you to configure the Sunday School Grades that you
 can assign to a person. Grades can be assigned to an individual person
-on their [Profile View](people:%20Profile%20View) in the [Personal
-Information](people:%20Profile%20View#Personal%20Information) section.
+on their [Profile View](people-Profile-View) in the [Personal
+Information](people-Profile-View#Personal-Information) section.
 
 When Church360° is initially set up, the following Sunday School Grades
 are already configured:
@@ -55,7 +55,7 @@ Grades.
 
 * * * * *
 
-**Related Topics:** [Add a Person](people:%20New%20Person), [Profile
-View](people:%20Profile%20View)
+**Related Topics:** [Add a Person](people-New-Person), [Profile
+View](people-Profile-View)
 
 * * * * *

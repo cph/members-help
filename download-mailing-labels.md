@@ -65,9 +65,9 @@ the report as a .pdf document on your computer.
 
 * * * * *
 
-**Related Topics:** [People List](people:%20View), [Household
-List](people:%20Households), [Edit a
-Household](people:%20Edit%20a%20Household), [Edit a
-Person](people:%20Profile%20View)
+**Related Topics:** [People List](people-View), [Household
+List](people-Households), [Edit a
+Household](people-Edit-a-Household), [Edit a
+Person](people-Profile-View)
 
 * * * * *

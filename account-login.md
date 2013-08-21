@@ -33,5 +33,5 @@ screen](Forgot_Password.JPG "The Forgot your password? screen")
     Time.
 
 Note: If you uploaded a logo for your Church on the [View
-Settings](settings:%20View) area and marked the checkbox to ***Show my
+Settings](settings-View) area and marked the checkbox to ***Show my
 church's logo*** that logo will appear above the login fields.

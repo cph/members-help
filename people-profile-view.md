@@ -18,7 +18,7 @@ your changes: ![Update](People_Profile_02.JPG "Update")
 ### Member Status
 
 Underneath the person's name is their current member status (this was
-initially set when the [person was added](people:%20New%20Person) to
+initially set when the [person was added](people-New-Person) to
 your Church360° database): ![Member
 Status](People_Profile_03.JPG "Member Status")
 
@@ -102,7 +102,7 @@ automatically by the above methods, there is not a link or page in
 
 ### Tags
 
-The person's currently assigned [Tags](people:%20Tags) list below their
+The person's currently assigned [Tags](people-Tags) list below their
 Household name.
 
 ##### To make changes to a person's current Tags, click the *Edit* link:
@@ -236,7 +236,7 @@ window.
 
 #### Mailing Label
 
-Click the **[Mailing Label](Download%20Mailing%20Labels)** button to
+Click the **[Mailing Label](Download-Mailing-Labels)** button to
 print a mailing label for this person: ![Mailing Label
 Button](Edit_Household_20.JPG "Mailing Label Button")
 
@@ -262,7 +262,7 @@ Family Tab
 
 Shows the family relationships of the current person. Note that this is
 a different group/linkage than the [Members of the
-Household](people:%20Edit%20a%20Household#Members%20of%20the%20Household)
+Household](people-Edit-a-Household#Members-of-the-Household)
 on the household page (which shows the people who are residents of that
 current household). This family area is meant to show the related family
 members for the current person. Family members are classified by their
@@ -300,15 +300,15 @@ Attendance Tab
 ![Attendance Detail](People_Profile_36.JPG "Attendance Detail")
 
 Shows the **Upcoming Events** the Person is [Enrolled
-in](events:%20Edit#Regular%20Attenders) and <Attendance> information for
+in](events-Edit#Regular-Attenders) and <Attendance> information for
 the current person.
 
 -   Upcoming Events: Shows the upcoming events the person is currently
     enrolled in and the next occasion when those events will be held.
     Regular Attenders are set for each event when [editing that
-    event](events:%20Edit#Regular%20Attendees) or by marking the Regular
+    event](events-Edit#Regular-Attendees) or by marking the Regular
     checkbox when [entering
-    Attendance](attendance:%20Enter%20Attendance) for that event.
+    Attendance](attendance-Enter-Attendance) for that event.
 -   Attendance: Shows the last worship service this person attended, the
     last time they communed, and the last time they attended a bible
     class. Also shows the total number of services and the total bible
@@ -453,11 +453,11 @@ Date, Visitor, Visit Type and whether or not Communion was taken by the
 selected individual.
 
 ![Profile View: Pastoral
-Visits](Profile%20view%20pastoral%20visits.JPG "Profile View: Pastoral Visits")
+Visits](Profile-view-pastoral-visits.JPG "Profile View: Pastoral Visits")
 
-Note: [Pastoral Visit](people:%20Pastoral%20Visits) must be added prior
-to visits showing on the [Profile View](people:%20Profile%20View) or
-[Household View](people:%20Edit%20a%20Household).
+Note: [Pastoral Visit](people-Pastoral-Visits) must be added prior
+to visits showing on the [Profile View](people-Profile-View) or
+[Household View](people-Edit-a-Household).
 
 * * * * *
 
@@ -471,14 +471,14 @@ file.
 
 * * * * *
 
-**Related Topics:** [Households](people:%20Households), [Edit a
-Household](people:%20Edit%20a%20Household), [New
-Person](people:%20New%20Person), [Tags](people:%20Tags), [Person
-Attendance Record](people:%20Attendance%20Records), [Person Offering
-Records](people:%20Offering%20Records), [Edit an Event](events:%20Edit),
-<Attendance>, [Enter Attendance](attendance:%20Enter%20Attendance),
-<Offerings>, [Enter Offerings](offerings:%20Enter%20Offerings),
-[Download Mailing Labels](Download%20Mailing%20Labels), [Download
-Contribution Statements](Download%20Contribution%20Statements)
+**Related Topics:** [Households](people-Households), [Edit a
+Household](people-Edit-a-Household), [New
+Person](people-New-Person), [Tags](people-Tags), [Person
+Attendance Record](people-Attendance-Records), [Person Offering
+Records](people-Offering-Records), [Edit an Event](events-Edit),
+<Attendance>, [Enter Attendance](attendance-Enter-Attendance),
+<Offerings>, [Enter Offerings](offerings-Enter-Offerings),
+[Download Mailing Labels](Download-Mailing-Labels), [Download
+Contribution Statements](Download-Contribution-Statements)
 
 * * * * *

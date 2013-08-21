@@ -43,7 +43,7 @@ the report as a .pdf document on your computer.
 
 * * * * *
 
-**Related Topics:** [People List](people:%20View), [Household
-List](people:%20Households)
+**Related Topics:** [People List](people-View), [Household
+List](people-Households)
 
 * * * * *

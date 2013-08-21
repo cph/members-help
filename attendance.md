@@ -1,1 +1,1 @@
--   [Enter Attendance](attendance:%20Enter%20Attendance)
+-   [Enter Attendance](attendance-Enter-Attendance)

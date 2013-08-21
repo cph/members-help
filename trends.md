@@ -45,7 +45,7 @@ Trend**, choose what type of data to **Show** along with any other data
 options (which will change depending on the type of data you wish to
 view). Each Trend will run for a **Group** of people in your database;
 choose this group as well (to add a different group to this list, create
-a **[Smart Group](people:%20Smart%20Groups)**. Give the Trend a **Name**
+a **[Smart Group](people-Smart-Groups)**. Give the Trend a **Name**
 (which will pre-fill with a suggested name, based on the data selected),
 then Click the **Add Trend** button to complete adding the new trend.
 

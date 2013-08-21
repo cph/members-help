@@ -1,36 +1,36 @@
 The Enter Attendance screen is used to record attendance for
 the people who attend Events. The screen can also be used to update or
 edit existing attendance data: ![An overview of the Enter Attendance
-page.](Enter%20Attendance.PNG "An overview of the Enter Attendance page.")
+page.](Enter-Attendance.PNG "An overview of the Enter Attendance page.")
 
 ### Recording Attendance
 
 In order to enter attendance in 360Members, you must first [Add an
-Event](events:%20New), making sure to mark the **Attendance Taken**
+Event](events-New), making sure to mark the **Attendance Taken**
 checkbox.
 
 Begin entering attendance by choosing the **Event** to record attendance
 for: ![Event Selection
-Bar](Attendance%20event%20selection%20bar.PNG%C3%A2%E2%82%AC%C5%BD "Event Selection Bar")
+Bar](Attendance-event-selection-bar.PNG "Event Selection Bar")
 
 Note: If the event you need, is not visible. Use the navigation arrows
 at the top or bottom of the Event Selection bar to find additional
 events.
 
 ![Up
-Arrow](Attendance%20event%20selection%20bar%20up%20arrow.png "Up Arrow")
+Arrow](Attendance-event-selection-bar-up-arrow.png "Up Arrow")
 ![Down
-Arrow](Attendance%20event%20selection%20bar%20down%20arrow.png "Down Arrow")
+Arrow](Attendance-event-selection-bar-down-arrow.png "Down Arrow")
 
 Remember that in order to record attendance for an event, you must first
-make sure you have [added the event](events:%20New).
+make sure you have [added the event](events-New).
 
 After selecting the event, the entry portion of the page will load.
 
 The **Listing** section shows which group of people will list in the
 entry portion of the page. This defaults to **All People** which lists
 all people records in your 360Members data. You can click the orange
-link, select a **[Smart Group](people:%20Smart%20Groups)** which will
+link, select a **[Smart Group](people-Smart-Groups)** which will
 change the people listed in the entry portion of the page to only the
 members of that Smart Group: ![Choosing a Smart
 Group](Enter_Attendance_04.JPG "Choosing a Smart Group")

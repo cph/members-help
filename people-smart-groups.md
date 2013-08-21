@@ -72,10 +72,10 @@ their criteria, and the number of people in each group.
 
 * * * * *
 
-**Related Topics:** [Edit a Household](people:%20Edit%20a%20Household),
+**Related Topics:** [Edit a Household](people-Edit-a-Household),
 [Download Congregational
-Directory](Download%20Congregational%20Directory), [Download
-Contribution Statements](Download%20Contribution%20Statements),
-[Download Mailing Labels](Download%20Mailing%20Labels)
+Directory](Download-Congregational-Directory), [Download
+Contribution Statements](Download-Contribution-Statements),
+[Download Mailing Labels](Download-Mailing-Labels)
 
 * * * * *

@@ -1,9 +1,9 @@
--   [View](events:%20View)
--   [Calendars](events:%20Calendars)
--   [New Event](events:%20New)
+-   [View](events-View)
+-   [Calendars](events-Calendars)
+-   [New Event](events-New)
 
 * * * * *
 
-**Go to:** [360Members Help Chapters](Main%20Page)
+**Go to:** [360Members Help Chapters](Main-Page)
 
 * * * * *
