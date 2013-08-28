@@ -10,7 +10,7 @@
 
 [[Settings|settings]]
 
-[[Login|account-login]]
+<!-- [[Login|account-login]] -->
 
 [[Feedback|feedback]]
 
