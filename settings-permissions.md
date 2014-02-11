@@ -15,7 +15,7 @@ Table of Contents
 -   [[Supervisory permissions|#Supervisory_permissions]]
     -   [[Managing Permission Groups|#Managing_Permission_Groups]]
 
-Permissions Groupings and Types
+
 ----------------------------------------------------------------------------------------------------------------------------------
 
 360Members provides five default permission groups when the product is
@@ -95,6 +95,7 @@ Supervisory permissions
     plus offering funds.
 -   Can delete records - User can delete information. This information
     includes people, household, events,
+
 
 \<\\!--Each permission group has six categories of security settings
 (People, Events, Attendance, Offerings, Settings, and Self) which

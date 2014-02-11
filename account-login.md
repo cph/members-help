@@ -1,6 +1,7 @@
 ## Login
 
 To login to Church360°, enter your assigned ***username or email
+
 address*** and your ***password*** in the corresponding fields, then
 click the ***Login*** button: ![The Church 360° Login
 screen](images/Login_Screen.JPG "The Church 360° Login screen")
