@@ -85,52 +85,6 @@ Supervisory permissions
 -   Can delete records - User can delete information. This information
     includes people, household, events,
 
-
-\<\\!--Each permission group has six categories of security settings
-(People, Events, Attendance, Offerings, Settings, and Self) which
-correspond to the main menu items in Church360° (with the exception of
-Self, which is explained below). Each of the categories has their own
-levels of permissions. Those six categories and their corresponding
-levels of permission break down as follows:
-
--   **People**:
-    -   *None*: people menu is disabled
-    -   *Limited*: may view people and households
-    -   *All*: may create and edit people, households, and tags
-    -   *Administrative*: full access to people menu (including the
-        deletion of people and households)
-
--   **Events**:
-    -   *None*: events menu is disabled
-    -   *Limited*: may view events
-    -   *All*: may create and edit calendars, rooms, and events
-    -   *Administrative*: full access to events menu (including the
-        deletion of events)
-
--   **Attendance**:
-    -   *None*: attendance menu is disabled
-    -   *Entry*: may enter, edit, and delete attendance
-    -   *All*: may enter, edit, and delete attendance and view graphs
-    -   *Administrative*: full access to the attendance menu
-
--   **Offerings**:
-    -   *None*: offerings menu is disabled
-    -   *Entry*: may add, edit, and delete offerings by envelope number
-        only (cannot see giver names)
-    -   *All*: may add, edit, and delete offerings by envelope number or
-        giver names; may add, edit, and delete funds
-    -   *Administrative*: full access to the offerings menu
-
--   **Settings**:
-    -   *None*: no access to the settings menu
-    -   *Administrative*: full access to the settings menu
-
--   **Self**:
-    -   *View*: may view, but not edit their profile
-    -   *All*: may view and update their own person record
-
---\>
-
 ### Managing Permission Groups
 
 To add a permission group, enter a ***Name***, select a ***Color***, and
