@@ -5,17 +5,6 @@ assigned to each of the permission groups. When working with your [[user
 logins|settings-Logins]], remember security rights are defined by the
 ***Permission Group*** assigned to each login. 
 
-Table of Contents
-
--   [[Permissions Groupings and Types|#Permissions_Groupings_and_Types]]
--   [[People Permissions|#People_Permissions]]
--   [[Events Permissions|#Events_Permissions]]
--   [[Attendance Permissions|#Attendance_Permissions]]
--   [[Offerings Permissions|#Offerings_Permissions]]
--   [[Supervisory permissions|#Supervisory_permissions]]
-    -   [[Managing Permission Groups|#Managing_Permission_Groups]]
-
-
 ----------------------------------------------------------------------------------------------------------------------------------
 
 360Members provides five default permission groups when the product is
