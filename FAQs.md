@@ -3,7 +3,6 @@
 ## People 
 
 ##### View
-
 Q: How do I find a person's profile? 
 
 A:
@@ -19,8 +18,6 @@ A:
 Q: How do I print off the offering statements only for those who contributed? How do i Print Contribution Statements? Q: how do we print pledge statements?
 
 A:
-
-
 
 #####	Profile
 Q: How do I Enter a Marriage?
