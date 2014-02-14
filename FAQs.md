@@ -2,6 +2,10 @@
 # FAQs
 ## Overview
 ##### Reports
+Q: How do i delete a report?
+
+A:
+
 ##### Trends 
 Q: How do you get average attendance for a month, quarter, year etc 
 
