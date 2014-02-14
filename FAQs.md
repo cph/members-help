@@ -64,29 +64,31 @@ o	Would you use "visitor" to tag somebody as a "prospect", or can you add custom
 o	Can you tag members of a household all at once?
 o	New person
 o	In setting up a new person, when I choose Miss as the title the software keeps changing it to Ms. when the record is created.  Is this a bug that needs to be fixed?  Otherwise why offer the choice.  I have to manually go back and correct it to Miss. 
-o	Households
+##### Households
 o	If you pull someone out of a household and they are the only member of the household, does the household get deleted?
 o	is there any way to uncheck all the receives newsletter checkboxes at once? 
-o	Pastoral Visits
+##### Pastoral Visits
 o	Pastoral Visit: how do I add visitee that is not in the church body? 
 ## Events
 o	Calendars
 o	Can you import Google calendars into the Events? 
 o	Can they "Subscribe" to different calendars?
 o	Can they import these to Google Calendars or iCalendars?
-o	Events
+#####	View
 How do i delete an event?
 o	Can they receive automatic emails for event alerts?
 o	Can you ever add a private event on the calendar that would not be public?
 o	One other question ... how do I delete events from the calendar that are no longer relevant?  Attendance was taken at these events.  For example, worship services that were specified with the time, but the times no longer apply.
 o	Can you download a calendar into a printable newsletter? 
 o	Where do I put in days such as Lent, Easter, etc.? 
-Attendance
+## Attendance
+##### Enter Attendance
 o	How do you get average attendance for a month, quarter, year etc 
 o	When I add attendance and check off it also checks communion. I have to go back and change  back to blank. How do I correct this
 
-Contributions
-o	Enter Offerings
+## Offerings
+ Enter Offerings
+ 
 o	Can you enter offerings by way of envelope number? 
 o	Is possible to post contributions without having an event? 
 o	Why would you get a message giver "xxx" not found when you click enter on the offering amount, when the system actually found that person in the name/envelope column? It is a new member that was just entered
