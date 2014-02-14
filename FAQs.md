@@ -2,7 +2,7 @@
 # FAQs
 ## Overview
 ##### Reports
-Q: How do i delete a report?
+Q: How do I delete a report?
 
 A:
 
@@ -44,12 +44,11 @@ A:
 Q: How do I Change someone's Status? if you accidentally enter someone as a member, can you go back and change them to a visitor? 
 
 A:
-
-Q: How do i delete a person?
+Q: How do I move someone to a new household?
 
 A:
 
-Q: How do I move someone to a new household?
+Q: How do i delete a person?
 
 A:
 
@@ -164,13 +163,21 @@ A:
 ## Offerings
 ##### Enter Offerings
  
-o	Can you enter offerings by way of envelope number? 
+Q: Can you enter offerings by way of envelope number? 
 
-o	Is possible to post contributions without having an event? 
+A:
 
-o	Why would you get a message giver "xxx" not found when you click enter on the offering amount, when the system actually found that person in the name/envelope column? It is a new member that was just entered
+Q: Is possible to post contributions without having an event? 
 
-o	What do you suggest for entering offerings when the person entering them doesn't get the check numbers?
+A: 
+
+Q: Why would you get a message giver "xxx" not found when you click enter on the offering amount, when the system actually found that person in the name/envelope column? It is a new member that was just entered
+
+A: 
+
+Q: What do you suggest for entering offerings when the person entering them doesn't get the check numbers?
+
+A:
 
 #####	Funds
 Q: How do I delete an offering fund? o	More specifically, how do I delete funds that were used 3 years ago but are no longer relevant to current bookkeeping? 
