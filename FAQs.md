@@ -4,7 +4,7 @@
 ##### Reports
 Q: How do I delete a report?
 
-A: There are two types of reports in 360 Members. User created reports named my report and special report, supplied by the programmers. You can delete any of the My Reports by clicking Overview in the Main menu, clicking Reports, and clicking the gray minus to the right of the report.
+A: There are two types of reports in 360 Members. User created reports named My Reports and Special Reports, supplied by the programmers. You may delete any of the My Reports by clicking Overview in the Main menu, clicking Reports, and clicking the gray minus to the right of the report.
 
 ##### Trends 
 Q: How do you get average attendance for a month, quarter, year etc 
@@ -117,6 +117,12 @@ Q: Can you add pics to that directory?
 
 ## Events
 
+Q: How do i create or modify events on the calendar?
+
+A:
+
+
+
 #####	Calendars
 Q: Can you import Google calendars into the Events? 
 
@@ -181,7 +187,11 @@ A:
 
 Q: What do you suggest for entering offerings when the person entering them doesn't get the check numbers?
 
-A:
+A: 
+
+Q: When adding offerings, the names are not being saved
+
+A: 
 
 #####	Funds
 Q: How do I delete an offering fund? o	More specifically, how do I delete funds that were used 3 years ago but are no longer relevant to current bookkeeping? 
