@@ -20,14 +20,14 @@ Q: How do I print off the offering statements only for those who contributed? Ho
 
 A:
 
-#### Directory
+##### Directory
 Q: When you print directories, does it list the family member in order of head of household, spouse, and then children?
 
 o	can you make the font larger in the small directory?
 
 o	can you add pics to that directory?
 
-####	Profile
+#####	Profile
 Q: How do I Enter a Marriage?
 
 A:
