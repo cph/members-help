@@ -1,54 +1,62 @@
 {Under Construction}
+# FAQs
+## People 
 
-How do I Change someone's Status?
+##### View
 
-How do I Enter a Marriage?
+Q: How do I find a person's profile? 
 
-I have a couple who was recently married. How do I join their Envelopes?
+A:
 
-How do i Print Contribution Statements?
+Q: Sending e-mails to smart groups?  what email client does that work with
 
-How do I Import my Data From Shepherd's Staff?
-
-How do i delete a person?
-
-How do i delete an event?
-
-What are permissions Groups?
-
-How do I create logins?
-
-#### People 
-
-view
-
-Q: Can we rearrange the selected columns on a report 
-
-Q: How do I pull up a certain persons profile? 
-
-Q: Sending e-mails to smart groups? 
-
-Q: what email client does that work with
-
-Q: Can you create a mail merge from data in Church 360?
+A: 
 
 Q: Can you do multiple sort, such as by ZIP, then Last Name, then First Name for bulk mailing? 
 
-Q: How do I print off the offering statements only for those who contributed? 
+A: 
 
-Q: how do we print pledge statements?
+Q: How do I print off the offering statements only for those who contributed? How do i Print Contribution Statements? Q: how do we print pledge statements?
 
-o	Directory
-o	Is it possible as the pastor to have a directory that would include unlisted phone #? 
-o	When you print directories, does it list the family member in order of head of household, spouse, and then children?
+A:
+
+#### Directory
+Q: When you print directories, does it list the family member in order of head of household, spouse, and then children?
+
 o	can you make the font larger in the small directory?
+
 o	can you add pics to that directory?
-o	Profile
-o	if you accidentally enter someone as a member, can you go back and change them to a visitor? 
-o	When you created Jill's new household the home phone number moved with her.  What will Bill's home phone number be?
-o	How can we change household.  We have not been able to do that, it automatically chooses one and will not let us change it
-o	What status (History) is a child considered?
-o	Tags
+
+####	Profile
+Q: How do I Enter a Marriage?
+
+A:
+
+Q: I have a couple who was recently married. How do I join their Envelopes?
+
+A:
+
+Q: How do I Change someone's Status? if you accidentally enter someone as a member, can you go back and change them to a visitor? 
+
+A:
+
+Q: How do i delete a person?
+
+A:
+
+Q: How do I move someone to a new household?
+
+A:
+
+Q:  How can we change household.  We have not been able to do that, it automatically chooses one and will not let us change it?
+
+A:
+
+Q: When you created Jill's new household the home phone number moved with her.  What will Bill's home phone number be?
+
+A: 
+
+#### Tags
 o	can you belong to more than one group?
 o	How do you assign and elder? 
 o	Is there a way to add multiple people to a tag at one time, versus having to add the tag in each individual record. 
@@ -61,12 +69,13 @@ o	If you pull someone out of a household and they are the only member of the hou
 o	is there any way to uncheck all the receives newsletter checkboxes at once? 
 o	Pastoral Visits
 o	Pastoral Visit: how do I add visitee that is not in the church body? 
-Events
+## Events
 o	Calendars
 o	Can you import Google calendars into the Events? 
 o	Can they "Subscribe" to different calendars?
 o	Can they import these to Google Calendars or iCalendars?
 o	Events
+How do i delete an event?
 o	Can they receive automatic emails for event alerts?
 o	Can you ever add a private event on the calendar that would not be public?
 o	One other question ... how do I delete events from the calendar that are no longer relevant?  Attendance was taken at these events.  For example, worship services that were specified with the time, but the times no longer apply.
@@ -101,7 +110,9 @@ o	Follow up to the envelope question:  Can you hide the names when entering via 
 o	Will our current Shepherd staff info automatically transfer to 360? 
 o	How do members view their own information without seeing everyone's information? 
 o	Our Sunday School classes have two grades.  Will we need to change that?
-Further Training
+How do I create logins?
+How do I Import my Data From Shepherd's Staff?
+#### Further Training
 o	I noticed this session is being recorded.  Is there an address we can go to, to review this session or the one from this morning?
 
 System
