@@ -57,19 +57,20 @@ o	Can you tag members of a household all at once?
 o	New person
 o	In setting up a new person, when I choose Miss as the title the software keeps changing it to Ms. when the record is created.  Is this a bug that needs to be fixed?  Otherwise why offer the choice.  I have to manually go back and correct it to Miss. 
 
-##### Directory
-Q: When you print directories, does it list the family member in order of head of household, spouse, and then children?
-
-o  can you make the font larger in the small directory?
-
-o	can you add pics to that directory?
 ##### Pastoral Visits
 o  Pastoral Visit: how do I add visitee that is not in the church body?
 
 ##### Households
 o	If you pull someone out of a household and they are the only member of the household, does the household get deleted?
 o	is there any way to uncheck all the receives newsletter checkboxes at once? 
+
+##### Directory
  
+Q: When you print directories, does it list the family member in order of head of household, spouse, and then children?
+
+o  can you make the font larger in the small directory?
+
+o  can you add pics to that directory?
 ## Events
 o	Calendars
 o	Can you import Google calendars into the Events? 
