@@ -4,7 +4,7 @@
 ##### Reports
 Q: How do I delete a report?
 
-A:
+A: To delete a report, click the Overview tab , click Reports, and click the gray minus circle to the right of the report.
 
 ##### Trends 
 Q: How do you get average attendance for a month, quarter, year etc 
@@ -35,7 +35,7 @@ A:
 #####	Profile
 Q: How do I Enter a Marriage?
 
-A:
+A: 
 
 Q: I have a couple who was recently married. How do I join their Envelopes?
 
@@ -51,6 +51,10 @@ A:
 Q: How do i delete a person?
 
 A:
+
+Q: How do i mark someone as deceased? 
+
+A: 
 
 Q:  How can we change household.  We have not been able to do that, it automatically chooses one and will not let us change it?
 
