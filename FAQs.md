@@ -11,7 +11,6 @@ Q: How do you get a date to appear on financial reports printed under trends? He
 
 A: 
 ## People 
-
 ##### View
 Q: How do I find a person's profile? 
 
