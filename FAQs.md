@@ -162,32 +162,85 @@ A:
 ##### Enter Offerings
  
 o	Can you enter offerings by way of envelope number? 
+
 o	Is possible to post contributions without having an event? 
+
 o	Why would you get a message giver "xxx" not found when you click enter on the offering amount, when the system actually found that person in the name/envelope column? It is a new member that was just entered
+
 o	What do you suggest for entering offerings when the person entering them doesn't get the check numbers?
-o	Funds
-o	How do I delete an offering fund? 
-o	More specifically, how do I delete funds that were used 3 years ago but are no longer relevant to current bookkeeping? 
-o	Pledges
-o	How do you change pledge amounts? 
-o	Envelopes
-o	how would you remove a contribution number for a person who left the church so I could reuse the number for someone else? 
-o	If you change the envelope #, what is the impact on contribution statements? Any protection in 360 to prevent reassignment of numbers with contributions in last year? 
 
-Settings
-o  Can we set up more than one login per email when one already exists? 
-o	Follow up to the envelope question:  Can you hide the names when entering via envelope number, so that there can be discretion for givers from, say, volunteers? 
-o	Will our current Shepherd staff info automatically transfer to 360? 
-o	How do members view their own information without seeing everyone's information? 
-o	Our Sunday School classes have two grades.  Will we need to change that?
-How do I create logins?
-How do I Import my Data From Shepherd's Staff?
-#### Further Training
-o	I noticed this session is being recorded.  Is there an address we can go to, to review this session or the one from this morning?
+#####	Funds
+Q: How do I delete an offering fund? o	More specifically, how do I delete funds that were used 3 years ago but are no longer relevant to current bookkeeping? 
 
-System
-o	How are backups handled?  Are they stored off site and if so how many days?
-o	Who has access to our information other than us?
-o	Is it possible for a Pastor to access Church360 from his iphone or ipad?
-o	What is the URL for accessing 360 from an iphone? Is there an church360 icon that can be shared with users to place on desktops to link directly to our log in? 
-o	Is there an church360 icon that can be shared with users to place on desktops to link directly to our log in?
+A:
+
+##### Pledges
+Q: How do you change pledge amounts? 
+
+A: 
+
+##### Envelopes
+Q: How would you remove a contribution number for a person who left the church so I could reuse the number for someone else? 
+
+A:
+
+Q:	If you change the envelope #, what is the impact on contribution statements? Any protection in 360 to prevent reassignment of numbers with contributions in last year? 
+
+A:
+
+## Settings
+Q: Can we set up more than one login per email when one already exists? 
+
+A:
+
+Q: Follow up to the envelope question:  Can you hide the names when entering via envelope number, so that there can be discretion for givers from, say, volunteers? 
+
+A:
+
+Q: Will our current Shepherd staff info automatically transfer to 360? 
+
+A:
+
+Q: How do members view their own information without seeing everyone's information? 
+
+A:
+
+Q: Our Sunday School classes have two grades.  Will we need to change that?
+
+A:
+
+Q: How do I create logins?
+
+A:
+
+Q: How do I Import my Data From Shepherd's Staff?
+
+A:
+
+
+#### Questions not related to a specific feature
+Q: I noticed this session is being recorded.  Is there an address we can go to, to review this session or the one from this morning?
+
+A:
+
+Q: How are backups handled?  Are they stored off site and if so how many days?
+
+A:
+
+Q: Who has access to our information other than us?
+
+A:
+
+Q: Is it possible for a Pastor to access Church360 from his iphone or ipad?
+
+A:
+
+
+Q: What is the URL for accessing 360 from an iphone? Is there an church360 icon that can be shared with users to place on desktops to link directly to our log in? 
+
+A:
+
+
+Q: Is there an church360 icon that can be shared with users to place on desktops to link directly to our log in?
+
+A:
