@@ -4,7 +4,7 @@
 ##### Reports
 Q: How do I delete a report?
 
-A: To delete a report, click the Overview tab , click Reports, and click the gray minus circle to the right of the report.
+A: There are two types of reports in 360 Members. User created reports named my report and special report, supplied by the programmers. You can delete any of the My Reports by clicking Overview in the Main menu, clicking Reports, and clicking the gray minus to the right of the report.
 
 ##### Trends 
 Q: How do you get average attendance for a month, quarter, year etc 
