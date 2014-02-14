@@ -1,15 +1,15 @@
 {Under Construction}
 # FAQs
 ## Overview
-##### Trends
+##### Reports
 ##### Trends 
 Q: How do you get average attendance for a month, quarter, year etc 
 
 A:
-o  How do you get a date to appear on financial reports printed under trends? 
-o	Here clarification on the question about a date on financial reports. We go to "trends" and select "offerings by fund".  We then select the date range and need to print the report.  How do we get the date the funds were collected to show on the report? (i.e. the date of the worship service) 
 
+Q: How do you get a date to appear on financial reports printed under trends? Here clarification on the question about a date on financial reports. We go to "trends" and select "offerings by fund".  We then select the date range and need to print the report.  How do we get the date the funds were collected to show on the report? (i.e. the date of the worship service) 
 
+A: 
 ## People 
 
 ##### View
