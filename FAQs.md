@@ -18,16 +18,25 @@ What are permissions Groups?
 
 How do I create logins?
 
-People
-o  Person view
-o	Can we rearrange the selected columns on a report 
-o	How do I pull up a certain persons profile? 
-o	Sending e-mails to smart groups? 
-o	what email client does that work with
-o	Can you create a mail merge from data in Church 360?
-o	Can you do multiple sort, such as by ZIP, then Last Name, then First Name for bulk mailing? 
-o	How do I print off the offering statements only for those who contributed? 
-o	how do we print pledge statements?
+#### People 
+
+view
+
+Q: Can we rearrange the selected columns on a report 
+
+Q: How do I pull up a certain persons profile? 
+
+Q: Sending e-mails to smart groups? 
+
+Q: what email client does that work with
+
+Q: Can you create a mail merge from data in Church 360?
+
+Q: Can you do multiple sort, such as by ZIP, then Last Name, then First Name for bulk mailing? 
+
+Q: How do I print off the offering statements only for those who contributed? 
+
+Q: how do we print pledge statements?
 
 o	Directory
 o	Is it possible as the pastor to have a directory that would include unlisted phone #? 
