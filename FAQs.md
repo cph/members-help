@@ -56,9 +56,9 @@ Q: When you created Jill's new household the home phone number moved with her.  
 
 A: 
 
-#### Tags
-o	can you belong to more than one group?
-o	How do you assign and elder? 
+##### Tags
+
+Q: How do you assign and elder? can you belong to more than one group?
 o	Is there a way to add multiple people to a tag at one time, versus having to add the tag in each individual record. 
 o	Would you use "visitor" to tag somebody as a "prospect", or can you add custom member types?
 o	Can you tag members of a household all at once?
