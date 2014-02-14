@@ -1,7 +1,7 @@
 {Under Construction}
 # FAQs
 ## Overview
-## Reports
+##### Reports
 ##### Trends 
 Q: How do you get average attendance for a month, quarter, year etc 
 
