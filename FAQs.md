@@ -9,9 +9,13 @@ A: There are two types of reports in 360 Members. User created reports named My 
 ##### Trends 
 Q: How do you get average attendance for a month, quarter, year etc 
 
-A:
+A: 360 Members does offer the oto
 
-Q: How do you get a date to appear on financial reports printed under trends? Here clarification on the question about a date on financial reports. We go to "trends" and select "offerings by fund".  We then select the date range and need to print the report.  How do we get the date the funds were collected to show on the report? (i.e. the date of the worship service) 
+Q: How do you get a date to appear on financial reports printed under trends? 
+
+Q: We would like a date range to show on our printed trends report. How can we accomplish this task?
+
+We go to "trends" and select "offerings by fund".  We then select the date range and need to print the report.  How do we get the date the funds were collected to show on the report? (i.e. the date of the worship service) 
 
 A: 
 ## People 
