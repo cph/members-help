@@ -4,7 +4,7 @@
 ##### Reports
 >Q: How do I delete a report?
 
->A: There are two types of reports in 360 Members. User created reports named My Reports and Special Reports, supplied by the programmers. You may delete any of the My Reports by clicking Overview in the Main menu, clicking Reports, and clicking the gray minus to the right of the report.
+>>A: There are two types of reports in 360 Members. User created reports named My Reports and Special Reports, supplied by the programmers. You may delete any of the My Reports by clicking Overview in the Main menu, clicking Reports, and clicking the gray minus to the right of the report.
 
 ##### Trends 
 > Q: How do you get average attendance for a month, quarter, year etc 
@@ -20,9 +20,9 @@
 >> Once the desired zoom is set. The user may export or print the weekly average attendance by using the action buttons in the orange banner. 
 
 
-Q: We would like a date range to show on our printed Trends report. How can we accomplish this task?
+>Q: We would like a date range to show on our printed Trends report. How can we accomplish this task?
 
-A: Currently 360 Members does not include the data range on a Trends report. You can include the data range in the report name if you would like. To accomplish this task:
+>>A: Currently 360 Members does not include the data range on a Trends report. You can include the data range in the report name if you would like. To accomplish this task:
 - Go to Trends
 - Select a report from the gray Reports bar
 - Click the Save Reports button
