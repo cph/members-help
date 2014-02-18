@@ -19,8 +19,7 @@
 
 > Once the desired zoom is set. The user may export or print the weekly average attendance by using the action buttons in the orange banner. 
 
-### 
-
+# 
 > Q: We would like a date range to show on our printed Trends report. How can we accomplish this task?
 
 > A: Currently 360 Members does not include the data range on a Trends report. You can include the data range in the report name if you would like. To accomplish this task:
@@ -33,24 +32,24 @@
 - Click Save
 - Click Print
 
-### 
-
+# 
 ## People 
 ### View
 > Q: How do I find a person's profile? 
 
-> A: The People view includes a filter. This feature allows you to search your entire Membership database by first name and last name. To utilize this feature, click People in the Main Menu, type the person's first and/or last name in the Type to filter results box, and to click the persons name in the results. 
+> A: The People view includes a filter. This feature allows you to search your entire Membership database by first name and last name. To utilize this feature, click People in the Main Menu, type the person's first and/or last name in the Type to filter results box, and click the persons name in the results. 
 
-### 
-
->Q: Hod do I send a blast e-mail to a Smart Group of members and 
+# 
+> Q: How do I send a blast e-mail to a Smart Group of members? 
 
 > A
 
-mart groups?  what email client does that work with
+# 
+> Q: What email client does that work with
 
->A: 
+> A: 
 
+# 
 Q: Can you do multiple sort, such as by ZIP, then Last Name, then First Name for bulk mailing? 
 
 A: 
