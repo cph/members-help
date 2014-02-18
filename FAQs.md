@@ -19,11 +19,17 @@ A: 360 Members does provide weekly average attendance totals in the Trends view.
 
 Once the desired zoom is set. The user may export or print the weekly average attendance by using the action buttons in the orange banner. 
 
-Q: How do you get a date to appear on financial reports printed under trends? 
+Q: We would like a date range to show on our printed Trends report. How can we accomplish this task?
 
-Q: We would like a date range to show on our printed trends report. How can we accomplish this task?
-
-We go to "trends" and select "offerings by fund".  We then select the date range and need to print the report.  How do we get the date the funds were collected to show on the report? (i.e. the date of the worship service) 
+A: Currently 360 Members does not include the data range on a Trends report. You can include the data range in the report name if you would like. To accomplish this task:
+- Go to Trends
+- Select a report from the gray Reports bar
+- Click the Save Reports button
+- Select a desired report
+- Click Save as a new report
+- Enter new report name including the date range
+- Click Save
+- Click Print
 
 A: 
 ## People 
