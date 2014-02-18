@@ -17,7 +17,8 @@
 - The Fifth notch shows the weeklly average for a year for 3 consecutive years.
 - The sixth notch shows the weekly aveage for a year for 5 consecutive years. 
 
-Once the desired zoom is set. The user may export or print the weekly average attendance by using the action buttons in the orange banner. 
+>> Once the desired zoom is set. The user may export or print the weekly average attendance by using the action buttons in the orange banner. 
+
 
 Q: We would like a date range to show on our printed Trends report. How can we accomplish this task?
 
