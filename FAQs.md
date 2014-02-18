@@ -9,7 +9,7 @@ A: There are two types of reports in 360 Members. User created reports named My 
 ##### Trends 
 Q: How do you get average attendance for a month, quarter, year etc 
 
-A: 360 Members does offer the oto
+A: 360 Members does offer weekly average attendance totals in the Trends view. The user controls the type of total seen by moving the zoom bar up and down. There are six notches on the bar
 
 Q: How do you get a date to appear on financial reports printed under trends? 
 
