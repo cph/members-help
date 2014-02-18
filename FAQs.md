@@ -9,7 +9,7 @@
 ##### Trends 
 >Q: How do you get average attendance for a month, quarter, year etc 
 
->A: 360 Members does provide weekly average attendance totals in the Trends view. The user controls the type of total seen by moving the light gray zoom bar up and down. Zooming out will cause the time segments to go from weeks to months to years and zooming in will make the time segments go from years to months to weeks. There are six notches on the zoom bar and each notch displays a diffent time frame. 
+>A: 360 Members does provide weekly average attendance totals in the Trends view. The user controls the type of total seen by moving the light gray zoom bar up and down. Zooming out will cause the time segments to go from weeks to months to years and zooming in will make the time segments go from years to months to weeks. There are six notches on the zoom bar and each notch displays a diffent time frame.
 - The top notch shows the total number of attenders for each week over a six week time period.
 - The second notch displays the weekly average attendance for a month for three consecutive months. 
 - The third notch displays the weekly average attendance for a month for six consecutive months.
@@ -18,6 +18,8 @@
 - The sixth notch shows the weekly aveage for a year for 5 consecutive years. 
 
 >Once the desired zoom is set. The user may export or print the weekly average attendance by using the action buttons in the orange banner. 
+
+### 
 
 >Q: We would like a date range to show on our printed Trends report. How can we accomplish this task?
 
@@ -30,6 +32,8 @@
 - Enter new report name including the date range
 - Click Save
 - Click Print
+
+### 
 
 A: 
 ## People 
