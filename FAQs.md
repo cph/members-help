@@ -35,7 +35,6 @@
 
 ### 
 
-A: 
 ## People 
 ### View
 Q: How do I find a person's profile? 
