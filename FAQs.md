@@ -44,7 +44,7 @@
 
 > A: Users can limit the number of people who receive an email by selecting a Smart Group in the People view prior to clicking the send email button at the bottom of the view. 
 
-> To select a smart group, click people, then to the right of Listing xx-xx of xxx, click the word in the orange font. In the tray change Select a Smart Group: to the desired Smart Group and click the gray x. 
+> To select a smart group, click People in the Main menu, then to the right of Listing xx-xx of xxx, click the word in the orange font. In the tray change Select a Smart Group: to the desired Smart Group and click the gray x. 
 
 > Once the Smart Group is selected, click All a the lower left of the People view, and Click Send Email. Your list of email address will show in the To: Field of your new mail.
 
