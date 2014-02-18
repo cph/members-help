@@ -40,9 +40,15 @@
 > A: The People view includes a filter. This feature allows you to search your entire Membership database by first name and last name. To utilize this feature, click People in the Main Menu, type the person's first and/or last name in the Type to filter results box, and click the persons name in the results. 
 
 # 
-> Q: How do I send a blast e-mail to a Smart Group of members? 
+> Q: How do I send an e-mail blast to a Smart Group of members? 
 
-> A
+> A: Users can limit the number of people who receive an email by selecting a Smart Group in the People view prior to clicking the send email button at the bottom of the view. 
+
+> To select a smart group, click people, then to the right of Listing xx-xx of xxx, click the word in the orange font. In the tray change Select a Smart Group: to the desired Smart Group and click the gray x. 
+
+> Once the Smart Group is selected, click All a the lower left of the People view, and Click Send Email. Your list of email address will show in the To: Field of your new mail.
+
+> Please remember that a default email client must be setup on the computer in order for these blast to go out. Examples are Outlook, Thunderbird, and Eudora. You may also use Gmail in conjustion with Google Chrome to send e-mail blase as well. 
 
 # 
 > Q: What email client does that work with
