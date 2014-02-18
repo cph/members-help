@@ -1,7 +1,7 @@
 {Under Construction}
 # FAQs
-## Overview
-### Reports
+### Overview
+##### Reports
 >Q: How do I delete a report?
 
 >A: There are two types of reports in 360 Members. User created reports named My Reports and Special Reports, supplied by the programmers. You may delete any of the My Reports by clicking Overview in the Main menu, clicking Reports, and clicking the gray minus to the right of the report.
