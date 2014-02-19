@@ -52,45 +52,62 @@
 
 # 
 
-Q: Can you do multiple sort, such as by ZIP, then Last Name, then First Name for bulk mailing? 
+> Q: Can you do multiple sort, such as by ZIP, then Last Name, then First Name for bulk mailing? 
 
-A: 
+> A: No, 360 Members does not allow multiple sorts. The good news is  360 Members automatically sorts by the last name of the head of househled when when the Group by Household option is selected. So when you sort by Address, 360 Members will automatically sort the people view by zip code than by the head of households last name.
 
-Q: How do I print off the offering statements only for those who contributed? How do i Print Contribution Statements? Q: how do we print pledge statements?
+# 
+> Q: How do I print off the offering/pledge statements only for those who contributed? 
 
-A:
+> A: This task can be completed by using a Smart Group. To create the Smart Group:
+
+> - Click People
+- Click Smart Groups
+- Enter the name of the Smart Group
+- Click the green plus to add a new line
+- Select the field Contributed to, Fund, time span and time frame
+- Click the Add Group button
+
+> Once the Smart Group is completed, Click the orange hyperlink xx people, click all at the lower left or the screen and click Contribution statements. 
 
 ###	Profile
-Q: How do I Enter a Marriage?
+> Q: How do I Enter a Marriage?
 
-A: 
+> A: Family relationships are added on a person's profile view. To complete this task click People, click on one of the couples namehe person name, click the Family tab, 
 
-Q: I have a couple who was recently married. How do I join their Envelopes?
+# 
+> Q: I have a couple who was recently married. How do I join their Envelopes?
 
-A:
+> A:
 
-Q: How do I Change someone's Status? if you accidentally enter someone as a member, can you go back and change them to a visitor? 
+> Q: How do I Change someone's Status? if you accidentally enter someone as a member, can you go back and change them to a visitor? 
 
-A:
-Q: How do I move someone to a new household?
+> A:
 
-A:
+# 
+> Q: How do I move someone to a new household?
 
-Q: How do i delete a person?
+> A:
 
-A:
+# 
+> Q: How do i delete a person?
 
-Q: How do i mark someone as deceased? 
+> A:
 
-A: 
+#
+> Q: How do i mark someone as deceased? 
 
-Q:  How can we change household.  We have not been able to do that, it automatically chooses one and will not let us change it?
+> A: 
 
-A:
+# 
+> Q:  How can we change household.  We have not been able to do that, it automatically chooses one and will not let us change it?
 
-Q: When you created Jill's new household the home phone number moved with her.  What will Bill's home phone number be?
+> A:
 
-A: 
+# 
+> Q: When you created Jill's new household the home phone number moved with her.  What will Bill's home phone number be?
+
+> A: 
 
 ### Tags
 
