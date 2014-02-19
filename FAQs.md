@@ -72,7 +72,7 @@
 ##	Profile
 > Q: How do I Enter a Marriage?
 
-> A: In 360 Members, Family relationships are added on a person's profile view. To complete this task click People, click on one of the couples namehe person name, click the Family tab, 
+> A: In Church360° Members, Family relationships are added on a person's profile view. To complete this task click People, click on one of the couples namehe person name, click the Family tab, 
 
 # 
 > Q: I have a couple who was recently married. How do I join their Envelopes?
