@@ -2,14 +2,14 @@
 
 ## Reports
 
-> **Q: How do I delete a report?**
+**Q: How do I delete a report?**
 
 > A: There are two types of reports in Church360° Members. User created reports named My Reports and Special Reports, supplied by the programmers. You may delete any of the My Reports by clicking Overview in the Main menu, clicking Reports, and clicking the gray minus to the right of the report.
 
 ## Trends 
-> **Q: How do you get average attendance for a month, quarter, year etc...**
+**Q: How do you get average attendance for a month, quarter, year etc...**
 
-> A: Church360° Members does provide weekly average attendance totals in the Trends view. The user controls the type of total seen by moving the light gray zoom bar up and down. Zooming out will cause the time segments to go from weeks to months to years and zooming in will make the time segments go from years to months to weeks. There are six notches on the zoom bar and each notch displays a diffent time frame.
+A: Church360° Members does provide weekly average attendance totals in the Trends view. The user controls the type of total seen by moving the light gray zoom bar up and down. Zooming out will cause the time segments to go from weeks to months to years and zooming in will make the time segments go from years to months to weeks. There are six notches on the zoom bar and each notch displays a diffent time frame.
 - The top notch shows the total number of attenders for each week over a six week time period.
 - The second notch displays the weekly average attendance for a month for three consecutive months. 
 - The third notch displays the weekly average attendance for a month for six consecutive months.
@@ -17,12 +17,11 @@
 - The Fifth notch shows the weeklly average for a year for 3 consecutive years.
 - The sixth notch shows the weekly aveage for a year for 5 consecutive years. 
 
-> Once the desired zoom is set. The user may export or print the weekly average attendance by using the action buttons in the orange banner. 
+Once the desired zoom is set. The user may export or print the weekly average attendance by using the action buttons in the orange banner. 
 
-# 
-> **Q: We would like a date range to show on our printed Trends report. How can we accomplish this task?**
+**Q: We would like a date range to show on our printed Trends report. How can we accomplish this task?**
 
-> A: Currently Church360° Members does not include the data range on a Trends report. You can include the data range in the report name if you would like. To accomplish this task:
+A: Currently Church360° Members does not include the data range on a Trends report. You can include the data range in the report name if you would like. To accomplish this task:
 - Go to Trends
 - Select a report from the gray Reports bar
 - Click the Save Reports button
@@ -32,31 +31,27 @@
 - Click Save
 - Click Print
 
-# 
 ## People View
-> ***Q: How do I find a person's profile?***
+**Q: How do I find a person's profile?**
 
-> A: The People view includes a filter. This feature allows you to search your entire Membership database by first name and last name. To utilize this feature, click People in the Main Menu, type the person's first and/or last name in the Type to filter results box, and click the persons name in the results. 
+A: The People view includes a filter. This feature allows you to search your entire Membership database by first name and last name. To utilize this feature, click People in the Main Menu, type the person's first and/or last name in the Type to filter results box, and click the persons name in the results. 
 
-# 
-> Q: Can I send an Email blast to a Smart Group of members? 
 
-> A: Yes, Users can limit the number of people who receive an Email by selecting a Smart Group in the People view prior to clicking the send Email button at the bottom of the view. 
+**Q: Can I send an Email blast to a Smart Group of members?**
 
-> To select a smart group, click People in the Main menu. Then to the right of Listing xx-xx of xxx, click the word in the orange font. In the tray that appears change the selected Smart Group to your desired Smart Group and click the gray x. 
+A: Yes, Users can limit the number of people who receive an Email by selecting a Smart Group in the People view prior to clicking the send Email button at the bottom of the view. 
 
-> Once the Smart Group is selected, click All a the lower left of the People view, and Click Send Email. Your list of email addresses will show in the To: Field of your newly created Email.
+To select a smart group, click People in the Main menu. Then to the right of Listing xx-xx of xxx, click the word in the orange font. In the tray that appears change the selected Smart Group to your desired Smart Group and click the gray x. 
 
-> Please remember that a default Email client must be setup on the computer in order for these blast to go out. Examples are Outlook, Thunderbird, and Eudora. You may also use Gmail in conjustion with Google Chrome to send Email blase as well. 
+Once the Smart Group is selected, click All a the lower left of the People view, and Click Send Email. Your list of email addresses will show in the To: Field of your newly created Email.
 
-# 
+Please remember that a default Email client must be setup on the computer in order for these blast to go out. Examples are Outlook, Thunderbird, and Eudora. You may also use Gmail in conjustion with Google Chrome to send Email blase as well. 
 
-> Q: Can you do multiple sort, such as by ZIP, then Last Name, then First Name for bulk mailing? 
+**Q: Can you do multiple sort, such as by ZIP, then Last Name, then First Name for bulk mailing?**
 
-> A: No, Church360° Members does not allow multiple sorts. The good news is  Church360° Members automatically sorts by the last name of the head of househled when when the Group by Household option is selected. So when you sort by Address, Church360° Members will automatically sort the people view by zip code than by the head of households last name.
+A: No, Church360° Members does not allow multiple sorts. The good news is  Church360° Members automatically sorts by the last name of the head of househled when when the Group by Household option is selected. So when you sort by Address, Church360° Members will automatically sort the people view by zip code than by the head of households last name.
 
-# 
-> Q: How do I print off the offering/pledge statements only for those who contributed? 
+**Q: How do I print off the offering/pledge statements only for those who contributed?**
 
 > A: This task can be completed by using a Smart Group. To create the Smart Group:
 
