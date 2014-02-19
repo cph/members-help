@@ -1,12 +1,13 @@
 {Under Construction}
 # FAQs
-## Overview
-### Reports
+
+## Reports
+
 > Q: How do I delete a report?
 
 > A: There are two types of reports in 360 Members. User created reports named My Reports and Special Reports, supplied by the programmers. You may delete any of the My Reports by clicking Overview in the Main menu, clicking Reports, and clicking the gray minus to the right of the report.
 
-### Trends 
+## Trends 
 > Q: How do you get average attendance for a month, quarter, year etc 
 
 > A: 360 Members does provide weekly average attendance totals in the Trends view. The user controls the type of total seen by moving the light gray zoom bar up and down. Zooming out will cause the time segments to go from weeks to months to years and zooming in will make the time segments go from years to months to weeks. There are six notches on the zoom bar and each notch displays a diffent time frame.
@@ -33,8 +34,7 @@
 - Click Print
 
 # 
-## People 
-### View
+## People View
 > Q: How do I find a person's profile? 
 
 > A: The People view includes a filter. This feature allows you to search your entire Membership database by first name and last name. To utilize this feature, click People in the Main Menu, type the person's first and/or last name in the Type to filter results box, and click the persons name in the results. 
@@ -70,7 +70,7 @@
 
 > Once the Smart Group is completed, Click the orange hyperlink xx people, click all at the lower left or the screen and click Contribution statements. 
 
-###	Profile
+##	Profile
 > Q: How do I Enter a Marriage?
 
 > A: Family relationships are added on a person's profile view. To complete this task click People, click on one of the couples namehe person name, click the Family tab, 
@@ -109,7 +109,7 @@
 
 > A: 
 
-### Tags
+## Tags
 
 Q: How do you assign and elder? can you belong to more than one group?
 
@@ -133,13 +133,13 @@ A:
 
 Q:	In setting up a new person, when I choose Miss as the title the software keeps changing it to Ms. when the record is created.  Is this a bug that needs to be fixed?  Otherwise why offer the choice.  I have to manually go back and correct it to Miss. 
 
-### Pastoral Visits
+## Pastoral Visits
 
 Q: Pastoral Visit: how do I add visitee that is not in the church body?
 
 A: 
 
-### Households
+## Households
 Q: If you pull someone out of a household and they are the only member of the household, does the household get deleted?
 
 A:
@@ -148,7 +148,7 @@ Q: is there any way to uncheck all the receives newsletter checkboxes at once?
 
 A: 
 
-### Directory
+## Directory
  
 Q: When you print directories, does it list the family member in order of head of household, spouse, and then children?
 
@@ -160,28 +160,11 @@ A:
 
 Q: Can you add pics to that directory?
 
-## Events
+## Events View
 
 Q: How do i create or modify events on the calendar?
 
 A:
-
-
-
-###	Calendars
-Q: Can you import Google calendars into the Events? 
-
-A:
-
-Q: Can they "Subscribe" to different calendars?
-
-A:
-
-Q: Can they import these to Google Calendars or iCalendars?
-
-A:
-
-###	View
 
 Q: How do i delete an event?
 
@@ -207,16 +190,28 @@ Q: Where do I put in days such as Lent, Easter, etc.?
 
 A:
 
-## Attendance
-### Enter Attendance
+##  Calendars
+Q: Can you import Google calendars into the Events? 
+
+A:
+
+Q: Can they "Subscribe" to different calendars?
+
+A:
+
+Q: Can they import these to Google Calendars or iCalendars?
+
+A:
+
+## Enter Attendance
 
 
 Q: When I add attendance and check off it also checks communion. I have to go back and change  back to blank. How do I correct this
 
 A:
 
-## Offerings
-### Enter Offerings
+
+## Enter Offerings
  
 Q: Can you enter offerings by way of envelope number? 
 
@@ -238,17 +233,17 @@ Q: When adding offerings, the names are not being saved
 
 A: 
 
-###	Funds
+##	Funds
 Q: How do I delete an offering fund? o	More specifically, how do I delete funds that were used 3 years ago but are no longer relevant to current bookkeeping? 
 
 A:
 
-### Pledges
+## Pledges
 Q: How do you change pledge amounts? 
 
 A: 
 
-### Envelopes
+## Envelopes
 Q: How would you remove a contribution number for a person who left the church so I could reuse the number for someone else? 
 
 A:
@@ -256,7 +251,7 @@ A:
 Q:	If you change the envelope #, what is the impact on contribution statements? Any protection in 360 to prevent reassignment of numbers with contributions in last year? 
 
 A:
-
+##Logins
 ## Settings
 Q: Can we set up more than one login per email when one already exists? 
 
