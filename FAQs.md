@@ -53,7 +53,7 @@
 
 > Q: Can you do multiple sort, such as by ZIP, then Last Name, then First Name for bulk mailing? 
 
-> A: No, 360 Members does not allow multiple sorts. The good news is  360 Members automatically sorts by the last name of the head of househled when when the Group by Household option is selected. So when you sort by Address, 360 Members will automatically sort the people view by zip code than by the head of households last name.
+> A: No, Church360° Members does not allow multiple sorts. The good news is  Church360° Members automatically sorts by the last name of the head of househled when when the Group by Household option is selected. So when you sort by Address, Church360° Members will automatically sort the people view by zip code than by the head of households last name.
 
 # 
 > Q: How do I print off the offering/pledge statements only for those who contributed? 
