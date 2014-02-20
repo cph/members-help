@@ -183,7 +183,7 @@ A:
 Q: Where do I put in days such as Lent, Easter, etc.? 
 
 A:
-Q: can we export/link the calendar to a differnt program 
+Q: can we export/link the calendar to a differnt program . Can the event view go to google calendar or ical for iphones.
 
 ##  Calendars
 Q: Can you import Google calendars into the Events? 
