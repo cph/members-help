@@ -4,7 +4,7 @@
 
 **Q: How do I delete a report?**
 
-> A: There are two types of reports in Church360° Members. User created reports named My Reports and Special Reports, supplied by the programmers. You may delete any of the My Reports by clicking Overview in the Main menu, clicking Reports, and clicking the gray minus to the right of the report.
+A: There are two types of reports in Church360° Members. User created reports named My Reports and Special Reports, supplied by the programmers. You may delete any of the My Reports by clicking Overview in the Main menu, clicking Reports, and clicking the gray minus to the right of the report.
 
 ## Trends 
 **Q: How do you get average attendance for a month, quarter, year etc...**
@@ -53,47 +53,51 @@ A: No, Church360° Members does not allow multiple sorts. The good news is  Chur
 
 **Q: How do I print off the offering/pledge statements only for those who contributed?**
 
-> A: This task can be completed by using a Smart Group. To create the Smart Group:
+A: This task can be completed by using a Smart Group. To create the Smart Group:
 
-> - Click People
+- Click People
 - Click Smart Groups
 - Enter the name of the Smart Group
 - Click the green plus to add a new line
 - Select the field Contributed to, Fund, time span and time frame
 - Click the Add Group button
 
-> Once the Smart Group is completed, Click the orange hyperlink xx people, click all at the lower left or the screen and click Contribution statements. 
+Once the Smart Group is completed, Click the orange hyperlink xx people, click all at the lower left or the screen and click Contribution statements. 
 
 ##	Profile
-> Q: How do I Enter a Marriage?
+Q: How do I Enter a Marriage?
 
-> A: In Church360° Members, Family relationships are added on a person's profile view. To complete this task click People, click on one of the couples namehe person name, click the Family tab, 
+A: In Church360° Members, family relationships are denoted on a person's profile view. To complete this task: 
+- Click People
+- Click on one of the individuals names
+- Click the Family tab 
+- Type the persons name in the Add Family Member field
+- Select the appropriate relationship
+- Enter in the Wedding Date
+- Click Add New 
 
-# 
+Please note that both individuals must be entered into Church360° Members by using the New person link on the Main menu, prior to entering the marriage. Family members cannot be created on the Family tab. 
+
 > Q: I have a couple who was recently married. How do I join their Envelopes?
 
-> A:
+> A: To join 
 
 > Q: How do I Change someone's Status? if you accidentally enter someone as a member, can you go back and change them to a visitor? 
 
 > A:
 
-# 
 > Q: How do I move someone to a new household?
 
 > A:
 
-# 
 > Q: How do i delete a person?
 
 > A:
 
-#
-> Q: How do i mark someone as deceased? 
+Q: How do i mark someone as deceased? 
 
 > A: 
 
-# 
 > Q:  How can we change household.  We have not been able to do that, it automatically chooses one and will not let us change it?
 
 > A:
