@@ -53,4 +53,4 @@
 -   [[Sunday School|settings-Sunday-School]]
 -   [[Import from Shepherd's Staff|Import]]
 
-[[FAQs|FAQs]]
+***[[FAQs|FAQs]]***
