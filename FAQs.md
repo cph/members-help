@@ -1,6 +1,6 @@
 # FAQs
 
-Welcome to the Church360° Members Frequently Asked Questions page. The Faqs are grouped by feature and sorted alphabetically. Located at the very bottom is a short list of questions not pertaining to a specific feature. 
+Welcome to the Church360° Members Frequently Asked Questions page. Here you will find a list of questions and short answers, grouped by feature and sorted alphabetically. There is also a section at the very bottom listing questions not pertaining to a specific feature in Church360° Members. 
 ## Attendance
 
 
