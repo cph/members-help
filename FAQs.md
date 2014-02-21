@@ -19,6 +19,30 @@ A:
 Q: Can they import these to Google Calendars or iCalendars?
 
 A:
+## Directory
+ 
+Q: When you print directories, does it list the family member in order of head of household, spouse, and then children?
+
+A: 
+
+Q: Can you make the font larger in the small directory?
+
+A: 
+
+Q: Can you add pics to that directory?
+
+## Envelopes
+Q: How would you remove a contribution number for a person who left the church so I could reuse the number for someone else? 
+
+A:
+
+Q:  If you change the envelope #, what is the impact on contribution statements? Any protection in 360 to prevent reassignment of numbers with contributions in last year? 
+
+A:
+##  Funds
+Q: How do I delete an offering fund? o	More specifically, how do I delete funds that were used 3 years ago but are no longer relevant to current bookkeeping? 
+
+A:
 ## Reports
 
 **Q: How do I delete a report?**
@@ -168,17 +192,6 @@ Q: is there any way to uncheck all the receives newsletter checkboxes at once?
 
 A: 
 
-## Directory
- 
-Q: When you print directories, does it list the family member in order of head of household, spouse, and then children?
-
-A: 
-
-Q: Can you make the font larger in the small directory?
-
-A: 
-
-Q: Can you add pics to that directory?
 
 ## Events
 
@@ -237,24 +250,14 @@ Q: When adding offerings, the names are not being saved
 
 A: 
 
-##	Funds
-Q: How do I delete an offering fund? o	More specifically, how do I delete funds that were used 3 years ago but are no longer relevant to current bookkeeping? 
 
-A:
 
 ## Pledges
 Q: How do you change pledge amounts? 
 
 A: 
 
-## Envelopes
-Q: How would you remove a contribution number for a person who left the church so I could reuse the number for someone else? 
 
-A:
-
-Q:	If you change the envelope #, what is the impact on contribution statements? Any protection in 360 to prevent reassignment of numbers with contributions in last year? 
-
-A:
 ##Logins
 Q: Can we set up more than one login per email when one already exists? 
 
