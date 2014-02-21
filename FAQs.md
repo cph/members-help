@@ -1,5 +1,16 @@
 # FAQs
+##  Calendars
+Q: Can you import Google calendars into the Events? 
 
+A:
+
+Q: Can they "Subscribe" to different calendars?
+
+A:
+
+Q: Can they import these to Google Calendars or iCalendars?
+
+A:
 ## Reports
 
 **Q: How do I delete a report?**
@@ -191,18 +202,7 @@ Q: Where do I put in days such as Lent, Easter, etc.?
 
 A:
 
-##  Calendars
-Q: Can you import Google calendars into the Events? 
 
-A:
-
-Q: Can they "Subscribe" to different calendars?
-
-A:
-
-Q: Can they import these to Google Calendars or iCalendars?
-
-A:
 
 ## Enter Attendance
 
@@ -253,7 +253,6 @@ Q:	If you change the envelope #, what is the impact on contribution statements? 
 
 A:
 ##Logins
-## Settings
 Q: Can we set up more than one login per email when one already exists? 
 
 A:
