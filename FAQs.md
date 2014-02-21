@@ -1,5 +1,6 @@
 # FAQs
 
+Welcome to the Church360° Members Frequently Asked Questions page. The Faqs are grouped by feature and sorted alphabetically. Located at the very bottom is a short list of questions not pertaining to a specific feature. 
 ## Attendance
 
 
@@ -80,7 +81,16 @@ A:
 Q: is there any way to uncheck all the receives newsletter checkboxes at once? 
 
 A: 
-##Logins
+
+## Import from Shepherd's Staff
+Q: Will our current Shepherd staff info automatically transfer to 360? 
+
+A:
+Q: How do I Import my Data From Shepherd's Staff?
+
+A:
+
+## Logins
 Q: How do I create logins?
 
 A:
@@ -111,19 +121,15 @@ Q: When adding offerings, the names are not being saved
 
 A: 
 
-
-
 ## Pastoral Visits
 Q: Pastoral Visit: how do I add visitee that is not in the church body?
 
 A: 
 
-
 ## People
 **Q: How do I find a person's profile?**
 
 A: The People view includes a filter. This feature allows you to search your entire Membership database by first name and last name. To utilize this feature, click People in the Main Menu, type the person's first and/or last name in the Type to filter results box, and click the persons name in the results. 
-
 
 **Q: Can I send an Email blast to a Smart Group of members?**
 
@@ -151,6 +157,7 @@ A: This task can be completed by using a Smart Group. To create the Smart Group:
 - Click the Add Group button
 
 Once the Smart Group is completed, Click the orange hyperlink xx people, click all at the lower left or the screen and click Contribution statements.
+
 ## Permissions
 Q: Follow up to the envelope question:  Can you hide the names when entering via envelope number, so that there can be discretion for givers from, say, volunteers? 
 
@@ -163,7 +170,6 @@ Q: How do you change pledge amounts?
 
 A: 
 
-
 ##  Profile
 **Q: How do I Enter a Marriage?**
 
@@ -175,7 +181,6 @@ A: In Church360° Members, Family relationships are entered on a person's profil
 
 Please note
 
-
 > Q: I have a couple who was recently married. How do I join their Envelopes?
 
 > A:
@@ -184,22 +189,22 @@ Please note
 
 > A:
 
-# 
+ 
 > Q: How do I move someone to a new household?
 
 > A:
 
-# 
+ 
 > Q: How do i delete a person?
 
 > A:
 
-#
+
 > Q: How do i mark someone as deceased? 
 
 > A: 
 
-# 
+ 
 > Q:  How can we change household.  We have not been able to do that, it automatically chooses one and will not let us change it?
 
 > A:
@@ -214,6 +219,12 @@ Please note
 **Q: How do I delete a report?**
 
 A: There are two types of reports in Church360° Members. User created reports named My Reports and Special Reports, supplied by the programmers. You may delete any of the My Reports by clicking Overview in the Main menu, clicking Reports, and clicking the gray minus to the right of the report.
+
+## Sunday School
+
+Q: Our Sunday School classes have two grades.  Will we need to change that?
+
+A:
 
 ## Tags
 
@@ -266,19 +277,6 @@ A: Currently Church360° Members does not include the data range on a Trends rep
 - Click Print
 
 
-
-## Import from Shepherd's Staff
-Q: Will our current Shepherd staff info automatically transfer to 360? 
-
-A:
-Q: How do I Import my Data From Shepherd's Staff?
-
-A:
-## Sunday School
-
-Q: Our Sunday School classes have two grades.  Will we need to change that?
-
-A:
 
 ## Questions not pertaining to a specific module of Church360° Members
 Q: I noticed this session is being recorded.  Is there an address we can go to, to review this session or the one from this morning?
