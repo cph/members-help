@@ -9,7 +9,8 @@ A: There are two types of reports in Church360° Members. User created reports n
 ## Trends 
 **Q: How do you get average attendance for a month, quarter, year etc...**
 
-A: Church360° Members does provide weekly average attendance totals in the Trends view. The user controls the type of total seen by moving the light gray zoom bar up and down. Zooming out will cause the time segments to go from weeks to months to years and zooming in will make the time segments go from years to months to weeks. There are six notches on the zoom bar and each notch displays a diffent time frame.
+A: Church360° Members does provide weekly average attendance totals in the Trends view. The user       controls the type of total seen by moving the light gray zoom bar up and down. Zooming out will cause     the time segments to go from weeks to months to years and zooming in will make the time segments go from years to months to weeks. There are six notches on the zoom bar and each notch displays a diffent time frame.
+
 - The top notch shows the total number of attenders for each week over a six week time period.
 - The second notch displays the weekly average attendance for a month for three consecutive months. 
 - The third notch displays the weekly average attendance for a month for six consecutive months.
