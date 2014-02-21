@@ -80,6 +80,14 @@ A:
 Q: is there any way to uncheck all the receives newsletter checkboxes at once? 
 
 A: 
+##Logins
+Q: How do I create logins?
+
+A:
+Q: Can we set up more than one login per email when one already exists? 
+
+A:
+
 
 ## Offerings
  
@@ -143,6 +151,13 @@ A: This task can be completed by using a Smart Group. To create the Smart Group:
 - Click the Add Group button
 
 Once the Smart Group is completed, Click the orange hyperlink xx people, click all at the lower left or the screen and click Contribution statements.
+## Permissions
+Q: Follow up to the envelope question:  Can you hide the names when entering via envelope number, so that there can be discretion for givers from, say, volunteers? 
+
+A:
+Q: How do members view their own information without seeing everyone's information? 
+A:
+
 ## Pledges
 Q: How do you change pledge amounts? 
 
@@ -251,24 +266,6 @@ A: Currently Church360° Members does not include the data range on a Trends rep
 - Click Print
 
 
-
-
-
-##Logins
-Q: How do I create logins?
-
-A:
-Q: Can we set up more than one login per email when one already exists? 
-
-A:
-
-
-## Permissions
-Q: Follow up to the envelope question:  Can you hide the names when entering via envelope number, so that there can be discretion for givers from, say, volunteers? 
-
-A:
-Q: How do members view their own information without seeing everyone's information? 
-A:
 
 ## Import from Shepherd's Staff
 Q: Will our current Shepherd staff info automatically transfer to 360? 
