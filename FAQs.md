@@ -4,7 +4,7 @@
 
 **Q: How do I delete a report?**
 
-> A: There are two types of reports in Church360° Members. User created reports named My Reports and Special Reports, supplied by the programmers. You may delete any of the My Reports by clicking Overview in the Main menu, clicking Reports, and clicking the gray minus to the right of the report.
+A: There are two types of reports in Church360° Members. User created reports named My Reports and Special Reports, supplied by the programmers. You may delete any of the My Reports by clicking Overview in the Main menu, clicking Reports, and clicking the gray minus to the right of the report.
 
 ## Trends 
 **Q: How do you get average attendance for a month, quarter, year etc...**
