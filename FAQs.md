@@ -43,38 +43,6 @@ A:
 Q: How do I delete an offering fund? o	More specifically, how do I delete funds that were used 3 years ago but are no longer relevant to current bookkeeping? 
 
 A:
-## Reports
-
-**Q: How do I delete a report?**
-
-A: There are two types of reports in Church360° Members. User created reports named My Reports and Special Reports, supplied by the programmers. You may delete any of the My Reports by clicking Overview in the Main menu, clicking Reports, and clicking the gray minus to the right of the report.
-
-## Trends 
-**Q: How do you get average attendance for a month, quarter, year etc...**
-
-A: Church360° Members does provide weekly average attendance totals in the Trends view. The user              controls the type of total seen by moving the light gray zoom bar up and down. Zooming out will cause       the time segments to go from weeks to months to years and zooming in will make the time segments go   from years to months to weeks. There are six notches on the zoom bar and each notch displays a   diffent time frame.
-
-- The top notch shows the total number of attenders for each week over a six week time period.
-- The second notch displays the weekly average attendance for a month for three consecutive months. 
-- The third notch displays the weekly average attendance for a month for six consecutive months.
-- The fourth notch shows the weekly average attendance for a month for twelve consecutive months.
-- The Fifth notch shows the weeklly average for a year for 3 consecutive years.
-- The sixth notch shows the weekly aveage for a year for 5 consecutive years. 
-
-Once the desired zoom is set. The user may export or print the weekly average attendance by using the action buttons in the orange banner. 
-
-**Q: We would like a date range to show on our printed Trends report. How can we accomplish this task?**
-
-A: Currently Church360° Members does not include the data range on a Trends report. You can include the data range in the report name if you would like. To accomplish this task:
-- Go to Trends
-- Select a report from the gray Reports bar
-- Click the Save Reports button
-- Select a desired report
-- Click Save as a new report
-- Enter new report name including the date range
-- Click Save
-- Click Print
-
 ## People
 **Q: How do I find a person's profile?**
 
@@ -106,9 +74,9 @@ A: This task can be completed by using a Smart Group. To create the Smart Group:
 - Select the field Contributed to, Fund, time span and time frame
 - Click the Add Group button
 
-Once the Smart Group is completed, Click the orange hyperlink xx people, click all at the lower left or the screen and click Contribution statements. 
+Once the Smart Group is completed, Click the orange hyperlink xx people, click all at the lower left or the screen and click Contribution statements.
 
-##	Profile
+##  Profile
 **Q: How do I Enter a Marriage?**
 
 A: In Church360° Members, Family relationships are entered on a person's profile view. To complete this task:
@@ -153,6 +121,12 @@ Please note
 
 > A: 
 
+## Reports
+
+**Q: How do I delete a report?**
+
+A: There are two types of reports in Church360° Members. User created reports named My Reports and Special Reports, supplied by the programmers. You may delete any of the My Reports by clicking Overview in the Main menu, clicking Reports, and clicking the gray minus to the right of the report.
+
 ## Tags
 
 Q: How do you assign and elder? can you belong to more than one group?
@@ -175,8 +149,34 @@ Q: New person
 
 A: 
 
-Q:	In setting up a new person, when I choose Miss as the title the software keeps changing it to Ms. when the record is created.  Is this a bug that needs to be fixed?  Otherwise why offer the choice.  I have to manually go back and correct it to Miss. 
+Q:  In setting up a new person, when I choose Miss as the title the software keeps changing it to Ms. when the record is created.  Is this a bug that needs to be fixed?  Otherwise why offer the choice.  I have to manually go back and correct it to Miss. 
 
+## Trends 
+**Q: How do you get average attendance for a month, quarter, year etc...**
+
+A: Church360° Members does provide weekly average attendance totals in the Trends view. The user              controls the type of total seen by moving the light gray zoom bar up and down. Zooming out will cause       the time segments to go from weeks to months to years and zooming in will make the time segments go   from years to months to weeks. There are six notches on the zoom bar and each notch displays a   diffent time frame.
+
+- The top notch shows the total number of attenders for each week over a six week time period.
+- The second notch displays the weekly average attendance for a month for three consecutive months. 
+- The third notch displays the weekly average attendance for a month for six consecutive months.
+- The fourth notch shows the weekly average attendance for a month for twelve consecutive months.
+- The Fifth notch shows the weeklly average for a year for 3 consecutive years.
+- The sixth notch shows the weekly aveage for a year for 5 consecutive years. 
+
+Once the desired zoom is set. The user may export or print the weekly average attendance by using the action buttons in the orange banner. 
+
+**Q: We would like a date range to show on our printed Trends report. How can we accomplish this task?**
+
+A: Currently Church360° Members does not include the data range on a Trends report. You can include the data range in the report name if you would like. To accomplish this task:
+- Go to Trends
+- Select a report from the gray Reports bar
+- Click the Save Reports button
+- Select a desired report
+- Click Save as a new report
+- Enter new report name including the date range
+- Click Save
+- Click Print
+ 
 ## Pastoral Visits
 
 Q: Pastoral Visit: how do I add visitee that is not in the church body?
