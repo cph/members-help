@@ -39,10 +39,78 @@ A:
 Q:  If you change the envelope #, what is the impact on contribution statements? Any protection in 360 to prevent reassignment of numbers with contributions in last year? 
 
 A:
+## Events
+
+Q: How do i create or modify events on the calendar?
+
+A:
+
+Q: How do i delete an event?
+
+A: 
+
+Q: Can they receive automatic emails for event alerts?
+
+A:
+
+Q: Can you ever add a private event on the calendar that would not be public?
+
+A:
+
+Q: One other question ... how do I delete events from the calendar that are no longer relevant?  Attendance was taken at these events.  For example, worship services that were specified with the time, but the times no longer apply.
+
+A:
+
+Q: Can you download a calendar into a printable newsletter? 
+
+A:
+
+Q: Where do I put in days such as Lent, Easter, etc.? 
+
+A:
 ##  Funds
 Q: How do I delete an offering fund? o	More specifically, how do I delete funds that were used 3 years ago but are no longer relevant to current bookkeeping? 
 
 A:
+## Households
+Q: If you pull someone out of a household and they are the only member of the household, does the household get deleted?
+
+A:
+
+Q: is there any way to uncheck all the receives newsletter checkboxes at once? 
+
+A: 
+
+## Offerings
+ 
+Q: Can you enter offerings by way of envelope number? 
+
+A:
+
+Q: Is possible to post contributions without having an event? 
+
+A: 
+
+Q: Why would you get a message giver "xxx" not found when you click enter on the offering amount, when the system actually found that person in the name/envelope column? It is a new member that was just entered
+
+A: 
+
+Q: What do you suggest for entering offerings when the person entering them doesn't get the check numbers?
+
+A: 
+
+Q: When adding offerings, the names are not being saved
+
+A: 
+
+
+
+## Pastoral Visits
+Q: Pastoral Visit: how do I add visitee that is not in the church body?
+
+A: 
+
+
 ## People
 **Q: How do I find a person's profile?**
 
@@ -75,6 +143,11 @@ A: This task can be completed by using a Smart Group. To create the Smart Group:
 - Click the Add Group button
 
 Once the Smart Group is completed, Click the orange hyperlink xx people, click all at the lower left or the screen and click Contribution statements.
+## Pledges
+Q: How do you change pledge amounts? 
+
+A: 
+
 
 ##  Profile
 **Q: How do I Enter a Marriage?**
@@ -176,81 +249,9 @@ A: Currently Church360° Members does not include the data range on a Trends rep
 - Enter new report name including the date range
 - Click Save
 - Click Print
- 
-## Pastoral Visits
-
-Q: Pastoral Visit: how do I add visitee that is not in the church body?
-
-A: 
-
-## Households
-Q: If you pull someone out of a household and they are the only member of the household, does the household get deleted?
-
-A:
-
-Q: is there any way to uncheck all the receives newsletter checkboxes at once? 
-
-A: 
-
-
-## Events
-
-Q: How do i create or modify events on the calendar?
-
-A:
-
-Q: How do i delete an event?
-
-A: 
-
-Q: Can they receive automatic emails for event alerts?
-
-A:
-
-Q: Can you ever add a private event on the calendar that would not be public?
-
-A:
-
-Q: One other question ... how do I delete events from the calendar that are no longer relevant?  Attendance was taken at these events.  For example, worship services that were specified with the time, but the times no longer apply.
-
-A:
-
-Q: Can you download a calendar into a printable newsletter? 
-
-A:
-
-Q: Where do I put in days such as Lent, Easter, etc.? 
-
-A:
-
-## Offerings
- 
-Q: Can you enter offerings by way of envelope number? 
-
-A:
-
-Q: Is possible to post contributions without having an event? 
-
-A: 
-
-Q: Why would you get a message giver "xxx" not found when you click enter on the offering amount, when the system actually found that person in the name/envelope column? It is a new member that was just entered
-
-A: 
-
-Q: What do you suggest for entering offerings when the person entering them doesn't get the check numbers?
-
-A: 
-
-Q: When adding offerings, the names are not being saved
-
-A: 
 
 
 
-## Pledges
-Q: How do you change pledge amounts? 
-
-A: 
 
 
 ##Logins
