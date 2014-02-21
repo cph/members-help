@@ -32,7 +32,7 @@ A: Currently Church360° Members does not include the data range on a Trends rep
 - Click Save
 - Click Print
 
-## People View
+## People
 **Q: How do I find a person's profile?**
 
 A: The People view includes a filter. This feature allows you to search your entire Membership database by first name and last name. To utilize this feature, click People in the Main Menu, type the person's first and/or last name in the Type to filter results box, and click the persons name in the results. 
@@ -161,7 +161,7 @@ A:
 
 Q: Can you add pics to that directory?
 
-## Events View
+## Events
 
 Q: How do i create or modify events on the calendar?
 
@@ -283,7 +283,7 @@ Q: How do I Import my Data From Shepherd's Staff?
 A:
 
 
-## General Questions
+## Questions not pertaining to a specific module of Church360° Members
 Q: I noticed this session is being recorded.  Is there an address we can go to, to review this session or the one from this morning?
 
 A:
