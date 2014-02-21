@@ -278,7 +278,7 @@ A: Currently Church360° Members does not include the data range on a Trends rep
 
 
 
-## Questions not pertaining to a specific module of Church360° Members
+## Questions not pertaining to a specific feature in Church360° Members
 Q: I noticed this session is being recorded.  Is there an address we can go to, to review this session or the one from this morning?
 
 A:
