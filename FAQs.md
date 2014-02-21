@@ -223,12 +223,7 @@ Q: Where do I put in days such as Lent, Easter, etc.?
 
 A:
 
-
-
-
-
-
-## Enter Offerings
+## Offerings
  
 Q: Can you enter offerings by way of envelope number? 
 
