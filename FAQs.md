@@ -72,6 +72,8 @@ A: In Church360° Members, Family relationships are entered on a person's profil
 - Click People
 - Click on the person's name 
 - Click the Family tab
+- 
+Please note
 
 
 > Q: I have a couple who was recently married. How do I join their Envelopes?
