@@ -255,34 +255,33 @@ A: Currently Church360° Members does not include the data range on a Trends rep
 
 
 ##Logins
+Q: How do I create logins?
+
+A:
 Q: Can we set up more than one login per email when one already exists? 
 
 A:
 
+
+## Permissions
 Q: Follow up to the envelope question:  Can you hide the names when entering via envelope number, so that there can be discretion for givers from, say, volunteers? 
 
 A:
+Q: How do members view their own information without seeing everyone's information? 
+A:
 
+## Import from Shepherd's Staff
 Q: Will our current Shepherd staff info automatically transfer to 360? 
 
 A:
-
-Q: How do members view their own information without seeing everyone's information? 
+Q: How do I Import my Data From Shepherd's Staff?
 
 A:
+## Sunday School
 
 Q: Our Sunday School classes have two grades.  Will we need to change that?
 
 A:
-
-Q: How do I create logins?
-
-A:
-
-Q: How do I Import my Data From Shepherd's Staff?
-
-A:
-
 
 ## Questions not pertaining to a specific module of Church360° Members
 Q: I noticed this session is being recorded.  Is there an address we can go to, to review this session or the one from this morning?
