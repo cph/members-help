@@ -1,4 +1,12 @@
 # FAQs
+
+## Attendance
+
+
+Q: When I add attendance and check off it also checks communion. I have to go back and change  back to blank. How do I correct this
+
+A:
+
 ##  Calendars
 Q: Can you import Google calendars into the Events? 
 
@@ -204,12 +212,7 @@ A:
 
 
 
-## Enter Attendance
 
-
-Q: When I add attendance and check off it also checks communion. I have to go back and change  back to blank. How do I correct this
-
-A:
 
 
 ## Enter Offerings
