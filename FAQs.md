@@ -29,9 +29,52 @@ A:
 
 Q: Can you add pics to that directory?
 
+## Envelopes
+Q: How would you remove a contribution number for a person who left the church so I could reuse the number for someone else? 
+
+A:
+
+Q:  If you change the envelope #, what is the impact on contribution statements? Any protection in 360 to prevent reassignment of numbers with contributions in last year? 
+
+A:
+
+## Events
+
+Q: How do i create or modify events on the calendar?
+
+A:
+
+Q: How do i delete an event?
+
+A: 
+
+Q: Can they receive automatic emails for event alerts?
+
+A:
+
+Q: Can you ever add a private event on the calendar that would not be public?
+
+A:
+
+Q: One other question ... how do I delete events from the calendar that are no longer relevant?  Attendance was taken at these events.  For example, worship services that were specified with the time, but the times no longer apply.
+
+A:
+
+Q: Can you download a calendar into a printable newsletter? 
+
+A:
+
+Q: Where do I put in days such as Lent, Easter, etc.? 
+
+A:
+Q: can we export/link the calendar to a differnt program . Can the event view go to google calendar or ical for iphones.
+
+##  Funds
+Q: How do I delete an offering fund? o	More specifically, how do I delete funds that were used 3 years ago but are no longer relevant to current bookkeeping? 
+
+A:
+
 ## Reports
-
-
 
 **Q: How do I delete a report?**
 
@@ -177,43 +220,6 @@ Q: is there any way to uncheck all the receives newsletter checkboxes at once?
 
 A: 
 
-
-
-## Events
-
-Q: How do i create or modify events on the calendar?
-
-A:
-
-Q: How do i delete an event?
-
-A: 
-
-Q: Can they receive automatic emails for event alerts?
-
-A:
-
-Q: Can you ever add a private event on the calendar that would not be public?
-
-A:
-
-Q: One other question ... how do I delete events from the calendar that are no longer relevant?  Attendance was taken at these events.  For example, worship services that were specified with the time, but the times no longer apply.
-
-A:
-
-Q: Can you download a calendar into a printable newsletter? 
-
-A:
-
-Q: Where do I put in days such as Lent, Easter, etc.? 
-
-A:
-Q: can we export/link the calendar to a differnt program . Can the event view go to google calendar or ical for iphones.
-
-
-
-
-
 ## Offerings
  
 Q: Can you enter offerings by way of envelope number? 
@@ -236,24 +242,13 @@ Q: When adding offerings, the names are not being saved
 
 A: 
 
-##	Funds
-Q: How do I delete an offering fund? o	More specifically, how do I delete funds that were used 3 years ago but are no longer relevant to current bookkeeping? 
-
-A:
 
 ## Pledges
 Q: How do you change pledge amounts? 
 
 A: 
 
-## Envelopes
-Q: How would you remove a contribution number for a person who left the church so I could reuse the number for someone else? 
 
-A:
-
-Q:	If you change the envelope #, what is the impact on contribution statements? Any protection in 360 to prevent reassignment of numbers with contributions in last year? 
-
-A:
 ##Logins
 ## Settings
 Q: Can we set up more than one login per email when one already exists? 
