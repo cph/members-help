@@ -83,6 +83,8 @@ Q: is there any way to uncheck all the receives newsletter checkboxes at once?
 
 A: 
 
+##Logins
+
 ## Reports
 
 **Q: How do I delete a report?**
@@ -251,7 +253,7 @@ Q: How do you change pledge amounts?
 A: 
 
 
-##Logins
+
 ## Settings
 Q: Can we set up more than one login per email when one already exists? 
 
@@ -282,7 +284,7 @@ Q: How do I Import my Data From Shepherd's Staff?
 A:
 
 
-## General Questions
+## Questions not related to a feature in Church360° Members
 Q: I noticed this session is being recorded.  Is there an address we can go to, to review this session or the one from this morning?
 
 A:
