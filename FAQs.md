@@ -1,4 +1,10 @@
 # FAQs
+## Attendance
+
+Q: When I add attendance and check off it also checks communion. I have to go back and change  back to blank. How do I correct this
+
+A:
+
 ##  Calendars
 Q: Can you import Google calendars into the Events? 
 
@@ -11,6 +17,18 @@ A:
 Q: Can they import these to Google Calendars or iCalendars?
 
 A:
+## Directory
+ 
+Q: When you print directories, does it list the family member in order of head of household, spouse, and then children?
+
+A: 
+
+Q: Can you make the font larger in the small directory?
+
+A: 
+
+Q: Can you add pics to that directory?
+
 ## Reports
 
 
@@ -159,19 +177,9 @@ Q: is there any way to uncheck all the receives newsletter checkboxes at once?
 
 A: 
 
-## Directory
- 
-Q: When you print directories, does it list the family member in order of head of household, spouse, and then children?
 
-A: 
 
-Q: Can you make the font larger in the small directory?
-
-A: 
-
-Q: Can you add pics to that directory?
-
-## Events View
+## Events
 
 Q: How do i create or modify events on the calendar?
 
@@ -203,15 +211,10 @@ A:
 Q: can we export/link the calendar to a differnt program . Can the event view go to google calendar or ical for iphones.
 
 
-## Enter Attendance
 
 
-Q: When I add attendance and check off it also checks communion. I have to go back and change  back to blank. How do I correct this
 
-A:
-
-
-## Enter Offerings
+## Offerings
  
 Q: Can you enter offerings by way of envelope number? 
 
