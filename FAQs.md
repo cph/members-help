@@ -16,7 +16,6 @@ A:
 Q: Can they import these to Google Calendars or iCalendars?
 
 A:
-
 ## Directory
  
 Q: When you print directories, does it list the family member in order of head of household, spouse, and then children?
@@ -28,7 +27,6 @@ Q: Can you make the font larger in the small directory?
 A: 
 
 Q: Can you add pics to that directory?
-
 ## Envelopes
 Q: How would you remove a contribution number for a person who left the church so I could reuse the number for someone else? 
 
@@ -37,7 +35,6 @@ A:
 Q:  If you change the envelope #, what is the impact on contribution statements? Any protection in 360 to prevent reassignment of numbers with contributions in last year? 
 
 A:
-
 ## Events
 
 Q: How do i create or modify events on the calendar?
@@ -68,12 +65,10 @@ Q: Where do I put in days such as Lent, Easter, etc.?
 
 A:
 Q: can we export/link the calendar to a differnt program . Can the event view go to google calendar or ical for iphones.
-
 ## Funds
 Q: How do I delete an offering fund? o	More specifically, how do I delete funds that were used 3 years ago but are no longer relevant to current bookkeeping? 
 
 A:
-
 ## Households
 Q: If you pull someone out of a household and they are the only member of the household, does the household get deleted?
 
@@ -82,9 +77,7 @@ A:
 Q: is there any way to uncheck all the receives newsletter checkboxes at once? 
 
 A: 
-
-##Logins
-
+## Logins
 ## Offerings
  
 Q: Can you enter offerings by way of envelope number? 
@@ -106,13 +99,11 @@ A:
 Q: When adding offerings, the names are not being saved
 
 A: 
-
 ## Pastoral Visits
 
 Q: Pastoral Visit: how do I add visitee that is not in the church body?
 
 A: 
-
 ## People
 **Q: How do I find a person's profile?**
 
@@ -145,12 +136,10 @@ A: This task can be completed by using a Smart Group. To create the Smart Group:
 - Click the Add Group button
 
 Once the Smart Group is completed, Click the orange hyperlink xx people, click all at the lower left or the screen and click Contribution statements. 
-
 ## Pledges
 Q: How do you change pledge amounts? 
 
 A: 
-
 ## Profile
 **Q: How do I Enter a Marriage?**
 
@@ -189,67 +178,15 @@ Q: How do i mark someone as deceased?
 
 > A:
 
-# 
+
 > Q: When you created Jill's new household the home phone number moved with her.  What will Bill's home phone number be?
 
-> A: 
-
+A: 
 ## Reports
 
-**Q: How do I delete a report?**
+Q: How do I delete a report?
 
 A: There are two types of reports in Church360° Members. User created reports named My Reports and Special Reports, supplied by the programmers. You may delete any of the My Reports by clicking Overview in the Main menu, clicking Reports, and clicking the gray minus to the right of the report.
-
-## Trends 
-**Q: How do you get average attendance for a month, quarter, year etc...**
-
-A: Church360° Members does provide weekly average attendance totals in the Trends view. The user controls the type of total seen by moving the light gray zoom bar up and down. Zooming out will cause the time segments to go from weeks to months to years and zooming in will make the time segments go from years to months to weeks. There are six notches on the zoom bar and each notch displays a diffent time frame.
-- The top notch shows the total number of attenders for each week over a six week time period.
-- The second notch displays the weekly average attendance for a month for three consecutive months. 
-- The third notch displays the weekly average attendance for a month for six consecutive months.
-- The fourth notch shows the weekly average attendance for a month for twelve consecutive months.
-- The Fifth notch shows the weeklly average for a year for 3 consecutive years.
-- The sixth notch shows the weekly aveage for a year for 5 consecutive years. 
-
-Once the desired zoom is set. The user may export or print the weekly average attendance by using the action buttons in the orange banner. 
-
-**Q: We would like a date range to show on our printed Trends report. How can we accomplish this task?**
-
-A: Currently Church360° Members does not include the data range on a Trends report. You can include the data range in the report name if you would like. To accomplish this task:
-- Go to Trends
-- Select a report from the gray Reports bar
-- Click the Save Reports button
-- Select a desired report
-- Click Save as a new report
-- Enter new report name including the date range
-- Click Save
-- Click Print
-
-## Tags
-
-Q: How do you assign and elder? can you belong to more than one group?
-
-A:
-
-Q: Is there a way to add multiple people to a tag at one time, versus having to add the tag in each individual record. 
-
-A:
-
-Q: Would you use "visitor" to tag somebody as a "prospect", or can you add custom member types?
-
-A:
-
-Q: Can you tag members of a household all at once?
-
-A: 
-
-Q: New person
-
-A: 
-
-Q:	In setting up a new person, when I choose Miss as the title the software keeps changing it to Ms. when the record is created.  Is this a bug that needs to be fixed?  Otherwise why offer the choice.  I have to manually go back and correct it to Miss. 
-
-
 ## Settings
 Q: Can we set up more than one login per email when one already exists? 
 
@@ -278,7 +215,53 @@ A:
 Q: How do I Import my Data From Shepherd's Staff?
 
 A:
+## Trends 
+**Q: How do you get average attendance for a month, quarter, year etc...**
 
+A: Church360° Members does provide weekly average attendance totals in the Trends view. The user controls the type of total seen by moving the light gray zoom bar up and down. Zooming out will cause the time segments to go from weeks to months to years and zooming in will make the time segments go from years to months to weeks. There are six notches on the zoom bar and each notch displays a diffent time frame.
+- The top notch shows the total number of attenders for each week over a six week time period.
+- The second notch displays the weekly average attendance for a month for three consecutive months. 
+- The third notch displays the weekly average attendance for a month for six consecutive months.
+- The fourth notch shows the weekly average attendance for a month for twelve consecutive months.
+- The Fifth notch shows the weeklly average for a year for 3 consecutive years.
+- The sixth notch shows the weekly aveage for a year for 5 consecutive years. 
+
+Once the desired zoom is set. The user may export or print the weekly average attendance by using the action buttons in the orange banner. 
+
+**Q: We would like a date range to show on our printed Trends report. How can we accomplish this task?**
+
+A: Currently Church360° Members does not include the data range on a Trends report. You can include the data range in the report name if you would like. To accomplish this task:
+- Go to Trends
+- Select a report from the gray Reports bar
+- Click the Save Reports button
+- Select a desired report
+- Click Save as a new report
+- Enter new report name including the date range
+- Click Save
+- Click Print
+## Tags
+
+Q: How do you assign and elder? can you belong to more than one group?
+
+A:
+
+Q: Is there a way to add multiple people to a tag at one time, versus having to add the tag in each individual record. 
+
+A:
+
+Q: Would you use "visitor" to tag somebody as a "prospect", or can you add custom member types?
+
+A:
+
+Q: Can you tag members of a household all at once?
+
+A: 
+
+Q: New person
+
+A: 
+
+Q:	In setting up a new person, when I choose Miss as the title the software keeps changing it to Ms. when the record is created.  Is this a bug that needs to be fixed?  Otherwise why offer the choice.  I have to manually go back and correct it to Miss. 
 ## Questions not related to a feature in Church360° Members
 Q: I noticed this session is being recorded.  Is there an address we can go to, to review this session or the one from this morning?
 
