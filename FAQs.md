@@ -2,6 +2,19 @@
 
 ## Reports
 
+##  Calendars
+Q: Can you import Google calendars into the Events? 
+
+A:
+
+Q: Can they "Subscribe" to different calendars?
+
+A:
+
+Q: Can they import these to Google Calendars or iCalendars?
+
+A:
+
 **Q: How do I delete a report?**
 
 A: There are two types of reports in Church360° Members. User created reports named My Reports and Special Reports, supplied by the programmers. You may delete any of the My Reports by clicking Overview in the Main menu, clicking Reports, and clicking the gray minus to the right of the report.
@@ -189,18 +202,6 @@ Q: Where do I put in days such as Lent, Easter, etc.?
 A:
 Q: can we export/link the calendar to a differnt program . Can the event view go to google calendar or ical for iphones.
 
-##  Calendars
-Q: Can you import Google calendars into the Events? 
-
-A:
-
-Q: Can they "Subscribe" to different calendars?
-
-A:
-
-Q: Can they import these to Google Calendars or iCalendars?
-
-A:
 
 ## Enter Attendance
 
