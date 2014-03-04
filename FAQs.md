@@ -74,6 +74,15 @@ Q: How do I delete an offering fund? o	More specifically, how do I delete funds 
 
 A:
 
+## Households
+Q: If you pull someone out of a household and they are the only member of the household, does the household get deleted?
+
+A:
+
+Q: is there any way to uncheck all the receives newsletter checkboxes at once? 
+
+A: 
+
 ## Reports
 
 **Q: How do I delete a report?**
@@ -105,7 +114,7 @@ A: Currently Church360° Members does not include the data range on a Trends rep
 - Click Save
 - Click Print
 
-## People View
+## People
 **Q: How do I find a person's profile?**
 
 A: The People view includes a filter. This feature allows you to search your entire Membership database by first name and last name. To utilize this feature, click People in the Main Menu, type the person's first and/or last name in the Type to filter results box, and click the persons name in the results. 
@@ -211,14 +220,7 @@ Q: Pastoral Visit: how do I add visitee that is not in the church body?
 
 A: 
 
-## Households
-Q: If you pull someone out of a household and they are the only member of the household, does the household get deleted?
 
-A:
-
-Q: is there any way to uncheck all the receives newsletter checkboxes at once? 
-
-A: 
 
 ## Offerings
  
