@@ -1,7 +1,4 @@
 # FAQs
-
-## Reports
-
 ##  Calendars
 Q: Can you import Google calendars into the Events? 
 
@@ -14,6 +11,9 @@ A:
 Q: Can they import these to Google Calendars or iCalendars?
 
 A:
+## Reports
+
+
 
 **Q: How do I delete a report?**
 
