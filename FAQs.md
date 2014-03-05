@@ -1,6 +1,6 @@
 # FAQs
 
-Welcome to the Frequently Asked Question portion of the help system. We have included many popular questions and would love to include more. If you would like to submit a question to be considered. Please, use the feedback tool from Church360° Members. 
+Welcome to the Frequently Asked Question portion of the help system. We have included many popular questions and would love to include additional questions. If you would like to submit a question for consideration. Please use the feedback tool in Church360° Members. We look forward to hearing from you.
 
 ## Attendance
 
