@@ -1,9 +1,12 @@
 # FAQs
+
+Please send in feedback if you have any suggestion concerning the Church360° Members. You can even send in feedback about the FAQs if you would like.
+
 ## Attendance
 
-Q: When I add attendance and check off it also checks communion. I have to go back and change  back to blank. How do I correct this
+Q: When I add attendance and check off it also checks communion. I have to go back and change  back to blank. How do I correct this?
 
-A:
+A: Currently, if you are entering Attendance for an event that serves communion. Church360° Members automatically selects Communed.  Our future plan for this feature is to have Church360° Members remember whether or not someone has communed in the past. If the person has not, Communed will not automatically be checked when Attended is checked. If the person has Communed in the past, Communed will be selected when Attended is checked.  
 ## Calendars
 Q: Can you import Google calendars into the Events? 
 
