@@ -8,15 +8,19 @@ Q: When I enter attendance and check off it also checks communion. I have to go 
 
 A: Currently, if you are entering Attendance for an event that serves communion. Church360° Members automatically selects Communed when Attended is Checked for an individual. Our future plan for this feature is to have Church360° Members remember whether or not someone has previously communed at your church. If the person has communed before, the communed will be selected when attended is checked.  If the person has not previously communed, checking attended will not automatically check Communed. 
 ## Calendars
-Q: Can you import Google calendars into the Events? 
+Q: Can you import Google calendars or iCal files into the Church360° Members? 
 
 A:
 
-Q: Can they "Subscribe" to different calendars?
+Q: Can the calendars be exported to Google Calendars or iCalendars?
 
 A:
 
-Q: Can they import these to Google Calendars or iCalendars?
+Q: Can church members "Subscribe" to different calendars?
+
+A:
+
+
 
 A:
 ## Directory
