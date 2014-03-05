@@ -1,6 +1,6 @@
 # FAQs
 
-Please send in feedback if you have any suggestion concerning the Church360° Members. You can even send in feedback about the FAQs if you would like.
+Welcome to the Frequently Asked Question portion of the help system. We have included many popular questions and would love to include more. If you would like to submit a question to be considered. Please, use the feedback tool from Church360° Members. 
 
 ## Attendance
 
