@@ -105,12 +105,12 @@ Q: Pastoral Visit: how do I add visitee that is not in the church body?
 
 A: 
 ## People
-**Q: How do I find a person's profile?**
+Q: How do I find a person's profile?
 
 A: The People view includes a filter. This feature allows you to search your entire Membership database by first name and last name. To utilize this feature, click People in the Main Menu, type the person's first and/or last name in the Type to filter results box, and click the persons name in the results. 
 
 
-**Q: Can I send an Email blast to a Smart Group of members?**
+Q: Can I send an Email blast to a Smart Group of members?
 
 A: Yes, Users can limit the number of people who receive an Email by selecting a Smart Group in the People view prior to clicking the send Email button at the bottom of the view. 
 
@@ -120,11 +120,11 @@ Once the Smart Group is selected, click All a the lower left of the People view,
 
 Please remember that a default Email client must be setup on the computer in order for these blast to go out. Examples are Outlook, Thunderbird, and Eudora. You may also use Gmail in conjustion with Google Chrome to send Email blase as well. 
 
-**Q: Can you do multiple sort, such as by ZIP, then Last Name, then First Name for bulk mailing?**
+Q: Can you do multiple sort, such as by ZIP, then Last Name, then First Name for bulk mailing?
 
 A: No, Church360° Members does not allow multiple sorts. The good news is  Church360° Members automatically sorts by the last name of the head of househled when when the Group by Household option is selected. So when you sort by Address, Church360° Members will automatically sort the people view by zip code than by the head of households last name.
 
-**Q: How do I print off the offering/pledge statements only for those who contributed?**
+Q: How do I print off the offering/pledge statements only for those who contributed?
 
 A: This task can be completed by using a Smart Group. To create the Smart Group:
 
@@ -141,7 +141,7 @@ Q: How do you change pledge amounts?
 
 A: 
 ## Profile
-**Q: How do I Enter a Marriage?**
+Q: How do I Enter a Marriage?
 
 A: In Church360° Members, family relationships are denoted on a person's profile view. To complete this task: 
 - Click People
@@ -154,32 +154,32 @@ A: In Church360° Members, family relationships are denoted on a person's profil
 
 Please note that both individuals must be entered into Church360° Members by using the New person link on the Main menu, prior to entering the marriage. Family members cannot be created on the Family tab. 
 
-**Q: I have a couple who was recently married. How do I join their Envelopes?**
+Q: I have a couple who was recently married. How do I join their Envelopes?
 
 A: To join 
 
-**Q: How do I Change someone's Status? if you accidentally enter someone as a member, can you go back and change them to a visitor?**
+Q: How do I Change someone's Status? if you accidentally enter someone as a member, can you go back and change them to a visitor?
 
-> A:
+A:
 
-> Q: How do I move someone to a new household?
+Q: How do I move someone to a new household?
 
-> A:
+A:
 
-> Q: How do i delete a person?
+Q: How do i delete a person?
 
-> A:
+A:
 
 Q: How do i mark someone as deceased? 
 
-> A: 
+A: 
 
-> Q:  How can we change household.  We have not been able to do that, it automatically chooses one and will not let us change it?
+Q:  How can we change household.  We have not been able to do that, it automatically chooses one and will not let us change it?
 
-> A:
+A:
 
 
-> Q: When you created Jill's new household the home phone number moved with her.  What will Bill's home phone number be?
+Q: When you created Jill's new household the home phone number moved with her.  What will Bill's home phone number be?
 
 A: 
 ## Reports
@@ -216,7 +216,7 @@ Q: How do I Import my Data From Shepherd's Staff?
 
 A:
 ## Trends 
-**Q: How do you get average attendance for a month, quarter, year etc...**
+Q: How do you get average attendance for a month, quarter, year etc...
 
 A: Church360° Members does provide weekly average attendance totals in the Trends view. The user controls the type of total seen by moving the light gray zoom bar up and down. Zooming out will cause the time segments to go from weeks to months to years and zooming in will make the time segments go from years to months to weeks. There are six notches on the zoom bar and each notch displays a diffent time frame.
 - The top notch shows the total number of attenders for each week over a six week time period.
@@ -228,7 +228,7 @@ A: Church360° Members does provide weekly average attendance totals in the Tren
 
 Once the desired zoom is set. The user may export or print the weekly average attendance by using the action buttons in the orange banner. 
 
-**Q: We would like a date range to show on our printed Trends report. How can we accomplish this task?**
+Q: We would like a date range to show on our printed Trends report. How can we accomplish this task?
 
 A: Currently Church360° Members does not include the data range on a Trends report. You can include the data range in the report name if you would like. To accomplish this task:
 - Go to Trends
@@ -239,6 +239,7 @@ A: Currently Church360° Members does not include the data range on a Trends rep
 - Enter new report name including the date range
 - Click Save
 - Click Print
+
 ## Tags
 
 Q: How do you assign and elder? can you belong to more than one group?
