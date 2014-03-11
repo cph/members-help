@@ -189,6 +189,16 @@ A:
 Q: When you created Jill's new household the home phone number moved with her.  What will Bill's home phone number be?
 
 A: 
+
+Q:
+### What were you trying to do?
+> Add Family Member
+### What did you expect to happen?
+> Allow me to enter a spouse who is not a member and also to see a drop down of members
+### What actually happened?
+> It seems to let me add a person who is not a member but nothing happens when I select "Add New".  There is no drop down.
+### I was at:
+
 ## Reports
 
 Q: How do I delete a report?
