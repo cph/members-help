@@ -143,6 +143,10 @@ A: This task can be completed by using a Smart Group. To create the Smart Group:
 - Click the Add Group button
 
 Once the Smart Group is completed, Click the orange hyperlink xx people, click all at the lower left or the screen and click Contribution statements. 
+
+Q: How do i move someone to a new house
+
+Q: how do i delete someone from the system
 ## Pledges
 Q: How do you change pledge amounts? 
 
