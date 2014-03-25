@@ -3,7 +3,11 @@
 Welcome to the Frequently Asked Question portion of the help system. We have included many popular questions and would love to include additional questions. If you would like to submit a question for consideration. Please use the feedback tool in Church360° Members. We look forward to hearing from you.
 
 
+Delete this line and below before pushing to production
 
+[[Offerings|Offerings]]
+
+Delete this line and above before pushing to production
 
 ## Attendance
 
