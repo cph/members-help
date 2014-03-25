@@ -2,8 +2,8 @@
 
 Welcome to the Frequently Asked Question portion of the help system. We have included many popular questions and would love to include additional questions. If you would like to submit a question for consideration. Please use the feedback tool in Church360° Members. We look forward to hearing from you.
 
-<a name="pookie"></a>
-[Update: use name= instead of id=. See Note below.]
+
+
 
 Markdown doesn't seem to mind where you put the anchor point. A useful place to put it is in a header. For example:
 
@@ -317,4 +317,5 @@ A:
 Q: Is there an church360 icon that can be shared with users to place on desktops to link directly to our log in?
 tith
 pookie
+<a name="tith"></a>
 A:
