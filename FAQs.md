@@ -5,7 +5,7 @@ Welcome to the Frequently Asked Question portion of the help system. We have inc
 
 Take me to [pookie](#pookie)
 
-<a name="pookie"></a>
+
 
 ## Attendance
 
@@ -313,5 +313,5 @@ A:
 
 
 Q: Is there an church360 icon that can be shared with users to place on desktops to link directly to our log in?
-
+<a name="pookie"></a>
 A:
